@@ -1,0 +1,2998 @@
+[
+  {
+    "id": "ch10-rocuronium",
+    "chapter": 10,
+    "name": "Rocuronium",
+    "nameKo": "로쿠로늄",
+    "drugClass": "비탈분극성 신경근 차단제",
+    "moa": "신경근 접합부의 NM 수용체에서 ACh와 경쟁하여 신경근 전달을 차단한다.",
+    "uses": "수술 중 골격근 이완을 위한 신경근 차단에 사용한다.",
+    "caution": "신경근 차단 자체는 의식 소실이나 진통을 일으키지 않는다.",
+    "source": {
+      "fileId": "source-1",
+      "pages": [
+        2,
+        3,
+        4
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "다음 중 aminosteroid 계열 비탈분극성 신경근 차단제로, sugammadex가 포접하여 역전시키는 약물은?",
+        "choices": [
+          "Rocuronium",
+          "Succinylcholine",
+          "Dantrolene",
+          "Baclofen"
+        ],
+        "answer": 0,
+        "explanation": "Rocuronium: 신경근 접합부의 NM 수용체에서 ACh와 경쟁하여 신경근 전달을 차단한다. 수술 중 골격근 이완을 위한 신경근 차단에 사용한다.",
+        "sourcePages": [
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Rocuronium의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "골격근 근소포체 RyR1을 직접 차단하여 Ca2+ 유리를 줄인다.",
+          "신경근 접합부의 NM 수용체에서 ACh와 경쟁하여 신경근 전달을 차단한다.",
+          "GABAA의 benzodiazepine 부위에서 Cl− 채널 개방 빈도를 높인다.",
+          "AChE를 억제하여 시냅스 간극의 ACh 농도를 높인다."
+        ],
+        "answer": 1,
+        "explanation": "Rocuronium: 신경근 접합부의 NM 수용체에서 ACh와 경쟁하여 신경근 전달을 차단한다.",
+        "sourcePages": [
+          3
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Rocuronium과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "항BAFF 항체로서 전신홍반루푸스의 B세포 생존 신호를 억제한다.",
+          "BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다.",
+          "수술 중 골격근 이완을 위한 신경근 차단에 사용한다.",
+          "멜라토닌 수용체 작용제로서 non-24 수면각성장애에 사용한다."
+        ],
+        "answer": 2,
+        "explanation": "Rocuronium: 수술 중 골격근 이완을 위한 신경근 차단에 사용한다. 기전은 다음과 같습니다. 신경근 접합부의 NM 수용체에서 ACh와 경쟁하여 신경근 전달을 차단한다.",
+        "sourcePages": [
+          2,
+          3
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Rocuronium의 주된 기전: 신경근 접합부의 NM 수용체에서 ACh와 경쟁하여 신경근 전달을 차단한다.",
+      "b": "Rocuronium의 용도: 수술 중 골격근 이완을 위한 신경근 차단에 사용한다.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 맞습니다. 신경근 접합부의 NM 수용체에서 ACh와 경쟁하여 신경근 전달을 차단한다. B는 맞습니다. 수술 중 골격근 이완을 위한 신경근 차단에 사용한다.",
+      "sourcePages": [
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "id": "ch10-atracurium",
+    "chapter": 10,
+    "name": "Atracurium",
+    "nameKo": "아트라쿠륨",
+    "drugClass": "비탈분극성 신경근 차단제",
+    "moa": "NM 수용체에서 ACh와 경쟁하여 골격근의 탈분극을 억제한다.",
+    "uses": "수술에서 골격근 이완을 위한 신경근 차단에 사용한다.",
+    "caution": "Hofmann 분해로 소실되는 특징이 자료에 정리되어 있다.",
+    "source": {
+      "fileId": "source-1",
+      "pages": [
+        2,
+        3,
+        4
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "다음 중 benzylisoquinolinium 계열이며 Hofmann 분해로 소실되는 비탈분극성 신경근 차단제는?",
+        "choices": [
+          "Pancuronium",
+          "Atracurium",
+          "Rocuronium",
+          "Succinylcholine"
+        ],
+        "answer": 1,
+        "explanation": "Atracurium: NM 수용체에서 ACh와 경쟁하여 골격근의 탈분극을 억제한다. 수술에서 골격근 이완을 위한 신경근 차단에 사용한다.",
+        "sourcePages": [
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Atracurium의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "GABAB 수용체를 활성화하여 척수 신경의 과흥분을 줄인다.",
+          "골격근 근소포체 RyR1을 직접 차단하여 Ca2+ 유리를 줄인다.",
+          "NM 수용체에서 ACh와 경쟁하여 골격근의 탈분극을 억제한다.",
+          "AChE를 억제하여 시냅스 간극의 ACh 농도를 높인다."
+        ],
+        "answer": 2,
+        "explanation": "Atracurium: NM 수용체에서 ACh와 경쟁하여 골격근의 탈분극을 억제한다.",
+        "sourcePages": [
+          3
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Atracurium과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다.",
+          "항BAFF 항체로서 전신홍반루푸스의 B세포 생존 신호를 억제한다.",
+          "멜라토닌 수용체 작용제로서 non-24 수면각성장애에 사용한다.",
+          "수술에서 골격근 이완을 위한 신경근 차단에 사용한다."
+        ],
+        "answer": 3,
+        "explanation": "Atracurium: 수술에서 골격근 이완을 위한 신경근 차단에 사용한다. 기전은 다음과 같습니다. NM 수용체에서 ACh와 경쟁하여 골격근의 탈분극을 억제한다.",
+        "sourcePages": [
+          2,
+          3
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Atracurium의 주된 기전: NM 수용체에서 ACh와 경쟁하여 골격근의 탈분극을 억제한다.",
+      "b": "Atracurium의 용도: BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 맞습니다. NM 수용체에서 ACh와 경쟁하여 골격근의 탈분극을 억제한다. B는 틀립니다. 자료에 제시된 용도: 수술에서 골격근 이완을 위한 신경근 차단에 사용한다.",
+      "sourcePages": [
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "id": "ch10-neostigmine",
+    "chapter": 10,
+    "name": "Neostigmine",
+    "nameKo": "네오스티그민",
+    "drugClass": "아세틸콜린에스테라아제 억제제",
+    "moa": "AChE를 억제하여 시냅스의 ACh를 늘리고 경쟁적 신경근 차단을 역전한다.",
+    "uses": "비탈분극성 신경근 차단제의 효과를 역전하는 데 사용한다.",
+    "caution": "늘어난 ACh의 무스카린 작용을 억제하기 위해 atropine 또는 glycopyrrolate가 병용된다.",
+    "source": {
+      "fileId": "source-1",
+      "pages": [
+        3,
+        4
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "근이완 역전제 중 AChE를 억제하며, 무스카린 효과를 줄이기 위해 atropine 또는 glycopyrrolate를 병용하는 약물은?",
+        "choices": [
+          "Sugammadex",
+          "Succinylcholine",
+          "Neostigmine",
+          "Dantrolene"
+        ],
+        "answer": 2,
+        "explanation": "Neostigmine: AChE를 억제하여 시냅스의 ACh를 늘리고 경쟁적 신경근 차단을 역전한다. 비탈분극성 신경근 차단제의 효과를 역전하는 데 사용한다.",
+        "sourcePages": [
+          3,
+          4
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Neostigmine의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "골격근 근소포체 RyR1을 직접 차단하여 Ca2+ 유리를 줄인다.",
+          "GABAA의 benzodiazepine 부위에서 Cl− 채널 개방 빈도를 높인다.",
+          "5-HT1A 수용체의 부분작용제로 작용한다.",
+          "AChE를 억제하여 시냅스의 ACh를 늘리고 경쟁적 신경근 차단을 역전한다."
+        ],
+        "answer": 3,
+        "explanation": "Neostigmine: AChE를 억제하여 시냅스의 ACh를 늘리고 경쟁적 신경근 차단을 역전한다.",
+        "sourcePages": [
+          3,
+          4
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Neostigmine과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "비탈분극성 신경근 차단제의 효과를 역전하는 데 사용한다.",
+          "Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다.",
+          "BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다.",
+          "RyR1 직접 차단제로서 악성고열의 근육 Ca2+ 유리를 억제한다."
+        ],
+        "answer": 0,
+        "explanation": "Neostigmine: 비탈분극성 신경근 차단제의 효과를 역전하는 데 사용한다. 기전은 다음과 같습니다. AChE를 억제하여 시냅스의 ACh를 늘리고 경쟁적 신경근 차단을 역전한다.",
+        "sourcePages": [
+          4
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Neostigmine의 주된 기전: 골격근 근소포체 RyR1을 직접 차단하여 Ca2+ 유리를 줄인다.",
+      "b": "Neostigmine의 용도: 비탈분극성 신경근 차단제의 효과를 역전하는 데 사용한다.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀립니다. 올바른 기전: AChE를 억제하여 시냅스의 ACh를 늘리고 경쟁적 신경근 차단을 역전한다. B는 맞습니다. 비탈분극성 신경근 차단제의 효과를 역전하는 데 사용한다.",
+      "sourcePages": [
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "id": "ch10-sugammadex",
+    "chapter": 10,
+    "name": "Sugammadex",
+    "nameKo": "수가마덱스",
+    "drugClass": "선택적 근이완제 결합제",
+    "moa": "고리 모양의 γ-cyclodextrin으로 rocuronium·vecuronium을 감싸 포접복합체를 형성한다.",
+    "uses": "Rocuronium·vecuronium에 의한 신경근 차단의 역전에 사용한다.",
+    "caution": "Benzylisoquinolinium 계열 차단제를 역전시키는 기전은 아니다.",
+    "source": {
+      "fileId": "source-1",
+      "pages": [
+        4
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "γ-Cyclodextrin 구조로 aminosteroid 근이완제를 감싸 포접복합체를 만드는 역전제는?",
+        "choices": [
+          "Neostigmine",
+          "Flumazenil",
+          "Botulinum toxin",
+          "Sugammadex"
+        ],
+        "answer": 3,
+        "explanation": "Sugammadex: 고리 모양의 γ-cyclodextrin으로 rocuronium·vecuronium을 감싸 포접복합체를 형성한다. Rocuronium·vecuronium에 의한 신경근 차단의 역전에 사용한다.",
+        "sourcePages": [
+          4
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Sugammadex의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "고리 모양의 γ-cyclodextrin으로 rocuronium·vecuronium을 감싸 포접복합체를 형성한다.",
+          "AChE를 억제하여 시냅스 간극의 ACh 농도를 높인다.",
+          "골격근 근소포체 RyR1을 직접 차단하여 Ca2+ 유리를 줄인다.",
+          "GABAA의 benzodiazepine 부위에서 Cl− 채널 개방 빈도를 높인다."
+        ],
+        "answer": 0,
+        "explanation": "Sugammadex: 고리 모양의 γ-cyclodextrin으로 rocuronium·vecuronium을 감싸 포접복합체를 형성한다.",
+        "sourcePages": [
+          4
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Sugammadex과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다.",
+          "Rocuronium·vecuronium에 의한 신경근 차단의 역전에 사용한다.",
+          "항BAFF 항체로서 전신홍반루푸스의 B세포 생존 신호를 억제한다.",
+          "멜라토닌 수용체 작용제로서 non-24 수면각성장애에 사용한다."
+        ],
+        "answer": 1,
+        "explanation": "Sugammadex: Rocuronium·vecuronium에 의한 신경근 차단의 역전에 사용한다. 기전은 다음과 같습니다. 고리 모양의 γ-cyclodextrin으로 rocuronium·vecuronium을 감싸 포접복합체를 형성한다.",
+        "sourcePages": [
+          4
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Sugammadex의 주된 기전: AChE를 억제하여 시냅스 간극의 ACh 농도를 높인다.",
+      "b": "Sugammadex의 용도: BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀립니다. 올바른 기전: 고리 모양의 γ-cyclodextrin으로 rocuronium·vecuronium을 감싸 포접복합체를 형성한다. B는 틀립니다. 자료에 제시된 용도: Rocuronium·vecuronium에 의한 신경근 차단의 역전에 사용한다.",
+      "sourcePages": [
+        4
+      ]
+    }
+  },
+  {
+    "id": "ch10-succinylcholine",
+    "chapter": 10,
+    "name": "Succinylcholine",
+    "nameKo": "석시닐콜린",
+    "drugClass": "탈분극성 신경근 차단제",
+    "moa": "NM 수용체를 활성화해 지속적 탈분극을 만들고, 제1상에서 Na+ 채널을 불활성화한다.",
+    "uses": "기관 삽관과 전기경련요법(ECT) 중 근수축에 의한 외상 방지에 사용한다.",
+    "caution": "고칼륨혈증·악성고열 및 cholinesterase 이상에 따른 지속 무호흡이 학습 포인트이다.",
+    "source": {
+      "fileId": "source-1",
+      "pages": [
+        5
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "빠른 탈분극성 신경근 차단을 일으키며 초기 근섬유다발수축 뒤 이완성 마비가 나타나는 약물은?",
+        "choices": [
+          "Succinylcholine",
+          "Rocuronium",
+          "Sugammadex",
+          "Tizanidine"
+        ],
+        "answer": 0,
+        "explanation": "Succinylcholine: NM 수용체를 활성화해 지속적 탈분극을 만들고, 제1상에서 Na+ 채널을 불활성화한다. 기관 삽관과 전기경련요법(ECT) 중 근수축에 의한 외상 방지에 사용한다.",
+        "sourcePages": [
+          5
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Succinylcholine의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "NM 수용체에서 ACh와 경쟁적으로 결합하여 신경근 전달을 차단한다.",
+          "NM 수용체를 활성화해 지속적 탈분극을 만들고, 제1상에서 Na+ 채널을 불활성화한다.",
+          "골격근 근소포체 RyR1을 직접 차단하여 Ca2+ 유리를 줄인다.",
+          "GABAB 수용체를 활성화하여 척수 신경의 과흥분을 줄인다."
+        ],
+        "answer": 1,
+        "explanation": "Succinylcholine: NM 수용체를 활성화해 지속적 탈분극을 만들고, 제1상에서 Na+ 채널을 불활성화한다.",
+        "sourcePages": [
+          5
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Succinylcholine과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다.",
+          "BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다.",
+          "기관 삽관과 전기경련요법(ECT) 중 근수축에 의한 외상 방지에 사용한다.",
+          "RyR1 직접 차단제로서 악성고열의 근육 Ca2+ 유리를 억제한다."
+        ],
+        "answer": 2,
+        "explanation": "Succinylcholine: 기관 삽관과 전기경련요법(ECT) 중 근수축에 의한 외상 방지에 사용한다. 기전은 다음과 같습니다. NM 수용체를 활성화해 지속적 탈분극을 만들고, 제1상에서 Na+ 채널을 불활성화한다.",
+        "sourcePages": [
+          5
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Succinylcholine의 주된 기전: NM 수용체를 활성화해 지속적 탈분극을 만들고, 제1상에서 Na+ 채널을 불활성화한다.",
+      "b": "Succinylcholine의 용도: 기관 삽관과 전기경련요법(ECT) 중 근수축에 의한 외상 방지에 사용한다.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 맞습니다. NM 수용체를 활성화해 지속적 탈분극을 만들고, 제1상에서 Na+ 채널을 불활성화한다. B는 맞습니다. 기관 삽관과 전기경련요법(ECT) 중 근수축에 의한 외상 방지에 사용한다.",
+      "sourcePages": [
+        5
+      ]
+    }
+  },
+  {
+    "id": "ch10-baclofen",
+    "chapter": 10,
+    "name": "Baclofen",
+    "nameKo": "바클로펜",
+    "drugClass": "중추작용 진경약",
+    "moa": "척수 GABAB 수용체를 자극하여 시냅스전 Ca2+ 유입을 줄이고 시냅스후 K+ 채널을 연다.",
+    "uses": "경직 완화에 사용하며, 자료에는 딸꾹질에 대한 용도도 제시되어 있다.",
+    "caution": "신장 배설 및 축적에 따른 신경독성이 학습 포인트이다.",
+    "source": {
+      "fileId": "source-1",
+      "pages": [
+        6
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "GABAB 작용제로 경직을 완화하며, 자료에 딸꾹질의 용도도 함께 정리된 약물은?",
+        "choices": [
+          "Diazepam",
+          "Baclofen",
+          "Tizanidine",
+          "Dantrolene"
+        ],
+        "answer": 1,
+        "explanation": "Baclofen: 척수 GABAB 수용체를 자극하여 시냅스전 Ca2+ 유입을 줄이고 시냅스후 K+ 채널을 연다. 경직 완화에 사용하며, 자료에는 딸꾹질에 대한 용도도 제시되어 있다.",
+        "sourcePages": [
+          6
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Baclofen의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "GABAA의 benzodiazepine 부위에서 Cl− 채널 개방 빈도를 높인다.",
+          "골격근 근소포체 RyR1을 직접 차단하여 Ca2+ 유리를 줄인다.",
+          "척수 GABAB 수용체를 자극하여 시냅스전 Ca2+ 유입을 줄이고 시냅스후 K+ 채널을 연다.",
+          "NM 수용체에서 ACh와 경쟁적으로 결합하여 신경근 전달을 차단한다."
+        ],
+        "answer": 2,
+        "explanation": "Baclofen: 척수 GABAB 수용체를 자극하여 시냅스전 Ca2+ 유입을 줄이고 시냅스후 K+ 채널을 연다.",
+        "sourcePages": [
+          6
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Baclofen과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다.",
+          "BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다.",
+          "RyR1 직접 차단제로서 악성고열의 근육 Ca2+ 유리를 억제한다.",
+          "경직 완화에 사용하며, 자료에는 딸꾹질에 대한 용도도 제시되어 있다."
+        ],
+        "answer": 3,
+        "explanation": "Baclofen: 경직 완화에 사용하며, 자료에는 딸꾹질에 대한 용도도 제시되어 있다. 기전은 다음과 같습니다. 척수 GABAB 수용체를 자극하여 시냅스전 Ca2+ 유입을 줄이고 시냅스후 K+ 채널을 연다.",
+        "sourcePages": [
+          6
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Baclofen의 주된 기전: 척수 GABAB 수용체를 자극하여 시냅스전 Ca2+ 유입을 줄이고 시냅스후 K+ 채널을 연다.",
+      "b": "Baclofen의 용도: Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 맞습니다. 척수 GABAB 수용체를 자극하여 시냅스전 Ca2+ 유입을 줄이고 시냅스후 K+ 채널을 연다. B는 틀립니다. 자료에 제시된 용도: 경직 완화에 사용하며, 자료에는 딸꾹질에 대한 용도도 제시되어 있다.",
+      "sourcePages": [
+        6
+      ]
+    }
+  },
+  {
+    "id": "ch10-tizanidine",
+    "chapter": 10,
+    "name": "Tizanidine",
+    "nameKo": "티자니딘",
+    "drugClass": "중추 α2 작용 진경약",
+    "moa": "중추 α2 수용체를 자극하여 시냅스전 흥분성 아미노산 유리를 감소시킨다.",
+    "uses": "중추작용 진경약으로 근이완과 경직 완화에 사용한다.",
+    "caution": "자료에는 저혈압과 긴 QT 증후군이 관련 특징으로 제시되어 있다.",
+    "source": {
+      "fileId": "source-1",
+      "pages": [
+        6
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "Clonidine과 유사하게 중추 α2 수용체를 자극하는 근이완 약물은?",
+        "choices": [
+          "Baclofen",
+          "Dantrolene",
+          "Tizanidine",
+          "Neostigmine"
+        ],
+        "answer": 2,
+        "explanation": "Tizanidine: 중추 α2 수용체를 자극하여 시냅스전 흥분성 아미노산 유리를 감소시킨다. 중추작용 진경약으로 근이완과 경직 완화에 사용한다.",
+        "sourcePages": [
+          6
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Tizanidine의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "GABAB 수용체를 활성화하여 척수 신경의 과흥분을 줄인다.",
+          "골격근 근소포체 RyR1을 직접 차단하여 Ca2+ 유리를 줄인다.",
+          "AChE를 억제하여 시냅스 간극의 ACh 농도를 높인다.",
+          "중추 α2 수용체를 자극하여 시냅스전 흥분성 아미노산 유리를 감소시킨다."
+        ],
+        "answer": 3,
+        "explanation": "Tizanidine: 중추 α2 수용체를 자극하여 시냅스전 흥분성 아미노산 유리를 감소시킨다.",
+        "sourcePages": [
+          6
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Tizanidine과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "중추작용 진경약으로 근이완과 경직 완화에 사용한다.",
+          "Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다.",
+          "BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다.",
+          "RyR1 직접 차단제로서 악성고열의 근육 Ca2+ 유리를 억제한다."
+        ],
+        "answer": 0,
+        "explanation": "Tizanidine: 중추작용 진경약으로 근이완과 경직 완화에 사용한다. 기전은 다음과 같습니다. 중추 α2 수용체를 자극하여 시냅스전 흥분성 아미노산 유리를 감소시킨다.",
+        "sourcePages": [
+          6
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Tizanidine의 주된 기전: GABAB 수용체를 활성화하여 척수 신경의 과흥분을 줄인다.",
+      "b": "Tizanidine의 용도: 중추작용 진경약으로 근이완과 경직 완화에 사용한다.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀립니다. 올바른 기전: 중추 α2 수용체를 자극하여 시냅스전 흥분성 아미노산 유리를 감소시킨다. B는 맞습니다. 중추작용 진경약으로 근이완과 경직 완화에 사용한다.",
+      "sourcePages": [
+        6
+      ]
+    }
+  },
+  {
+    "id": "ch10-dantrolene",
+    "chapter": 10,
+    "name": "Dantrolene",
+    "nameKo": "단트롤렌",
+    "drugClass": "직접작용 근이완제",
+    "moa": "골격근 근소포체의 RyR1을 차단하여 Ca2+ 유리를 줄인다.",
+    "uses": "악성고열(MH)에 사용하며, 자료에는 신경이완제악성증후군(NMS)도 제시되어 있다.",
+    "caution": "무력증과 간독성이 자료에 제시된 이상반응이다.",
+    "source": {
+      "fileId": "source-1",
+      "pages": [
+        7
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "신경근 접합부 대신 골격근 RyR1을 표적으로 하며 악성고열과 연결되는 약물은?",
+        "choices": [
+          "Baclofen",
+          "Rocuronium",
+          "Sugammadex",
+          "Dantrolene"
+        ],
+        "answer": 3,
+        "explanation": "Dantrolene: 골격근 근소포체의 RyR1을 차단하여 Ca2+ 유리를 줄인다. 악성고열(MH)에 사용하며, 자료에는 신경이완제악성증후군(NMS)도 제시되어 있다.",
+        "sourcePages": [
+          7
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Dantrolene의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "골격근 근소포체의 RyR1을 차단하여 Ca2+ 유리를 줄인다.",
+          "AChE를 억제하여 시냅스 간극의 ACh 농도를 높인다.",
+          "GABAB 수용체를 활성화하여 척수 신경의 과흥분을 줄인다.",
+          "NM 수용체에서 ACh와 경쟁적으로 결합하여 신경근 전달을 차단한다."
+        ],
+        "answer": 0,
+        "explanation": "Dantrolene: 골격근 근소포체의 RyR1을 차단하여 Ca2+ 유리를 줄인다.",
+        "sourcePages": [
+          7
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Dantrolene과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다.",
+          "악성고열(MH)에 사용하며, 자료에는 신경이완제악성증후군(NMS)도 제시되어 있다.",
+          "Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다.",
+          "항BAFF 항체로서 전신홍반루푸스의 B세포 생존 신호를 억제한다."
+        ],
+        "answer": 1,
+        "explanation": "Dantrolene: 악성고열(MH)에 사용하며, 자료에는 신경이완제악성증후군(NMS)도 제시되어 있다. 기전은 다음과 같습니다. 골격근 근소포체의 RyR1을 차단하여 Ca2+ 유리를 줄인다.",
+        "sourcePages": [
+          7
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Dantrolene의 주된 기전: AChE를 억제하여 시냅스 간극의 ACh 농도를 높인다.",
+      "b": "Dantrolene의 용도: BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀립니다. 올바른 기전: 골격근 근소포체의 RyR1을 차단하여 Ca2+ 유리를 줄인다. B는 틀립니다. 자료에 제시된 용도: 악성고열(MH)에 사용하며, 자료에는 신경이완제악성증후군(NMS)도 제시되어 있다.",
+      "sourcePages": [
+        7
+      ]
+    }
+  },
+  {
+    "id": "ch10-botulinum",
+    "chapter": 10,
+    "name": "Botulinum toxin",
+    "nameKo": "보툴리눔 독소",
+    "drugClass": "말초 ACh 유리 억제제",
+    "moa": "SNARE 단백질을 절단하여 ACh 소포의 막 융합과 ACh 유리를 차단한다.",
+    "uses": "안검경련·국소 경직 및 다한증 등의 치료와 얼굴 주름 개선에 사용한다.",
+    "caution": "신경말단에서 ACh 유리를 억제하는 국소 작용이 핵심이다.",
+    "source": {
+      "fileId": "source-1",
+      "pages": [
+        8
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "SNARE 단백질을 절단해 ACh 소포의 융합을 막으며 안검경련·다한증에 쓰이는 약물은?",
+        "choices": [
+          "Botulinum toxin",
+          "Dantrolene",
+          "Neostigmine",
+          "Succinylcholine"
+        ],
+        "answer": 0,
+        "explanation": "Botulinum toxin: SNARE 단백질을 절단하여 ACh 소포의 막 융합과 ACh 유리를 차단한다. 안검경련·국소 경직 및 다한증 등의 치료와 얼굴 주름 개선에 사용한다.",
+        "sourcePages": [
+          8
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Botulinum toxin의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "AChE를 억제하여 시냅스 간극의 ACh 농도를 높인다.",
+          "SNARE 단백질을 절단하여 ACh 소포의 막 융합과 ACh 유리를 차단한다.",
+          "NM 수용체에서 ACh와 경쟁적으로 결합하여 신경근 전달을 차단한다.",
+          "골격근 근소포체 RyR1을 직접 차단하여 Ca2+ 유리를 줄인다."
+        ],
+        "answer": 1,
+        "explanation": "Botulinum toxin: SNARE 단백질을 절단하여 ACh 소포의 막 융합과 ACh 유리를 차단한다.",
+        "sourcePages": [
+          8
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Botulinum toxin과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "H3 역작용제로서 기면증에서 각성을 촉진한다.",
+          "BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다.",
+          "안검경련·국소 경직 및 다한증 등의 치료와 얼굴 주름 개선에 사용한다.",
+          "Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다."
+        ],
+        "answer": 2,
+        "explanation": "Botulinum toxin: 안검경련·국소 경직 및 다한증 등의 치료와 얼굴 주름 개선에 사용한다. 기전은 다음과 같습니다. SNARE 단백질을 절단하여 ACh 소포의 막 융합과 ACh 유리를 차단한다.",
+        "sourcePages": [
+          8
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Botulinum toxin의 주된 기전: SNARE 단백질을 절단하여 ACh 소포의 막 융합과 ACh 유리를 차단한다.",
+      "b": "Botulinum toxin의 용도: 안검경련·국소 경직 및 다한증 등의 치료와 얼굴 주름 개선에 사용한다.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 맞습니다. SNARE 단백질을 절단하여 ACh 소포의 막 융합과 ACh 유리를 차단한다. B는 맞습니다. 안검경련·국소 경직 및 다한증 등의 치료와 얼굴 주름 개선에 사용한다.",
+      "sourcePages": [
+        8
+      ]
+    }
+  },
+  {
+    "id": "ch11-lidocaine",
+    "chapter": 11,
+    "name": "Lidocaine",
+    "nameKo": "리도카인",
+    "drugClass": "Amide형 국소마취제",
+    "moa": "비이온형으로 신경막을 통과한 뒤, 세포 내 이온형이 전압의존성 Na+ 채널 내부를 차단한다.",
+    "uses": "국소마취에 사용하며, 심실부정맥도 자료에 제시된 다른 용도이다.",
+    "caution": "국소마취제의 전신 독성에는 CNS 독성과 심장 전도 억제가 포함된다.",
+    "source": {
+      "fileId": "source-1",
+      "pages": [
+        10,
+        11,
+        12
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "다음 중 amide형 국소마취제이며, 자료에 심실부정맥의 용도가 함께 제시된 약물은?",
+        "choices": [
+          "Procaine",
+          "Lidocaine",
+          "Baclofen",
+          "Ramelteon"
+        ],
+        "answer": 1,
+        "explanation": "Lidocaine: 비이온형으로 신경막을 통과한 뒤, 세포 내 이온형이 전압의존성 Na+ 채널 내부를 차단한다. 국소마취에 사용하며, 심실부정맥도 자료에 제시된 다른 용도이다.",
+        "sourcePages": [
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Lidocaine의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "GABAA의 benzodiazepine 부위에서 Cl− 채널 개방 빈도를 높인다.",
+          "GABAB 수용체를 활성화하여 척수 신경의 과흥분을 줄인다.",
+          "비이온형으로 신경막을 통과한 뒤, 세포 내 이온형이 전압의존성 Na+ 채널 내부를 차단한다.",
+          "B세포 생존 인자 BAFF를 단클론항체로 중화한다."
+        ],
+        "answer": 2,
+        "explanation": "Lidocaine: 비이온형으로 신경막을 통과한 뒤, 세포 내 이온형이 전압의존성 Na+ 채널 내부를 차단한다.",
+        "sourcePages": [
+          11
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Lidocaine과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "항BAFF 항체로서 전신홍반루푸스의 B세포 생존 신호를 억제한다.",
+          "멜라토닌 수용체 작용제로서 non-24 수면각성장애에 사용한다.",
+          "BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다.",
+          "국소마취에 사용하며, 심실부정맥도 자료에 제시된 다른 용도이다."
+        ],
+        "answer": 3,
+        "explanation": "Lidocaine: 국소마취에 사용하며, 심실부정맥도 자료에 제시된 다른 용도이다. 기전은 다음과 같습니다. 비이온형으로 신경막을 통과한 뒤, 세포 내 이온형이 전압의존성 Na+ 채널 내부를 차단한다.",
+        "sourcePages": [
+          10
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Lidocaine의 주된 기전: 비이온형으로 신경막을 통과한 뒤, 세포 내 이온형이 전압의존성 Na+ 채널 내부를 차단한다.",
+      "b": "Lidocaine의 용도: 항BAFF 항체로서 전신홍반루푸스의 B세포 생존 신호를 억제한다.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 맞습니다. 비이온형으로 신경막을 통과한 뒤, 세포 내 이온형이 전압의존성 Na+ 채널 내부를 차단한다. B는 틀립니다. 자료에 제시된 용도: 국소마취에 사용하며, 심실부정맥도 자료에 제시된 다른 용도이다.",
+      "sourcePages": [
+        10,
+        11,
+        12
+      ]
+    }
+  },
+  {
+    "id": "ch11-bupivacaine",
+    "chapter": 11,
+    "name": "Bupivacaine",
+    "nameKo": "부피바카인",
+    "drugClass": "장시간 amide형 국소마취제",
+    "moa": "전압의존성 Na+ 채널을 세포 안쪽에서 차단하여 신경 활동전위 전도를 억제한다.",
+    "uses": "장시간 국소마취에 사용하며, 자료에는 산과의 경막외마취가 제시되어 있다.",
+    "caution": "심근 Na+ 채널에서의 느린 해리와 심장독성이 학습 포인트이다.",
+    "source": {
+      "fileId": "source-1",
+      "pages": [
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "다음 중 장시간 작용 amide형 국소마취제이며 산과 경막외마취 및 심장독성과 연결된 약물은?",
+        "choices": [
+          "Procaine",
+          "Sugammadex",
+          "Bupivacaine",
+          "Flumazenil"
+        ],
+        "answer": 2,
+        "explanation": "Bupivacaine: 전압의존성 Na+ 채널을 세포 안쪽에서 차단하여 신경 활동전위 전도를 억제한다. 장시간 국소마취에 사용하며, 자료에는 산과의 경막외마취가 제시되어 있다.",
+        "sourcePages": [
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Bupivacaine의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "GABAA의 benzodiazepine 부위에서 Cl− 채널 개방 빈도를 높인다.",
+          "히스타민 H3 자가수용체를 길항하여 히스타민 유리를 늘린다.",
+          "B세포 생존 인자 BAFF를 단클론항체로 중화한다.",
+          "전압의존성 Na+ 채널을 세포 안쪽에서 차단하여 신경 활동전위 전도를 억제한다."
+        ],
+        "answer": 3,
+        "explanation": "Bupivacaine: 전압의존성 Na+ 채널을 세포 안쪽에서 차단하여 신경 활동전위 전도를 억제한다.",
+        "sourcePages": [
+          11,
+          12
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Bupivacaine과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "장시간 국소마취에 사용하며, 자료에는 산과의 경막외마취가 제시되어 있다.",
+          "RyR1 직접 차단제로서 악성고열의 근육 Ca2+ 유리를 억제한다.",
+          "Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다.",
+          "BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다."
+        ],
+        "answer": 0,
+        "explanation": "Bupivacaine: 장시간 국소마취에 사용하며, 자료에는 산과의 경막외마취가 제시되어 있다. 기전은 다음과 같습니다. 전압의존성 Na+ 채널을 세포 안쪽에서 차단하여 신경 활동전위 전도를 억제한다.",
+        "sourcePages": [
+          9,
+          12
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Bupivacaine의 주된 기전: GABAA의 benzodiazepine 부위에서 Cl− 채널 개방 빈도를 높인다.",
+      "b": "Bupivacaine의 용도: 장시간 국소마취에 사용하며, 자료에는 산과의 경막외마취가 제시되어 있다.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀립니다. 올바른 기전: 전압의존성 Na+ 채널을 세포 안쪽에서 차단하여 신경 활동전위 전도를 억제한다. B는 맞습니다. 장시간 국소마취에 사용하며, 자료에는 산과의 경막외마취가 제시되어 있다.",
+      "sourcePages": [
+        9,
+        10,
+        11,
+        12
+      ]
+    }
+  },
+  {
+    "id": "ch11-procaine",
+    "chapter": 11,
+    "name": "Procaine",
+    "nameKo": "프로카인",
+    "drugClass": "Ester형 국소마취제",
+    "moa": "전압의존성 Na+ 채널을 차단하여 신경 활동전위의 발생과 전도를 억제한다.",
+    "uses": "의식 소실 없이 국소 통증 감각을 가역적으로 차단하는 국소마취에 사용한다.",
+    "caution": "Ester형의 혈장 cholinesterase 대사와 PABA 관련 알레르기가 학습 포인트이다.",
+    "source": {
+      "fileId": "source-1",
+      "pages": [
+        10,
+        11,
+        12
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "다음 중 ester형 국소마취제로 분류되는 약물은?",
+        "choices": [
+          "Lidocaine",
+          "Bupivacaine",
+          "Ropivacaine",
+          "Procaine"
+        ],
+        "answer": 3,
+        "explanation": "Procaine: 전압의존성 Na+ 채널을 차단하여 신경 활동전위의 발생과 전도를 억제한다. 의식 소실 없이 국소 통증 감각을 가역적으로 차단하는 국소마취에 사용한다.",
+        "sourcePages": [
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Procaine의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "전압의존성 Na+ 채널을 차단하여 신경 활동전위의 발생과 전도를 억제한다.",
+          "AChE를 억제하여 시냅스 간극의 ACh 농도를 높인다.",
+          "NM 수용체에서 ACh와 경쟁적으로 결합하여 신경근 전달을 차단한다.",
+          "Orexin OX1·OX2 수용체를 길항하여 각성 신호를 낮춘다."
+        ],
+        "answer": 0,
+        "explanation": "Procaine: 전압의존성 Na+ 채널을 차단하여 신경 활동전위의 발생과 전도를 억제한다.",
+        "sourcePages": [
+          11
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Procaine과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "항BAFF 항체로서 전신홍반루푸스의 B세포 생존 신호를 억제한다.",
+          "의식 소실 없이 국소 통증 감각을 가역적으로 차단하는 국소마취에 사용한다.",
+          "RyR1 직접 차단제로서 악성고열의 근육 Ca2+ 유리를 억제한다.",
+          "BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다."
+        ],
+        "answer": 1,
+        "explanation": "Procaine: 의식 소실 없이 국소 통증 감각을 가역적으로 차단하는 국소마취에 사용한다. 기전은 다음과 같습니다. 전압의존성 Na+ 채널을 차단하여 신경 활동전위의 발생과 전도를 억제한다.",
+        "sourcePages": [
+          10
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Procaine의 주된 기전: AChE를 억제하여 시냅스 간극의 ACh 농도를 높인다.",
+      "b": "Procaine의 용도: 항BAFF 항체로서 전신홍반루푸스의 B세포 생존 신호를 억제한다.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀립니다. 올바른 기전: 전압의존성 Na+ 채널을 차단하여 신경 활동전위의 발생과 전도를 억제한다. B는 틀립니다. 자료에 제시된 용도: 의식 소실 없이 국소 통증 감각을 가역적으로 차단하는 국소마취에 사용한다.",
+      "sourcePages": [
+        10,
+        11,
+        12
+      ]
+    }
+  },
+  {
+    "id": "ch11-emla",
+    "chapter": 11,
+    "name": "EMLA (lidocaine + prilocaine)",
+    "nameKo": "엠라",
+    "drugClass": "국소마취제 공융혼합물",
+    "moa": "Lidocaine과 prilocaine이 전압의존성 Na+ 채널을 차단하여 감각 신경 전도를 억제한다.",
+    "uses": "바늘 삽입·피부이식·피부 레이저 시술 전 통증 예방을 위한 표면마취에 사용한다.",
+    "caution": "두 amide형 국소마취제의 혼합 제제이다.",
+    "source": {
+      "fileId": "source-1",
+      "pages": [
+        10,
+        11
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "Lidocaine과 prilocaine의 공융혼합물로, 피부 시술 전 표면마취에 사용하는 제제는?",
+        "choices": [
+          "EMLA (lidocaine + prilocaine)",
+          "Sugammadex",
+          "Succinylcholine",
+          "Botulinum toxin"
+        ],
+        "answer": 0,
+        "explanation": "EMLA (lidocaine + prilocaine): Lidocaine과 prilocaine이 전압의존성 Na+ 채널을 차단하여 감각 신경 전도를 억제한다. 바늘 삽입·피부이식·피부 레이저 시술 전 통증 예방을 위한 표면마취에 사용한다.",
+        "sourcePages": [
+          10,
+          11
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "EMLA (lidocaine + prilocaine)의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "골격근 근소포체 RyR1을 직접 차단하여 Ca2+ 유리를 줄인다.",
+          "Lidocaine과 prilocaine이 전압의존성 Na+ 채널을 차단하여 감각 신경 전도를 억제한다.",
+          "AChE를 억제하여 시냅스 간극의 ACh 농도를 높인다.",
+          "GABAB 수용체를 활성화하여 척수 신경의 과흥분을 줄인다."
+        ],
+        "answer": 1,
+        "explanation": "EMLA (lidocaine + prilocaine): Lidocaine과 prilocaine이 전압의존성 Na+ 채널을 차단하여 감각 신경 전도를 억제한다.",
+        "sourcePages": [
+          10,
+          11
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 EMLA (lidocaine + prilocaine)과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다.",
+          "항BAFF 항체로서 전신홍반루푸스의 B세포 생존 신호를 억제한다.",
+          "바늘 삽입·피부이식·피부 레이저 시술 전 통증 예방을 위한 표면마취에 사용한다.",
+          "H3 역작용제로서 기면증에서 각성을 촉진한다."
+        ],
+        "answer": 2,
+        "explanation": "EMLA (lidocaine + prilocaine): 바늘 삽입·피부이식·피부 레이저 시술 전 통증 예방을 위한 표면마취에 사용한다. 기전은 다음과 같습니다. Lidocaine과 prilocaine이 전압의존성 Na+ 채널을 차단하여 감각 신경 전도를 억제한다.",
+        "sourcePages": [
+          10
+        ]
+      }
+    ],
+    "ab": {
+      "a": "EMLA (lidocaine + prilocaine)의 주된 기전: Lidocaine과 prilocaine이 전압의존성 Na+ 채널을 차단하여 감각 신경 전도를 억제한다.",
+      "b": "EMLA (lidocaine + prilocaine)의 용도: 바늘 삽입·피부이식·피부 레이저 시술 전 통증 예방을 위한 표면마취에 사용한다.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 맞습니다. Lidocaine과 prilocaine이 전압의존성 Na+ 채널을 차단하여 감각 신경 전도를 억제한다. B는 맞습니다. 바늘 삽입·피부이식·피부 레이저 시술 전 통증 예방을 위한 표면마취에 사용한다.",
+      "sourcePages": [
+        10,
+        11
+      ]
+    }
+  },
+  {
+    "id": "ch11-tetrodotoxin",
+    "chapter": 11,
+    "name": "Tetrodotoxin",
+    "nameKo": "테트로도톡신",
+    "drugClass": "Na+ 채널 차단 독소·연구 도구",
+    "moa": "세포 바깥쪽에서 전압의존성 Na+ 채널의 구멍을 막는다.",
+    "uses": "학습상 연구 도구: 방사성 표지 후 Na+ 채널 분포를 측정하는 데 이용된다.",
+    "caution": "복어독이며, 이 카드의 용도는 임상 투약이 아닌 연구용 표적 측정이다.",
+    "source": {
+      "fileId": "source-1",
+      "pages": [
+        10,
+        12
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "국소마취제와 달리 세포 외부에서 Na+ 채널을 막는 복어독은?",
+        "choices": [
+          "Lidocaine",
+          "Tetrodotoxin",
+          "Neostigmine",
+          "Baclofen"
+        ],
+        "answer": 1,
+        "explanation": "Tetrodotoxin: 세포 바깥쪽에서 전압의존성 Na+ 채널의 구멍을 막는다. 학습상 연구 도구: 방사성 표지 후 Na+ 채널 분포를 측정하는 데 이용된다.",
+        "sourcePages": [
+          12
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Tetrodotoxin의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "세포 안쪽에서 전압의존성 Na+ 채널을 차단한다.",
+          "AChE를 억제하여 시냅스 간극의 ACh 농도를 높인다.",
+          "세포 바깥쪽에서 전압의존성 Na+ 채널의 구멍을 막는다.",
+          "GABAB 수용체를 활성화하여 척수 신경의 과흥분을 줄인다."
+        ],
+        "answer": 2,
+        "explanation": "Tetrodotoxin: 세포 바깥쪽에서 전압의존성 Na+ 채널의 구멍을 막는다.",
+        "sourcePages": [
+          12
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "Tetrodotoxin의 학습상 분류·관련 연구 용도로 맞는 것은?",
+        "choices": [
+          "Lidocaine·prilocaine 공융혼합물로서 시술 전 표면마취에 사용한다.",
+          "멜라토닌 수용체 작용제로서 non-24 수면각성장애에 사용한다.",
+          "Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다.",
+          "학습상 연구 도구: 방사성 표지 후 Na+ 채널 분포를 측정하는 데 이용된다."
+        ],
+        "answer": 3,
+        "explanation": "Tetrodotoxin: 학습상 연구 도구: 방사성 표지 후 Na+ 채널 분포를 측정하는 데 이용된다. 기전은 다음과 같습니다. 세포 바깥쪽에서 전압의존성 Na+ 채널의 구멍을 막는다.",
+        "sourcePages": [
+          12
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Tetrodotoxin의 주된 기전: 세포 바깥쪽에서 전압의존성 Na+ 채널의 구멍을 막는다.",
+      "b": "Tetrodotoxin은 lidocaine·prilocaine 공융혼합물로서 시술 전 표면마취에 사용하는 제제이다.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 맞습니다. Tetrodotoxin은 세포 바깥쪽에서 Na+ 채널을 차단합니다. B는 틀립니다. Lidocaine·prilocaine 공융혼합물은 EMLA이며, 이 자료에서 Tetrodotoxin은 방사성 표지로 Na+ 채널 분포를 측정하는 연구 도구로 분류됩니다.",
+      "sourcePages": [
+        10,
+        12
+      ]
+    }
+  },
+  {
+    "id": "ch11-belimumab",
+    "chapter": 11,
+    "name": "Belimumab",
+    "nameKo": "벨리무맙",
+    "drugClass": "항BAFF 단클론항체",
+    "moa": "B세포 생존 인자 BAFF(BLyS)를 중화하여 자가반응성 B세포의 생존 신호를 줄인다.",
+    "uses": "전신홍반루푸스(SLE)의 생물학적 치료제로 제시되어 있다.",
+    "caution": "",
+    "source": {
+      "fileId": "source-1",
+      "pages": [
+        13
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "SLE 관련 내용에서 BAFF(BLyS)를 중화하는 단클론항체로 정리된 약물은?",
+        "choices": [
+          "Lidocaine",
+          "Sugammadex",
+          "Belimumab",
+          "Flumazenil"
+        ],
+        "answer": 2,
+        "explanation": "Belimumab: B세포 생존 인자 BAFF(BLyS)를 중화하여 자가반응성 B세포의 생존 신호를 줄인다. 전신홍반루푸스(SLE)의 생물학적 치료제로 제시되어 있다.",
+        "sourcePages": [
+          13
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Belimumab의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "세포 안쪽에서 전압의존성 Na+ 채널을 차단한다.",
+          "NM 수용체에서 ACh와 경쟁적으로 결합하여 신경근 전달을 차단한다.",
+          "GABAA의 benzodiazepine 부위에서 Cl− 채널 개방 빈도를 높인다.",
+          "B세포 생존 인자 BAFF(BLyS)를 중화하여 자가반응성 B세포의 생존 신호를 줄인다."
+        ],
+        "answer": 3,
+        "explanation": "Belimumab: B세포 생존 인자 BAFF(BLyS)를 중화하여 자가반응성 B세포의 생존 신호를 줄인다.",
+        "sourcePages": [
+          13
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Belimumab과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "전신홍반루푸스(SLE)의 생물학적 치료제로 제시되어 있다.",
+          "RyR1 직접 차단제로서 악성고열의 근육 Ca2+ 유리를 억제한다.",
+          "H3 역작용제로서 기면증에서 각성을 촉진한다.",
+          "BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다."
+        ],
+        "answer": 0,
+        "explanation": "Belimumab: 전신홍반루푸스(SLE)의 생물학적 치료제로 제시되어 있다. 기전은 다음과 같습니다. B세포 생존 인자 BAFF(BLyS)를 중화하여 자가반응성 B세포의 생존 신호를 줄인다.",
+        "sourcePages": [
+          13
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Belimumab의 주된 기전: 세포 안쪽에서 전압의존성 Na+ 채널을 차단한다.",
+      "b": "Belimumab의 용도: 전신홍반루푸스(SLE)의 생물학적 치료제로 제시되어 있다.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀립니다. 올바른 기전: B세포 생존 인자 BAFF(BLyS)를 중화하여 자가반응성 B세포의 생존 신호를 줄인다. B는 맞습니다. 전신홍반루푸스(SLE)의 생물학적 치료제로 제시되어 있다.",
+      "sourcePages": [
+        13
+      ]
+    }
+  },
+  {
+    "id": "ch12-buspirone",
+    "chapter": 12,
+    "name": "Buspirone",
+    "nameKo": "부스피론",
+    "drugClass": "5-HT1A 부분작용 항불안제",
+    "moa": "5-HT1A 수용체의 부분작용제로 작용한다.",
+    "uses": "범불안장애(GAD) 등 불안 증상의 완화에 사용한다.",
+    "caution": "효과 발현이 느리며, 자료에는 MAOI 병용 시 고혈압 위기·세로토닌 증후군이 제시되어 있다.",
+    "source": {
+      "fileId": "source-2",
+      "pages": [
+        6,
+        8
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "GABA계 대신 5-HT1A 부분작용으로 항불안 효과를 내며 효과 발현이 느린 약물은?",
+        "choices": [
+          "Diazepam",
+          "Flumazenil",
+          "Suvorexant",
+          "Buspirone"
+        ],
+        "answer": 3,
+        "explanation": "Buspirone: 5-HT1A 수용체의 부분작용제로 작용한다. 범불안장애(GAD) 등 불안 증상의 완화에 사용한다.",
+        "sourcePages": [
+          6,
+          8
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Buspirone의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "5-HT1A 수용체의 부분작용제로 작용한다.",
+          "GABAA의 benzodiazepine 부위에서 Cl− 채널 개방 빈도를 높인다.",
+          "Orexin OX1·OX2 수용체를 길항하여 각성 신호를 낮춘다.",
+          "GABAB 수용체를 활성화하여 척수 신경의 과흥분을 줄인다."
+        ],
+        "answer": 0,
+        "explanation": "Buspirone: 5-HT1A 수용체의 부분작용제로 작용한다.",
+        "sourcePages": [
+          8
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Buspirone과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다.",
+          "범불안장애(GAD) 등 불안 증상의 완화에 사용한다.",
+          "RyR1 직접 차단제로서 악성고열의 근육 Ca2+ 유리를 억제한다.",
+          "BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다."
+        ],
+        "answer": 1,
+        "explanation": "Buspirone: 범불안장애(GAD) 등 불안 증상의 완화에 사용한다. 기전은 다음과 같습니다. 5-HT1A 수용체의 부분작용제로 작용한다.",
+        "sourcePages": [
+          6,
+          8
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Buspirone의 주된 기전: GABAA의 benzodiazepine 부위에서 Cl− 채널 개방 빈도를 높인다.",
+      "b": "Buspirone의 용도: Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀립니다. 올바른 기전: 5-HT1A 수용체의 부분작용제로 작용한다. B는 틀립니다. 자료에 제시된 용도: 범불안장애(GAD) 등 불안 증상의 완화에 사용한다.",
+      "sourcePages": [
+        6,
+        8
+      ]
+    }
+  },
+  {
+    "id": "ch12-pregabalin",
+    "chapter": 12,
+    "name": "Pregabalin",
+    "nameKo": "프레가발린",
+    "drugClass": "α2δ 결합 항불안 약물",
+    "moa": "전압의존성 Ca2+ 채널의 α2δ 소단위에 결합해 흥분성 전달물질 유리를 줄인다.",
+    "uses": "이 장에서는 범불안장애(GAD)에 사용하는 약물로 제시되어 있다.",
+    "caution": "",
+    "source": {
+      "fileId": "source-2",
+      "pages": [
+        6
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "범불안장애 약물 중 전압의존성 Ca2+ 채널의 α2δ 소단위에 결합하는 약물은?",
+        "choices": [
+          "Pregabalin",
+          "Buspirone",
+          "Propranolol",
+          "Alprazolam"
+        ],
+        "answer": 0,
+        "explanation": "Pregabalin: 전압의존성 Ca2+ 채널의 α2δ 소단위에 결합해 흥분성 전달물질 유리를 줄인다. 이 장에서는 범불안장애(GAD)에 사용하는 약물로 제시되어 있다.",
+        "sourcePages": [
+          6
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Pregabalin의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "5-HT1A 수용체의 부분작용제로 작용한다.",
+          "전압의존성 Ca2+ 채널의 α2δ 소단위에 결합해 흥분성 전달물질 유리를 줄인다.",
+          "GABAB 수용체를 활성화하여 척수 신경의 과흥분을 줄인다.",
+          "GABAA의 benzodiazepine 부위에서 Cl− 채널 개방 빈도를 높인다."
+        ],
+        "answer": 1,
+        "explanation": "Pregabalin: 전압의존성 Ca2+ 채널의 α2δ 소단위에 결합해 흥분성 전달물질 유리를 줄인다.",
+        "sourcePages": [
+          6
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Pregabalin과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다.",
+          "항BAFF 항체로서 전신홍반루푸스의 B세포 생존 신호를 억제한다.",
+          "이 장에서는 범불안장애(GAD)에 사용하는 약물로 제시되어 있다.",
+          "Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다."
+        ],
+        "answer": 2,
+        "explanation": "Pregabalin: 이 장에서는 범불안장애(GAD)에 사용하는 약물로 제시되어 있다. 기전은 다음과 같습니다. 전압의존성 Ca2+ 채널의 α2δ 소단위에 결합해 흥분성 전달물질 유리를 줄인다.",
+        "sourcePages": [
+          6
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Pregabalin의 주된 기전: 전압의존성 Ca2+ 채널의 α2δ 소단위에 결합해 흥분성 전달물질 유리를 줄인다.",
+      "b": "Pregabalin의 용도: 이 장에서는 범불안장애(GAD)에 사용하는 약물로 제시되어 있다.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 맞습니다. 전압의존성 Ca2+ 채널의 α2δ 소단위에 결합해 흥분성 전달물질 유리를 줄인다. B는 맞습니다. 이 장에서는 범불안장애(GAD)에 사용하는 약물로 제시되어 있다.",
+      "sourcePages": [
+        6
+      ]
+    }
+  },
+  {
+    "id": "ch12-propranolol",
+    "chapter": 12,
+    "name": "Propranolol",
+    "nameKo": "프로프라놀롤",
+    "drugClass": "β 수용체 차단제",
+    "moa": "β 수용체를 차단하여 떨림·빈맥 같은 말초 교감신경 증상을 줄인다.",
+    "uses": "사회불안장애와 발표·연주 등의 수행불안에서 신체 증상 완화에 사용한다.",
+    "caution": "",
+    "source": {
+      "fileId": "source-2",
+      "pages": [
+        6
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "자료에서 수행불안의 떨림·빈맥 같은 말초 교감 증상을 줄이는 β 차단제로 제시된 약물은?",
+        "choices": [
+          "Buspirone",
+          "Propranolol",
+          "Pregabalin",
+          "Zolpidem"
+        ],
+        "answer": 1,
+        "explanation": "Propranolol: β 수용체를 차단하여 떨림·빈맥 같은 말초 교감신경 증상을 줄인다. 사회불안장애와 발표·연주 등의 수행불안에서 신체 증상 완화에 사용한다.",
+        "sourcePages": [
+          6
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Propranolol의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "5-HT1A 수용체의 부분작용제로 작용한다.",
+          "Orexin OX1·OX2 수용체를 길항하여 각성 신호를 낮춘다.",
+          "β 수용체를 차단하여 떨림·빈맥 같은 말초 교감신경 증상을 줄인다.",
+          "GABAA의 benzodiazepine 부위에서 Cl− 채널 개방 빈도를 높인다."
+        ],
+        "answer": 2,
+        "explanation": "Propranolol: β 수용체를 차단하여 떨림·빈맥 같은 말초 교감신경 증상을 줄인다.",
+        "sourcePages": [
+          6
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Propranolol과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다.",
+          "BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다.",
+          "멜라토닌 수용체 작용제로서 non-24 수면각성장애에 사용한다.",
+          "사회불안장애와 발표·연주 등의 수행불안에서 신체 증상 완화에 사용한다."
+        ],
+        "answer": 3,
+        "explanation": "Propranolol: 사회불안장애와 발표·연주 등의 수행불안에서 신체 증상 완화에 사용한다. 기전은 다음과 같습니다. β 수용체를 차단하여 떨림·빈맥 같은 말초 교감신경 증상을 줄인다.",
+        "sourcePages": [
+          6
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Propranolol의 주된 기전: β 수용체를 차단하여 떨림·빈맥 같은 말초 교감신경 증상을 줄인다.",
+      "b": "Propranolol의 용도: Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 맞습니다. β 수용체를 차단하여 떨림·빈맥 같은 말초 교감신경 증상을 줄인다. B는 틀립니다. 자료에 제시된 용도: 사회불안장애와 발표·연주 등의 수행불안에서 신체 증상 완화에 사용한다.",
+      "sourcePages": [
+        6
+      ]
+    }
+  },
+  {
+    "id": "ch12-prazosin",
+    "chapter": 12,
+    "name": "Prazosin",
+    "nameKo": "프라조신",
+    "drugClass": "α1 수용체 차단제",
+    "moa": "중추 α1 수용체 활성을 차단하여 수면 중 과도한 노르아드레날린 신호를 줄인다.",
+    "uses": "이 장에서는 PTSD와 관련된 악몽의 완화에 연결되어 있다.",
+    "caution": "",
+    "source": {
+      "fileId": "source-2",
+      "pages": [
+        6,
+        7
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "PTSD 관련 악몽과 연결되며 중추 α1 수용체를 차단하는 약물은?",
+        "choices": [
+          "Clonidine",
+          "Buspirone",
+          "Prazosin",
+          "Ramelteon"
+        ],
+        "answer": 2,
+        "explanation": "Prazosin: 중추 α1 수용체 활성을 차단하여 수면 중 과도한 노르아드레날린 신호를 줄인다. 이 장에서는 PTSD와 관련된 악몽의 완화에 연결되어 있다.",
+        "sourcePages": [
+          6,
+          7
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Prazosin의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "5-HT1A 수용체의 부분작용제로 작용한다.",
+          "멜라토닌 MT1·MT2 수용체를 활성화하여 일주기 리듬을 조절한다.",
+          "GABAA의 benzodiazepine 부위에서 Cl− 채널 개방 빈도를 높인다.",
+          "중추 α1 수용체 활성을 차단하여 수면 중 과도한 노르아드레날린 신호를 줄인다."
+        ],
+        "answer": 3,
+        "explanation": "Prazosin: 중추 α1 수용체 활성을 차단하여 수면 중 과도한 노르아드레날린 신호를 줄인다.",
+        "sourcePages": [
+          7
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Prazosin과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "이 장에서는 PTSD와 관련된 악몽의 완화에 연결되어 있다.",
+          "Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다.",
+          "BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다.",
+          "멜라토닌 수용체 작용제로서 non-24 수면각성장애에 사용한다."
+        ],
+        "answer": 0,
+        "explanation": "Prazosin: 이 장에서는 PTSD와 관련된 악몽의 완화에 연결되어 있다. 기전은 다음과 같습니다. 중추 α1 수용체 활성을 차단하여 수면 중 과도한 노르아드레날린 신호를 줄인다.",
+        "sourcePages": [
+          6,
+          7
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Prazosin의 주된 기전: 5-HT1A 수용체의 부분작용제로 작용한다.",
+      "b": "Prazosin의 용도: 이 장에서는 PTSD와 관련된 악몽의 완화에 연결되어 있다.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀립니다. 올바른 기전: 중추 α1 수용체 활성을 차단하여 수면 중 과도한 노르아드레날린 신호를 줄인다. B는 맞습니다. 이 장에서는 PTSD와 관련된 악몽의 완화에 연결되어 있다.",
+      "sourcePages": [
+        6,
+        7
+      ]
+    }
+  },
+  {
+    "id": "ch12-clomipramine",
+    "chapter": 12,
+    "name": "Clomipramine",
+    "nameKo": "클로미프라민",
+    "drugClass": "삼환계 항우울제",
+    "moa": "세로토닌 재흡수 운반체 SERT를 억제하여 세로토닌 전달을 높인다.",
+    "uses": "강박장애(OCD)에 사용하며, 자료에는 조루(PE)도 다른 용도로 제시되어 있다.",
+    "caution": "",
+    "source": {
+      "fileId": "source-2",
+      "pages": [
+        7
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "TCA 중 강한 세로토닌 재흡수 억제와 연결되며 OCD와 조루의 용도가 제시된 약물은?",
+        "choices": [
+          "Buspirone",
+          "Suvorexant",
+          "Flumazenil",
+          "Clomipramine"
+        ],
+        "answer": 3,
+        "explanation": "Clomipramine: 세로토닌 재흡수 운반체 SERT를 억제하여 세로토닌 전달을 높인다. 강박장애(OCD)에 사용하며, 자료에는 조루(PE)도 다른 용도로 제시되어 있다.",
+        "sourcePages": [
+          7
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Clomipramine의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "세로토닌 재흡수 운반체 SERT를 억제하여 세로토닌 전달을 높인다.",
+          "멜라토닌 MT1·MT2 수용체를 활성화하여 일주기 리듬을 조절한다.",
+          "Orexin OX1·OX2 수용체를 길항하여 각성 신호를 낮춘다.",
+          "NM 수용체에서 ACh와 경쟁적으로 결합하여 신경근 전달을 차단한다."
+        ],
+        "answer": 0,
+        "explanation": "Clomipramine: 세로토닌 재흡수 운반체 SERT를 억제하여 세로토닌 전달을 높인다.",
+        "sourcePages": [
+          7
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Clomipramine과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "항BAFF 항체로서 전신홍반루푸스의 B세포 생존 신호를 억제한다.",
+          "강박장애(OCD)에 사용하며, 자료에는 조루(PE)도 다른 용도로 제시되어 있다.",
+          "Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다.",
+          "H3 역작용제로서 기면증에서 각성을 촉진한다."
+        ],
+        "answer": 1,
+        "explanation": "Clomipramine: 강박장애(OCD)에 사용하며, 자료에는 조루(PE)도 다른 용도로 제시되어 있다. 기전은 다음과 같습니다. 세로토닌 재흡수 운반체 SERT를 억제하여 세로토닌 전달을 높인다.",
+        "sourcePages": [
+          7
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Clomipramine의 주된 기전: 멜라토닌 MT1·MT2 수용체를 활성화하여 일주기 리듬을 조절한다.",
+      "b": "Clomipramine의 용도: 항BAFF 항체로서 전신홍반루푸스의 B세포 생존 신호를 억제한다.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀립니다. 올바른 기전: 세로토닌 재흡수 운반체 SERT를 억제하여 세로토닌 전달을 높인다. B는 틀립니다. 자료에 제시된 용도: 강박장애(OCD)에 사용하며, 자료에는 조루(PE)도 다른 용도로 제시되어 있다.",
+      "sourcePages": [
+        7
+      ]
+    }
+  },
+  {
+    "id": "ch12-diazepam",
+    "chapter": 12,
+    "name": "Diazepam",
+    "nameKo": "디아제팜",
+    "drugClass": "장시간 benzodiazepine",
+    "moa": "GABAA 수용체의 benzodiazepine 부위에서 GABA에 의한 Cl− 채널 개방 빈도를 높인다.",
+    "uses": "불안·진정 및 근이완에 사용하며, 알코올 금단의 진전섬망도 자료에 제시되어 있다.",
+    "caution": "장기간 사용의 의존·내성·금단과 알코올 등의 중추억제 상가작용이 학습 포인트이다.",
+    "source": {
+      "fileId": "source-2",
+      "pages": [
+        9,
+        10
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "다음 중 장시간 benzodiazepine으로, 근이완과 알코올 금단의 진전섬망에 연결된 약물은?",
+        "choices": [
+          "Diazepam",
+          "Buspirone",
+          "Thiopental",
+          "Flumazenil"
+        ],
+        "answer": 0,
+        "explanation": "Diazepam: GABAA 수용체의 benzodiazepine 부위에서 GABA에 의한 Cl− 채널 개방 빈도를 높인다. 불안·진정 및 근이완에 사용하며, 알코올 금단의 진전섬망도 자료에 제시되어 있다.",
+        "sourcePages": [
+          9,
+          10
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Diazepam의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "GABAB 수용체를 활성화하여 척수 신경의 과흥분을 줄인다.",
+          "GABAA 수용체의 benzodiazepine 부위에서 GABA에 의한 Cl− 채널 개방 빈도를 높인다.",
+          "5-HT1A 수용체의 부분작용제로 작용한다.",
+          "Orexin OX1·OX2 수용체를 길항하여 각성 신호를 낮춘다."
+        ],
+        "answer": 1,
+        "explanation": "Diazepam: GABAA 수용체의 benzodiazepine 부위에서 GABA에 의한 Cl− 채널 개방 빈도를 높인다.",
+        "sourcePages": [
+          10
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Diazepam과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다.",
+          "멜라토닌 수용체 작용제로서 non-24 수면각성장애에 사용한다.",
+          "불안·진정 및 근이완에 사용하며, 알코올 금단의 진전섬망도 자료에 제시되어 있다.",
+          "항BAFF 항체로서 전신홍반루푸스의 B세포 생존 신호를 억제한다."
+        ],
+        "answer": 2,
+        "explanation": "Diazepam: 불안·진정 및 근이완에 사용하며, 알코올 금단의 진전섬망도 자료에 제시되어 있다. 기전은 다음과 같습니다. GABAA 수용체의 benzodiazepine 부위에서 GABA에 의한 Cl− 채널 개방 빈도를 높인다.",
+        "sourcePages": [
+          10
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Diazepam의 주된 기전: GABAA 수용체의 benzodiazepine 부위에서 GABA에 의한 Cl− 채널 개방 빈도를 높인다.",
+      "b": "Diazepam의 용도: 불안·진정 및 근이완에 사용하며, 알코올 금단의 진전섬망도 자료에 제시되어 있다.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 맞습니다. GABAA 수용체의 benzodiazepine 부위에서 GABA에 의한 Cl− 채널 개방 빈도를 높인다. B는 맞습니다. 불안·진정 및 근이완에 사용하며, 알코올 금단의 진전섬망도 자료에 제시되어 있다.",
+      "sourcePages": [
+        9,
+        10
+      ]
+    }
+  },
+  {
+    "id": "ch12-lorazepam",
+    "chapter": 12,
+    "name": "Lorazepam",
+    "nameKo": "로라제팜",
+    "drugClass": "Benzodiazepine · LOT",
+    "moa": "GABAA 수용체에서 GABA에 의한 Cl− 채널 개방 빈도를 높인다.",
+    "uses": "진정·간질중첩상태 및 예기성 오심·구토 예방에 연결되어 있다.",
+    "caution": "LOT 약물 중 하나로 CYP phase I 대신 직접 포합되는 특징이 정리되어 있다.",
+    "source": {
+      "fileId": "source-2",
+      "pages": [
+        9,
+        10
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "다음 중 LOT에 포함되고, 자료에서 예기성 오심·구토 예방에 특히 연결된 benzodiazepine은?",
+        "choices": [
+          "Midazolam",
+          "Lorazepam",
+          "Alprazolam",
+          "Triazolam"
+        ],
+        "answer": 1,
+        "explanation": "Lorazepam: GABAA 수용체에서 GABA에 의한 Cl− 채널 개방 빈도를 높인다. 진정·간질중첩상태 및 예기성 오심·구토 예방에 연결되어 있다.",
+        "sourcePages": [
+          9,
+          10
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Lorazepam의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "GABAB 수용체를 활성화하여 척수 신경의 과흥분을 줄인다.",
+          "멜라토닌 MT1·MT2 수용체를 활성화하여 일주기 리듬을 조절한다.",
+          "GABAA 수용체에서 GABA에 의한 Cl− 채널 개방 빈도를 높인다.",
+          "히스타민 H3 자가수용체를 길항하여 히스타민 유리를 늘린다."
+        ],
+        "answer": 2,
+        "explanation": "Lorazepam: GABAA 수용체에서 GABA에 의한 Cl− 채널 개방 빈도를 높인다.",
+        "sourcePages": [
+          10
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Lorazepam과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다.",
+          "RyR1 직접 차단제로서 악성고열의 근육 Ca2+ 유리를 억제한다.",
+          "항BAFF 항체로서 전신홍반루푸스의 B세포 생존 신호를 억제한다.",
+          "진정·간질중첩상태 및 예기성 오심·구토 예방에 연결되어 있다."
+        ],
+        "answer": 3,
+        "explanation": "Lorazepam: 진정·간질중첩상태 및 예기성 오심·구토 예방에 연결되어 있다. 기전은 다음과 같습니다. GABAA 수용체에서 GABA에 의한 Cl− 채널 개방 빈도를 높인다.",
+        "sourcePages": [
+          10
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Lorazepam의 주된 기전: GABAA 수용체에서 GABA에 의한 Cl− 채널 개방 빈도를 높인다.",
+      "b": "Lorazepam의 용도: BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 맞습니다. GABAA 수용체에서 GABA에 의한 Cl− 채널 개방 빈도를 높인다. B는 틀립니다. 자료에 제시된 용도: 진정·간질중첩상태 및 예기성 오심·구토 예방에 연결되어 있다.",
+      "sourcePages": [
+        9,
+        10
+      ]
+    }
+  },
+  {
+    "id": "ch12-flumazenil",
+    "chapter": 12,
+    "name": "Flumazenil",
+    "nameKo": "플루마제닐",
+    "drugClass": "Benzodiazepine 결합부위 길항제",
+    "moa": "GABAA 수용체의 benzodiazepine 결합부위에서 경쟁적 길항제로 작용한다.",
+    "uses": "Benzodiazepine과 Z-drug의 과량 효과를 역전하는 데 사용한다.",
+    "caution": "짧은 반감기에 따른 재진정과 장기 복용자의 금단·발작 가능성이 정리되어 있다.",
+    "source": {
+      "fileId": "source-2",
+      "pages": [
+        10,
+        13
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "Benzodiazepine뿐 아니라 Z-drug의 작용도 역전하는 BZ 결합부위 길항제는?",
+        "choices": [
+          "Neostigmine",
+          "Sugammadex",
+          "Flumazenil",
+          "Buspirone"
+        ],
+        "answer": 2,
+        "explanation": "Flumazenil: GABAA 수용체의 benzodiazepine 결합부위에서 경쟁적 길항제로 작용한다. Benzodiazepine과 Z-drug의 과량 효과를 역전하는 데 사용한다.",
+        "sourcePages": [
+          10,
+          13
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Flumazenil의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "AChE를 억제하여 시냅스 간극의 ACh 농도를 높인다.",
+          "GABAA의 benzodiazepine 부위에서 Cl− 채널 개방 빈도를 높인다.",
+          "5-HT1A 수용체의 부분작용제로 작용한다.",
+          "GABAA 수용체의 benzodiazepine 결합부위에서 경쟁적 길항제로 작용한다."
+        ],
+        "answer": 3,
+        "explanation": "Flumazenil: GABAA 수용체의 benzodiazepine 결합부위에서 경쟁적 길항제로 작용한다.",
+        "sourcePages": [
+          10
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Flumazenil과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "Benzodiazepine과 Z-drug의 과량 효과를 역전하는 데 사용한다.",
+          "RyR1 직접 차단제로서 악성고열의 근육 Ca2+ 유리를 억제한다.",
+          "Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다.",
+          "H3 역작용제로서 기면증에서 각성을 촉진한다."
+        ],
+        "answer": 0,
+        "explanation": "Flumazenil: Benzodiazepine과 Z-drug의 과량 효과를 역전하는 데 사용한다. 기전은 다음과 같습니다. GABAA 수용체의 benzodiazepine 결합부위에서 경쟁적 길항제로 작용한다.",
+        "sourcePages": [
+          10,
+          13
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Flumazenil의 주된 기전: AChE를 억제하여 시냅스 간극의 ACh 농도를 높인다.",
+      "b": "Flumazenil의 용도: Benzodiazepine과 Z-drug의 과량 효과를 역전하는 데 사용한다.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀립니다. 올바른 기전: GABAA 수용체의 benzodiazepine 결합부위에서 경쟁적 길항제로 작용한다. B는 맞습니다. Benzodiazepine과 Z-drug의 과량 효과를 역전하는 데 사용한다.",
+      "sourcePages": [
+        10,
+        13
+      ]
+    }
+  },
+  {
+    "id": "ch12-phenobarbital",
+    "chapter": 12,
+    "name": "Phenobarbital",
+    "nameKo": "페노바르비탈",
+    "drugClass": "장시간 barbiturate",
+    "moa": "GABAA의 Cl− 채널 개방 시간을 늘리며, 고농도에서는 GABA 없이 채널을 직접 열 수 있다.",
+    "uses": "경련 치료와 type II Crigler–Najjar·Gilbert 증후군의 고빌리루빈혈증에 연결되어 있다.",
+    "caution": "간효소 유도, 약물상호작용, 과량에 따른 호흡억제가 학습 포인트이다.",
+    "source": {
+      "fileId": "source-2",
+      "pages": [
+        11,
+        12
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "장시간 barbiturate로, 경련 및 UGT1A1 유도와 관련된 고빌리루빈혈증 용도가 함께 제시된 약물은?",
+        "choices": [
+          "Thiopental",
+          "Diazepam",
+          "Buspirone",
+          "Phenobarbital"
+        ],
+        "answer": 3,
+        "explanation": "Phenobarbital: GABAA의 Cl− 채널 개방 시간을 늘리며, 고농도에서는 GABA 없이 채널을 직접 열 수 있다. 경련 치료와 type II Crigler–Najjar·Gilbert 증후군의 고빌리루빈혈증에 연결되어 있다.",
+        "sourcePages": [
+          11,
+          12
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Phenobarbital의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "GABAA의 Cl− 채널 개방 시간을 늘리며, 고농도에서는 GABA 없이 채널을 직접 열 수 있다.",
+          "멜라토닌 MT1·MT2 수용체를 활성화하여 일주기 리듬을 조절한다.",
+          "AChE를 억제하여 시냅스 간극의 ACh 농도를 높인다.",
+          "NM 수용체에서 ACh와 경쟁적으로 결합하여 신경근 전달을 차단한다."
+        ],
+        "answer": 0,
+        "explanation": "Phenobarbital: GABAA의 Cl− 채널 개방 시간을 늘리며, 고농도에서는 GABA 없이 채널을 직접 열 수 있다.",
+        "sourcePages": [
+          12
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Phenobarbital과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다.",
+          "경련 치료와 type II Crigler–Najjar·Gilbert 증후군의 고빌리루빈혈증에 연결되어 있다.",
+          "Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다.",
+          "Lidocaine·prilocaine 공융혼합물로서 시술 전 표면마취에 사용한다."
+        ],
+        "answer": 1,
+        "explanation": "Phenobarbital: 경련 치료와 type II Crigler–Najjar·Gilbert 증후군의 고빌리루빈혈증에 연결되어 있다. 기전은 다음과 같습니다. GABAA의 Cl− 채널 개방 시간을 늘리며, 고농도에서는 GABA 없이 채널을 직접 열 수 있다.",
+        "sourcePages": [
+          12
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Phenobarbital의 주된 기전: 멜라토닌 MT1·MT2 수용체를 활성화하여 일주기 리듬을 조절한다.",
+      "b": "Phenobarbital의 용도: BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀립니다. 올바른 기전: GABAA의 Cl− 채널 개방 시간을 늘리며, 고농도에서는 GABA 없이 채널을 직접 열 수 있다. B는 틀립니다. 자료에 제시된 용도: 경련 치료와 type II Crigler–Najjar·Gilbert 증후군의 고빌리루빈혈증에 연결되어 있다.",
+      "sourcePages": [
+        11,
+        12
+      ]
+    }
+  },
+  {
+    "id": "ch12-thiopental",
+    "chapter": 12,
+    "name": "Thiopental",
+    "nameKo": "티오펜탈",
+    "drugClass": "초단시간 barbiturate 마취제",
+    "moa": "Barbiturate로서 GABAA의 Cl− 채널 개방 시간을 늘려 중추 억제를 강화한다.",
+    "uses": "초단시간 작용 마취약으로 사용한다.",
+    "caution": "초기 회복은 주로 뇌에서 근육·지방으로의 재분포와 연결되며 반복 투여 시 축적될 수 있다.",
+    "source": {
+      "fileId": "source-2",
+      "pages": [
+        11,
+        12
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "초단시간 barbiturate 마취제로, 초기 마취 회복이 뇌에서 근육·지방으로의 재분포와 연결되는 약물은?",
+        "choices": [
+          "Thiopental",
+          "Phenobarbital",
+          "Buspirone",
+          "Tasimelteon"
+        ],
+        "answer": 0,
+        "explanation": "Thiopental: Barbiturate로서 GABAA의 Cl− 채널 개방 시간을 늘려 중추 억제를 강화한다. 초단시간 작용 마취약으로 사용한다.",
+        "sourcePages": [
+          11,
+          12
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Thiopental의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "Orexin OX1·OX2 수용체를 길항하여 각성 신호를 낮춘다.",
+          "Barbiturate로서 GABAA의 Cl− 채널 개방 시간을 늘려 중추 억제를 강화한다.",
+          "5-HT1A 수용체의 부분작용제로 작용한다.",
+          "NM 수용체에서 ACh와 경쟁적으로 결합하여 신경근 전달을 차단한다."
+        ],
+        "answer": 1,
+        "explanation": "Thiopental: Barbiturate로서 GABAA의 Cl− 채널 개방 시간을 늘려 중추 억제를 강화한다.",
+        "sourcePages": [
+          12
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Thiopental과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "멜라토닌 수용체 작용제로서 non-24 수면각성장애에 사용한다.",
+          "BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다.",
+          "초단시간 작용 마취약으로 사용한다.",
+          "항BAFF 항체로서 전신홍반루푸스의 B세포 생존 신호를 억제한다."
+        ],
+        "answer": 2,
+        "explanation": "Thiopental: 초단시간 작용 마취약으로 사용한다. 기전은 다음과 같습니다. Barbiturate로서 GABAA의 Cl− 채널 개방 시간을 늘려 중추 억제를 강화한다.",
+        "sourcePages": [
+          12
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Thiopental의 주된 기전: Barbiturate로서 GABAA의 Cl− 채널 개방 시간을 늘려 중추 억제를 강화한다.",
+      "b": "Thiopental의 용도: 초단시간 작용 마취약으로 사용한다.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 맞습니다. Barbiturate로서 GABAA의 Cl− 채널 개방 시간을 늘려 중추 억제를 강화한다. B는 맞습니다. 초단시간 작용 마취약으로 사용한다.",
+      "sourcePages": [
+        11,
+        12
+      ]
+    }
+  },
+  {
+    "id": "ch12-zolpidem",
+    "chapter": 12,
+    "name": "Zolpidem",
+    "nameKo": "졸피뎀",
+    "drugClass": "Z-drug 수면제",
+    "moa": "GABAA의 benzodiazepine 결합부위에 작용하며 α1 소단위 함유 수용체를 선호한다.",
+    "uses": "불면의 단기 치료에 사용한다.",
+    "caution": "졸음·어지러움 및 고용량의 기억상실·환각이 자료에 제시되어 있다.",
+    "source": {
+      "fileId": "source-2",
+      "pages": [
+        13
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "다음 중 Z-drug으로, α1 함유 GABAA 수용체를 선호하며 flumazenil로 작용을 억제할 수 있는 약물은?",
+        "choices": [
+          "Ramelteon",
+          "Zolpidem",
+          "Suvorexant",
+          "Buspirone"
+        ],
+        "answer": 1,
+        "explanation": "Zolpidem: GABAA의 benzodiazepine 결합부위에 작용하며 α1 소단위 함유 수용체를 선호한다. 불면의 단기 치료에 사용한다.",
+        "sourcePages": [
+          13
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Zolpidem의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "멜라토닌 MT1·MT2 수용체를 활성화하여 일주기 리듬을 조절한다.",
+          "Orexin OX1·OX2 수용체를 길항하여 각성 신호를 낮춘다.",
+          "GABAA의 benzodiazepine 결합부위에 작용하며 α1 소단위 함유 수용체를 선호한다.",
+          "5-HT1A 수용체의 부분작용제로 작용한다."
+        ],
+        "answer": 2,
+        "explanation": "Zolpidem: GABAA의 benzodiazepine 결합부위에 작용하며 α1 소단위 함유 수용체를 선호한다.",
+        "sourcePages": [
+          13
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Zolpidem과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "H3 역작용제로서 기면증에서 각성을 촉진한다.",
+          "Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다.",
+          "RyR1 직접 차단제로서 악성고열의 근육 Ca2+ 유리를 억제한다.",
+          "불면의 단기 치료에 사용한다."
+        ],
+        "answer": 3,
+        "explanation": "Zolpidem: 불면의 단기 치료에 사용한다. 기전은 다음과 같습니다. GABAA의 benzodiazepine 결합부위에 작용하며 α1 소단위 함유 수용체를 선호한다.",
+        "sourcePages": [
+          13
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Zolpidem의 주된 기전: GABAA의 benzodiazepine 결합부위에 작용하며 α1 소단위 함유 수용체를 선호한다.",
+      "b": "Zolpidem의 용도: H3 역작용제로서 기면증에서 각성을 촉진한다.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 맞습니다. GABAA의 benzodiazepine 결합부위에 작용하며 α1 소단위 함유 수용체를 선호한다. B는 틀립니다. 자료에 제시된 용도: 불면의 단기 치료에 사용한다.",
+      "sourcePages": [
+        13
+      ]
+    }
+  },
+  {
+    "id": "ch12-ramelteon",
+    "chapter": 12,
+    "name": "Ramelteon",
+    "nameKo": "라멜테온",
+    "drugClass": "멜라토닌 수용체 작용제",
+    "moa": "시교차상핵의 MT1·MT2 수용체를 자극하여 입면과 일주기 리듬을 조절한다.",
+    "uses": "수면장애에서 입면을 촉진하는 데 사용한다.",
+    "caution": "",
+    "source": {
+      "fileId": "source-2",
+      "pages": [
+        14
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "다음 중 GABA계가 아닌 멜라토닌 MT1·MT2 수용체에 작용하는 수면 약물은?",
+        "choices": [
+          "Zolpidem",
+          "Suvorexant",
+          "Ramelteon",
+          "Thiopental"
+        ],
+        "answer": 2,
+        "explanation": "Ramelteon: 시교차상핵의 MT1·MT2 수용체를 자극하여 입면과 일주기 리듬을 조절한다. 수면장애에서 입면을 촉진하는 데 사용한다.",
+        "sourcePages": [
+          14
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Ramelteon의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "GABAA의 benzodiazepine 부위에서 Cl− 채널 개방 빈도를 높인다.",
+          "Orexin OX1·OX2 수용체를 길항하여 각성 신호를 낮춘다.",
+          "GABAB 수용체를 활성화하여 척수 신경의 과흥분을 줄인다.",
+          "시교차상핵의 MT1·MT2 수용체를 자극하여 입면과 일주기 리듬을 조절한다."
+        ],
+        "answer": 3,
+        "explanation": "Ramelteon: 시교차상핵의 MT1·MT2 수용체를 자극하여 입면과 일주기 리듬을 조절한다.",
+        "sourcePages": [
+          14
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Ramelteon과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "수면장애에서 입면을 촉진하는 데 사용한다.",
+          "Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다.",
+          "BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다.",
+          "RyR1 직접 차단제로서 악성고열의 근육 Ca2+ 유리를 억제한다."
+        ],
+        "answer": 0,
+        "explanation": "Ramelteon: 수면장애에서 입면을 촉진하는 데 사용한다. 기전은 다음과 같습니다. 시교차상핵의 MT1·MT2 수용체를 자극하여 입면과 일주기 리듬을 조절한다.",
+        "sourcePages": [
+          14
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Ramelteon의 주된 기전: GABAA의 benzodiazepine 부위에서 Cl− 채널 개방 빈도를 높인다.",
+      "b": "Ramelteon의 용도: 수면장애에서 입면을 촉진하는 데 사용한다.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀립니다. 올바른 기전: 시교차상핵의 MT1·MT2 수용체를 자극하여 입면과 일주기 리듬을 조절한다. B는 맞습니다. 수면장애에서 입면을 촉진하는 데 사용한다.",
+      "sourcePages": [
+        14
+      ]
+    }
+  },
+  {
+    "id": "ch12-tasimelteon",
+    "chapter": 12,
+    "name": "Tasimelteon",
+    "nameKo": "타시멜테온",
+    "drugClass": "멜라토닌 수용체 작용제",
+    "moa": "멜라토닌 MT1·MT2 수용체를 자극하여 수면·각성의 일주기 리듬을 조절한다.",
+    "uses": "자료에는 완전 실명자의 non-24 수면각성장애에 사용하는 약물로 제시되어 있다.",
+    "caution": "",
+    "source": {
+      "fileId": "source-2",
+      "pages": [
+        14
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "완전 실명자의 non-24 수면각성장애와 특히 연결된 멜라토닌 수용체 작용제는?",
+        "choices": [
+          "Suvorexant",
+          "Pitolisant",
+          "Zolpidem",
+          "Tasimelteon"
+        ],
+        "answer": 3,
+        "explanation": "Tasimelteon: 멜라토닌 MT1·MT2 수용체를 자극하여 수면·각성의 일주기 리듬을 조절한다. 자료에는 완전 실명자의 non-24 수면각성장애에 사용하는 약물로 제시되어 있다.",
+        "sourcePages": [
+          14
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Tasimelteon의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "멜라토닌 MT1·MT2 수용체를 자극하여 수면·각성의 일주기 리듬을 조절한다.",
+          "Orexin OX1·OX2 수용체를 길항하여 각성 신호를 낮춘다.",
+          "히스타민 H3 자가수용체를 길항하여 히스타민 유리를 늘린다.",
+          "GABAA의 benzodiazepine 부위에서 Cl− 채널 개방 빈도를 높인다."
+        ],
+        "answer": 0,
+        "explanation": "Tasimelteon: 멜라토닌 MT1·MT2 수용체를 자극하여 수면·각성의 일주기 리듬을 조절한다.",
+        "sourcePages": [
+          14
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Tasimelteon과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "항BAFF 항체로서 전신홍반루푸스의 B세포 생존 신호를 억제한다.",
+          "자료에는 완전 실명자의 non-24 수면각성장애에 사용하는 약물로 제시되어 있다.",
+          "Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다.",
+          "RyR1 직접 차단제로서 악성고열의 근육 Ca2+ 유리를 억제한다."
+        ],
+        "answer": 1,
+        "explanation": "Tasimelteon: 자료에는 완전 실명자의 non-24 수면각성장애에 사용하는 약물로 제시되어 있다. 기전은 다음과 같습니다. 멜라토닌 MT1·MT2 수용체를 자극하여 수면·각성의 일주기 리듬을 조절한다.",
+        "sourcePages": [
+          14
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Tasimelteon의 주된 기전: Orexin OX1·OX2 수용체를 길항하여 각성 신호를 낮춘다.",
+      "b": "Tasimelteon의 용도: 항BAFF 항체로서 전신홍반루푸스의 B세포 생존 신호를 억제한다.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀립니다. 올바른 기전: 멜라토닌 MT1·MT2 수용체를 자극하여 수면·각성의 일주기 리듬을 조절한다. B는 틀립니다. 자료에 제시된 용도: 자료에는 완전 실명자의 non-24 수면각성장애에 사용하는 약물로 제시되어 있다.",
+      "sourcePages": [
+        14
+      ]
+    }
+  },
+  {
+    "id": "ch12-suvorexant",
+    "chapter": 12,
+    "name": "Suvorexant",
+    "nameKo": "수보렉산트",
+    "drugClass": "이중 orexin 수용체 길항제",
+    "moa": "OX1·OX2 orexin 수용체를 차단하여 각성을 유지하는 신호를 낮춘다.",
+    "uses": "각성 신호를 억제하여 수면을 유도하는 데 사용한다.",
+    "caution": "",
+    "source": {
+      "fileId": "source-2",
+      "pages": [
+        14
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "이중 orexin 수용체 길항제(DORA)로 분류되는 수면 약물은?",
+        "choices": [
+          "Suvorexant",
+          "Ramelteon",
+          "Zolpidem",
+          "Buspirone"
+        ],
+        "answer": 0,
+        "explanation": "Suvorexant: OX1·OX2 orexin 수용체를 차단하여 각성을 유지하는 신호를 낮춘다. 각성 신호를 억제하여 수면을 유도하는 데 사용한다.",
+        "sourcePages": [
+          14
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Suvorexant의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "멜라토닌 MT1·MT2 수용체를 활성화하여 일주기 리듬을 조절한다.",
+          "OX1·OX2 orexin 수용체를 차단하여 각성을 유지하는 신호를 낮춘다.",
+          "GABAA의 benzodiazepine 부위에서 Cl− 채널 개방 빈도를 높인다.",
+          "5-HT1A 수용체의 부분작용제로 작용한다."
+        ],
+        "answer": 1,
+        "explanation": "Suvorexant: OX1·OX2 orexin 수용체를 차단하여 각성을 유지하는 신호를 낮춘다.",
+        "sourcePages": [
+          14
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Suvorexant과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "H3 역작용제로서 기면증에서 각성을 촉진한다.",
+          "Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다.",
+          "각성 신호를 억제하여 수면을 유도하는 데 사용한다.",
+          "항BAFF 항체로서 전신홍반루푸스의 B세포 생존 신호를 억제한다."
+        ],
+        "answer": 2,
+        "explanation": "Suvorexant: 각성 신호를 억제하여 수면을 유도하는 데 사용한다. 기전은 다음과 같습니다. OX1·OX2 orexin 수용체를 차단하여 각성을 유지하는 신호를 낮춘다.",
+        "sourcePages": [
+          14
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Suvorexant의 주된 기전: OX1·OX2 orexin 수용체를 차단하여 각성을 유지하는 신호를 낮춘다.",
+      "b": "Suvorexant의 용도: 각성 신호를 억제하여 수면을 유도하는 데 사용한다.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 맞습니다. OX1·OX2 orexin 수용체를 차단하여 각성을 유지하는 신호를 낮춘다. B는 맞습니다. 각성 신호를 억제하여 수면을 유도하는 데 사용한다.",
+      "sourcePages": [
+        14
+      ]
+    }
+  },
+  {
+    "id": "ch12-doxepin-low-dose",
+    "chapter": 12,
+    "name": "Doxepin (low dose)",
+    "nameKo": "독세핀·저용량",
+    "drugClass": "H1 차단 작용 수면 약물",
+    "moa": "저용량에서 주로 히스타민 H1 수용체를 차단하여 진정을 유도한다.",
+    "uses": "저용량 제제는 수면 유지 개선에 사용한다.",
+    "caution": "이 카드의 기전은 자료에 제시된 저용량 수면 용도에 한정한다.",
+    "source": {
+      "fileId": "source-2",
+      "pages": [
+        15
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "자료에서 저용량일 때 H1 차단이 주로 나타나 수면 유지에 사용한다고 설명한 약물은?",
+        "choices": [
+          "Ramelteon",
+          "Doxepin (low dose)",
+          "Suvorexant",
+          "Buspirone"
+        ],
+        "answer": 1,
+        "explanation": "Doxepin (low dose): 저용량에서 주로 히스타민 H1 수용체를 차단하여 진정을 유도한다. 저용량 제제는 수면 유지 개선에 사용한다.",
+        "sourcePages": [
+          15
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Doxepin (low dose)의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "Orexin OX1·OX2 수용체를 길항하여 각성 신호를 낮춘다.",
+          "5-HT1A 수용체의 부분작용제로 작용한다.",
+          "저용량에서 주로 히스타민 H1 수용체를 차단하여 진정을 유도한다.",
+          "멜라토닌 MT1·MT2 수용체를 활성화하여 일주기 리듬을 조절한다."
+        ],
+        "answer": 2,
+        "explanation": "Doxepin (low dose): 저용량에서 주로 히스타민 H1 수용체를 차단하여 진정을 유도한다.",
+        "sourcePages": [
+          15
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Doxepin (low dose)과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "H3 역작용제로서 기면증에서 각성을 촉진한다.",
+          "Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다.",
+          "항BAFF 항체로서 전신홍반루푸스의 B세포 생존 신호를 억제한다.",
+          "저용량 제제는 수면 유지 개선에 사용한다."
+        ],
+        "answer": 3,
+        "explanation": "Doxepin (low dose): 저용량 제제는 수면 유지 개선에 사용한다. 기전은 다음과 같습니다. 저용량에서 주로 히스타민 H1 수용체를 차단하여 진정을 유도한다.",
+        "sourcePages": [
+          15
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Doxepin (low dose)의 주된 기전: 저용량에서 주로 히스타민 H1 수용체를 차단하여 진정을 유도한다.",
+      "b": "Doxepin (low dose)의 용도: H3 역작용제로서 기면증에서 각성을 촉진한다.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 맞습니다. 저용량에서 주로 히스타민 H1 수용체를 차단하여 진정을 유도한다. B는 틀립니다. 자료에 제시된 용도: 저용량 제제는 수면 유지 개선에 사용한다.",
+      "sourcePages": [
+        15
+      ]
+    }
+  },
+  {
+    "id": "ch13-methylphenidate",
+    "chapter": 13,
+    "name": "Methylphenidate",
+    "nameKo": "메틸페니데이트",
+    "drugClass": "NDRI 정신운동 흥분제",
+    "moa": "DAT·NET을 차단하여 도파민과 노르에피네프린의 재흡수를 억제한다.",
+    "uses": "주의력결핍과잉행동장애(ADHD)에 사용한다.",
+    "caution": "",
+    "source": {
+      "fileId": "source-2",
+      "pages": [
+        17
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "다음 중 ADHD에 쓰이는 흥분제이며 DAT·NET 차단에 의한 NDRI로 정리된 약물은?",
+        "choices": [
+          "Atomoxetine",
+          "Pitolisant",
+          "Methylphenidate",
+          "Buspirone"
+        ],
+        "answer": 2,
+        "explanation": "Methylphenidate: DAT·NET을 차단하여 도파민과 노르에피네프린의 재흡수를 억제한다. 주의력결핍과잉행동장애(ADHD)에 사용한다.",
+        "sourcePages": [
+          17
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Methylphenidate의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "히스타민 H3 자가수용체를 길항하여 히스타민 유리를 늘린다.",
+          "GABAA의 benzodiazepine 부위에서 Cl− 채널 개방 빈도를 높인다.",
+          "멜라토닌 MT1·MT2 수용체를 활성화하여 일주기 리듬을 조절한다.",
+          "DAT·NET을 차단하여 도파민과 노르에피네프린의 재흡수를 억제한다."
+        ],
+        "answer": 3,
+        "explanation": "Methylphenidate: DAT·NET을 차단하여 도파민과 노르에피네프린의 재흡수를 억제한다.",
+        "sourcePages": [
+          17
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Methylphenidate과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "주의력결핍과잉행동장애(ADHD)에 사용한다.",
+          "RyR1 직접 차단제로서 악성고열의 근육 Ca2+ 유리를 억제한다.",
+          "Lidocaine·prilocaine 공융혼합물로서 시술 전 표면마취에 사용한다.",
+          "BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다."
+        ],
+        "answer": 0,
+        "explanation": "Methylphenidate: 주의력결핍과잉행동장애(ADHD)에 사용한다. 기전은 다음과 같습니다. DAT·NET을 차단하여 도파민과 노르에피네프린의 재흡수를 억제한다.",
+        "sourcePages": [
+          17
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Methylphenidate의 주된 기전: 히스타민 H3 자가수용체를 길항하여 히스타민 유리를 늘린다.",
+      "b": "Methylphenidate의 용도: 주의력결핍과잉행동장애(ADHD)에 사용한다.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀립니다. 올바른 기전: DAT·NET을 차단하여 도파민과 노르에피네프린의 재흡수를 억제한다. B는 맞습니다. 주의력결핍과잉행동장애(ADHD)에 사용한다.",
+      "sourcePages": [
+        17
+      ]
+    }
+  },
+  {
+    "id": "ch13-atomoxetine",
+    "chapter": 13,
+    "name": "Atomoxetine",
+    "nameKo": "아토목세틴",
+    "drugClass": "선택적 NRI 비흥분제",
+    "moa": "노르에피네프린 재흡수를 선택적으로 억제한다.",
+    "uses": "ADHD에 사용하는 비흥분제 약물로 제시되어 있다.",
+    "caution": "",
+    "source": {
+      "fileId": "source-2",
+      "pages": [
+        17
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "ADHD 약물 중 비흥분제이며 선택적 노르에피네프린 재흡수 억제제인 것은?",
+        "choices": [
+          "Methylphenidate",
+          "Amphetamine",
+          "Pitolisant",
+          "Atomoxetine"
+        ],
+        "answer": 3,
+        "explanation": "Atomoxetine: 노르에피네프린 재흡수를 선택적으로 억제한다. ADHD에 사용하는 비흥분제 약물로 제시되어 있다.",
+        "sourcePages": [
+          17
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Atomoxetine의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "노르에피네프린 재흡수를 선택적으로 억제한다.",
+          "DAT·NET을 차단해 도파민과 노르에피네프린 재흡수를 억제한다.",
+          "히스타민 H3 자가수용체를 길항하여 히스타민 유리를 늘린다.",
+          "GABAA의 benzodiazepine 부위에서 Cl− 채널 개방 빈도를 높인다."
+        ],
+        "answer": 0,
+        "explanation": "Atomoxetine: 노르에피네프린 재흡수를 선택적으로 억제한다.",
+        "sourcePages": [
+          17
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Atomoxetine과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "Orexin 수용체 길항제로서 수면을 유도한다.",
+          "ADHD에 사용하는 비흥분제 약물로 제시되어 있다.",
+          "RyR1 직접 차단제로서 악성고열의 근육 Ca2+ 유리를 억제한다.",
+          "Lidocaine·prilocaine 공융혼합물로서 시술 전 표면마취에 사용한다."
+        ],
+        "answer": 1,
+        "explanation": "Atomoxetine: ADHD에 사용하는 비흥분제 약물로 제시되어 있다. 기전은 다음과 같습니다. 노르에피네프린 재흡수를 선택적으로 억제한다.",
+        "sourcePages": [
+          17
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Atomoxetine의 주된 기전: DAT·NET을 차단해 도파민과 노르에피네프린 재흡수를 억제한다.",
+      "b": "Atomoxetine의 용도: Orexin 수용체 길항제로서 수면을 유도한다.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀립니다. 올바른 기전: 노르에피네프린 재흡수를 선택적으로 억제한다. B는 틀립니다. 자료에 제시된 용도: ADHD에 사용하는 비흥분제 약물로 제시되어 있다.",
+      "sourcePages": [
+        17
+      ]
+    }
+  },
+  {
+    "id": "ch13-amphetamine",
+    "chapter": 13,
+    "name": "Amphetamine",
+    "nameKo": "암페타민",
+    "drugClass": "간접 교감신경 흥분제",
+    "moa": "DAT·NET을 통해 들어가 VMAT2를 방해하고 운반체를 역방향으로 작동시켜 DA·NE 방출을 늘린다.",
+    "uses": "자료에는 미국에서 ADHD 치료에 사용하는 흥분제로 제시되어 있다.",
+    "caution": "",
+    "source": {
+      "fileId": "source-2",
+      "pages": [
+        17
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "DAT·NET을 통해 신경말단에 들어가 VMAT2와 운반체 역전을 통해 DA·NE 방출을 늘리는 약물은?",
+        "choices": [
+          "Amphetamine",
+          "Methylphenidate",
+          "Atomoxetine",
+          "Pitolisant"
+        ],
+        "answer": 0,
+        "explanation": "Amphetamine: DAT·NET을 통해 들어가 VMAT2를 방해하고 운반체를 역방향으로 작동시켜 DA·NE 방출을 늘린다. 자료에는 미국에서 ADHD 치료에 사용하는 흥분제로 제시되어 있다.",
+        "sourcePages": [
+          17
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Amphetamine의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "히스타민 H3 자가수용체를 길항하여 히스타민 유리를 늘린다.",
+          "DAT·NET을 통해 들어가 VMAT2를 방해하고 운반체를 역방향으로 작동시켜 DA·NE 방출을 늘린다.",
+          "GABAA의 benzodiazepine 부위에서 Cl− 채널 개방 빈도를 높인다.",
+          "멜라토닌 MT1·MT2 수용체를 활성화하여 일주기 리듬을 조절한다."
+        ],
+        "answer": 1,
+        "explanation": "Amphetamine: DAT·NET을 통해 들어가 VMAT2를 방해하고 운반체를 역방향으로 작동시켜 DA·NE 방출을 늘린다.",
+        "sourcePages": [
+          17
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Amphetamine과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "항BAFF 항체로서 전신홍반루푸스의 B세포 생존 신호를 억제한다.",
+          "Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다.",
+          "자료에는 미국에서 ADHD 치료에 사용하는 흥분제로 제시되어 있다.",
+          "Orexin 수용체 길항제로서 수면을 유도한다."
+        ],
+        "answer": 2,
+        "explanation": "Amphetamine: 자료에는 미국에서 ADHD 치료에 사용하는 흥분제로 제시되어 있다. 기전은 다음과 같습니다. DAT·NET을 통해 들어가 VMAT2를 방해하고 운반체를 역방향으로 작동시켜 DA·NE 방출을 늘린다.",
+        "sourcePages": [
+          17
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Amphetamine의 주된 기전: DAT·NET을 통해 들어가 VMAT2를 방해하고 운반체를 역방향으로 작동시켜 DA·NE 방출을 늘린다.",
+      "b": "Amphetamine의 용도: 자료에는 미국에서 ADHD 치료에 사용하는 흥분제로 제시되어 있다.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 맞습니다. DAT·NET을 통해 들어가 VMAT2를 방해하고 운반체를 역방향으로 작동시켜 DA·NE 방출을 늘린다. B는 맞습니다. 자료에는 미국에서 ADHD 치료에 사용하는 흥분제로 제시되어 있다.",
+      "sourcePages": [
+        17
+      ]
+    }
+  },
+  {
+    "id": "ch13-modafinil",
+    "chapter": 13,
+    "name": "Modafinil",
+    "nameKo": "모다피닐",
+    "drugClass": "각성 촉진 약물",
+    "moa": "자료에서는 약한 DAT 억제와 orexin·NE계 활성화를 통한 각성 촉진으로 설명한다.",
+    "uses": "기면증(narcolepsy)의 각성 유지에 사용한다.",
+    "caution": "",
+    "source": {
+      "fileId": "source-2",
+      "pages": [
+        17
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "다음 중 armodafinil과 함께 기면증에 쓰이며 DAT 억제 및 orexin·NE계 활성화로 설명된 약물은?",
+        "choices": [
+          "Suvorexant",
+          "Modafinil",
+          "Tasimelteon",
+          "Atomoxetine"
+        ],
+        "answer": 1,
+        "explanation": "Modafinil: 자료에서는 약한 DAT 억제와 orexin·NE계 활성화를 통한 각성 촉진으로 설명한다. 기면증(narcolepsy)의 각성 유지에 사용한다.",
+        "sourcePages": [
+          17
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Modafinil의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "Orexin OX1·OX2 수용체를 길항하여 각성 신호를 낮춘다.",
+          "GABAA의 benzodiazepine 부위에서 Cl− 채널 개방 빈도를 높인다.",
+          "자료에서는 약한 DAT 억제와 orexin·NE계 활성화를 통한 각성 촉진으로 설명한다.",
+          "멜라토닌 MT1·MT2 수용체를 활성화하여 일주기 리듬을 조절한다."
+        ],
+        "answer": 2,
+        "explanation": "Modafinil: 자료에서는 약한 DAT 억제와 orexin·NE계 활성화를 통한 각성 촉진으로 설명한다.",
+        "sourcePages": [
+          17
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Modafinil과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "Orexin 수용체 길항제로서 수면을 유도한다.",
+          "Lidocaine·prilocaine 공융혼합물로서 시술 전 표면마취에 사용한다.",
+          "항BAFF 항체로서 전신홍반루푸스의 B세포 생존 신호를 억제한다.",
+          "기면증(narcolepsy)의 각성 유지에 사용한다."
+        ],
+        "answer": 3,
+        "explanation": "Modafinil: 기면증(narcolepsy)의 각성 유지에 사용한다. 기전은 다음과 같습니다. 자료에서는 약한 DAT 억제와 orexin·NE계 활성화를 통한 각성 촉진으로 설명한다.",
+        "sourcePages": [
+          17
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Modafinil의 주된 기전: 자료에서는 약한 DAT 억제와 orexin·NE계 활성화를 통한 각성 촉진으로 설명한다.",
+      "b": "Modafinil의 용도: Orexin 수용체 길항제로서 수면을 유도한다.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 맞습니다. 자료에서는 약한 DAT 억제와 orexin·NE계 활성화를 통한 각성 촉진으로 설명한다. B는 틀립니다. 자료에 제시된 용도: 기면증(narcolepsy)의 각성 유지에 사용한다.",
+      "sourcePages": [
+        17
+      ]
+    }
+  },
+  {
+    "id": "ch13-solriamfetol",
+    "chapter": 13,
+    "name": "Solriamfetol",
+    "nameKo": "솔리암페톨",
+    "drugClass": "NDRI 각성 촉진 약물",
+    "moa": "노르에피네프린과 도파민의 재흡수를 억제하는 NDRI이다.",
+    "uses": "이 자료에서는 기면증에 사용하는 각성 촉진 약물로 제시되어 있다.",
+    "caution": "",
+    "source": {
+      "fileId": "source-2",
+      "pages": [
+        17
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "다음 중 기면증 약물 표에서 NDRI로 제시된 약물은?",
+        "choices": [
+          "Pitolisant",
+          "Suvorexant",
+          "Solriamfetol",
+          "Ramelteon"
+        ],
+        "answer": 2,
+        "explanation": "Solriamfetol: 노르에피네프린과 도파민의 재흡수를 억제하는 NDRI이다. 이 자료에서는 기면증에 사용하는 각성 촉진 약물로 제시되어 있다.",
+        "sourcePages": [
+          17
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Solriamfetol의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "히스타민 H3 자가수용체를 길항하여 히스타민 유리를 늘린다.",
+          "Orexin OX1·OX2 수용체를 길항하여 각성 신호를 낮춘다.",
+          "멜라토닌 MT1·MT2 수용체를 활성화하여 일주기 리듬을 조절한다.",
+          "노르에피네프린과 도파민의 재흡수를 억제하는 NDRI이다."
+        ],
+        "answer": 3,
+        "explanation": "Solriamfetol: 노르에피네프린과 도파민의 재흡수를 억제하는 NDRI이다.",
+        "sourcePages": [
+          17
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Solriamfetol과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "이 자료에서는 기면증에 사용하는 각성 촉진 약물로 제시되어 있다.",
+          "항BAFF 항체로서 전신홍반루푸스의 B세포 생존 신호를 억제한다.",
+          "Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다.",
+          "Lidocaine·prilocaine 공융혼합물로서 시술 전 표면마취에 사용한다."
+        ],
+        "answer": 0,
+        "explanation": "Solriamfetol: 이 자료에서는 기면증에 사용하는 각성 촉진 약물로 제시되어 있다. 기전은 다음과 같습니다. 노르에피네프린과 도파민의 재흡수를 억제하는 NDRI이다.",
+        "sourcePages": [
+          17
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Solriamfetol의 주된 기전: 히스타민 H3 자가수용체를 길항하여 히스타민 유리를 늘린다.",
+      "b": "Solriamfetol의 용도: 이 자료에서는 기면증에 사용하는 각성 촉진 약물로 제시되어 있다.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀립니다. 올바른 기전: 노르에피네프린과 도파민의 재흡수를 억제하는 NDRI이다. B는 맞습니다. 이 자료에서는 기면증에 사용하는 각성 촉진 약물로 제시되어 있다.",
+      "sourcePages": [
+        17
+      ]
+    }
+  },
+  {
+    "id": "ch13-pitolisant",
+    "chapter": 13,
+    "name": "Pitolisant",
+    "nameKo": "피톨리산트",
+    "drugClass": "히스타민 H3 길항제·역작용제",
+    "moa": "H3 자가수용체를 길항하거나 역작용하여 히스타민 유리를 늘리고 각성을 유지한다.",
+    "uses": "기면증의 각성 유지에 사용한다.",
+    "caution": "",
+    "source": {
+      "fileId": "source-2",
+      "pages": [
+        17
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "히스타민 H3 자가수용체를 길항하거나 역작용하여 기면증의 각성을 돕는 약물은?",
+        "choices": [
+          "Solriamfetol",
+          "Methylphenidate",
+          "Suvorexant",
+          "Pitolisant"
+        ],
+        "answer": 3,
+        "explanation": "Pitolisant: H3 자가수용체를 길항하거나 역작용하여 히스타민 유리를 늘리고 각성을 유지한다. 기면증의 각성 유지에 사용한다.",
+        "sourcePages": [
+          17
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Pitolisant의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "H3 자가수용체를 길항하거나 역작용하여 히스타민 유리를 늘리고 각성을 유지한다.",
+          "Orexin OX1·OX2 수용체를 길항하여 각성 신호를 낮춘다.",
+          "멜라토닌 MT1·MT2 수용체를 활성화하여 일주기 리듬을 조절한다.",
+          "GABAA의 benzodiazepine 부위에서 Cl− 채널 개방 빈도를 높인다."
+        ],
+        "answer": 0,
+        "explanation": "Pitolisant: H3 자가수용체를 길항하거나 역작용하여 히스타민 유리를 늘리고 각성을 유지한다.",
+        "sourcePages": [
+          17
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Pitolisant과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "Orexin 수용체 길항제로서 수면을 유도한다.",
+          "기면증의 각성 유지에 사용한다.",
+          "RyR1 직접 차단제로서 악성고열의 근육 Ca2+ 유리를 억제한다.",
+          "BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다."
+        ],
+        "answer": 1,
+        "explanation": "Pitolisant: 기면증의 각성 유지에 사용한다. 기전은 다음과 같습니다. H3 자가수용체를 길항하거나 역작용하여 히스타민 유리를 늘리고 각성을 유지한다.",
+        "sourcePages": [
+          17
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Pitolisant의 주된 기전: Orexin OX1·OX2 수용체를 길항하여 각성 신호를 낮춘다.",
+      "b": "Pitolisant의 용도: Orexin 수용체 길항제로서 수면을 유도한다.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀립니다. 올바른 기전: H3 자가수용체를 길항하거나 역작용하여 히스타민 유리를 늘리고 각성을 유지한다. B는 틀립니다. 자료에 제시된 용도: 기면증의 각성 유지에 사용한다.",
+      "sourcePages": [
+        17
+      ]
+    }
+  },
+  {
+    "id": "ch13-caffeine",
+    "chapter": 13,
+    "name": "Caffeine",
+    "nameKo": "카페인",
+    "drugClass": "메틸잔틴",
+    "moa": "Adenosine A1·A2 수용체를 길항하며, 더 높은 농도에서는 PDE 억제도 나타난다.",
+    "uses": "자료에는 aspirin과의 병용을 통한 두통 용도가 제시되어 있다.",
+    "caution": "메틸잔틴 계열의 불면·빈맥·발작 등 이상반응이 자료에 정리되어 있다.",
+    "source": {
+      "fileId": "source-2",
+      "pages": [
+        18
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "다음 중 adenosine 수용체를 길항하는 메틸잔틴이며 aspirin과 병용하는 두통 용도가 제시된 약물은?",
+        "choices": [
+          "Caffeine",
+          "Pitolisant",
+          "Atomoxetine",
+          "Baclofen"
+        ],
+        "answer": 0,
+        "explanation": "Caffeine: Adenosine A1·A2 수용체를 길항하며, 더 높은 농도에서는 PDE 억제도 나타난다. 자료에는 aspirin과의 병용을 통한 두통 용도가 제시되어 있다.",
+        "sourcePages": [
+          18
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Caffeine의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "GABAB 수용체를 활성화하여 척수 신경의 과흥분을 줄인다.",
+          "Adenosine A1·A2 수용체를 길항하며, 더 높은 농도에서는 PDE 억제도 나타난다.",
+          "히스타민 H3 자가수용체를 길항하여 히스타민 유리를 늘린다.",
+          "B세포 생존 인자 BAFF를 단클론항체로 중화한다."
+        ],
+        "answer": 1,
+        "explanation": "Caffeine: Adenosine A1·A2 수용체를 길항하며, 더 높은 농도에서는 PDE 억제도 나타난다.",
+        "sourcePages": [
+          18
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Caffeine과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "항BAFF 항체로서 전신홍반루푸스의 B세포 생존 신호를 억제한다.",
+          "Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다.",
+          "자료에는 aspirin과의 병용을 통한 두통 용도가 제시되어 있다.",
+          "Lidocaine·prilocaine 공융혼합물로서 시술 전 표면마취에 사용한다."
+        ],
+        "answer": 2,
+        "explanation": "Caffeine: 자료에는 aspirin과의 병용을 통한 두통 용도가 제시되어 있다. 기전은 다음과 같습니다. Adenosine A1·A2 수용체를 길항하며, 더 높은 농도에서는 PDE 억제도 나타난다.",
+        "sourcePages": [
+          18
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Caffeine의 주된 기전: Adenosine A1·A2 수용체를 길항하며, 더 높은 농도에서는 PDE 억제도 나타난다.",
+      "b": "Caffeine의 용도: 자료에는 aspirin과의 병용을 통한 두통 용도가 제시되어 있다.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 맞습니다. Adenosine A1·A2 수용체를 길항하며, 더 높은 농도에서는 PDE 억제도 나타난다. B는 맞습니다. 자료에는 aspirin과의 병용을 통한 두통 용도가 제시되어 있다.",
+      "sourcePages": [
+        18
+      ]
+    }
+  },
+  {
+    "id": "ch13-theophylline",
+    "chapter": 13,
+    "name": "Theophylline",
+    "nameKo": "테오필린",
+    "drugClass": "메틸잔틴 기관지확장제",
+    "moa": "PDE를 억제해 cAMP를 높이고 adenosine 수용체를 길항한다.",
+    "uses": "자료에는 COPD의 기관지 평활근 이완 용도가 제시되어 있다.",
+    "caution": "치료역이 좁아 혈중농도 모니터링(TDM)과 발작·부정맥 독성이 학습 포인트이다.",
+    "source": {
+      "fileId": "source-2",
+      "pages": [
+        18
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "COPD 용도와 좁은 치료역에 따른 TDM이 함께 강조된 메틸잔틴 약물은?",
+        "choices": [
+          "Atomoxetine",
+          "Theophylline",
+          "Pitolisant",
+          "Baclofen"
+        ],
+        "answer": 1,
+        "explanation": "Theophylline: PDE를 억제해 cAMP를 높이고 adenosine 수용체를 길항한다. 자료에는 COPD의 기관지 평활근 이완 용도가 제시되어 있다.",
+        "sourcePages": [
+          18
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Theophylline의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "Orexin OX1·OX2 수용체를 길항하여 각성 신호를 낮춘다.",
+          "GABAB 수용체를 활성화하여 척수 신경의 과흥분을 줄인다.",
+          "PDE를 억제해 cAMP를 높이고 adenosine 수용체를 길항한다.",
+          "B세포 생존 인자 BAFF를 단클론항체로 중화한다."
+        ],
+        "answer": 2,
+        "explanation": "Theophylline: PDE를 억제해 cAMP를 높이고 adenosine 수용체를 길항한다.",
+        "sourcePages": [
+          18
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Theophylline과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다.",
+          "항BAFF 항체로서 전신홍반루푸스의 B세포 생존 신호를 억제한다.",
+          "Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다.",
+          "자료에는 COPD의 기관지 평활근 이완 용도가 제시되어 있다."
+        ],
+        "answer": 3,
+        "explanation": "Theophylline: 자료에는 COPD의 기관지 평활근 이완 용도가 제시되어 있다. 기전은 다음과 같습니다. PDE를 억제해 cAMP를 높이고 adenosine 수용체를 길항한다.",
+        "sourcePages": [
+          18
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Theophylline의 주된 기전: PDE를 억제해 cAMP를 높이고 adenosine 수용체를 길항한다.",
+      "b": "Theophylline의 용도: BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 맞습니다. PDE를 억제해 cAMP를 높이고 adenosine 수용체를 길항한다. B는 틀립니다. 자료에 제시된 용도: 자료에는 COPD의 기관지 평활근 이완 용도가 제시되어 있다.",
+      "sourcePages": [
+        18
+      ]
+    }
+  },
+  {
+    "id": "ch13-pentoxifylline",
+    "chapter": 13,
+    "name": "Pentoxifylline",
+    "nameKo": "펜톡시필린",
+    "drugClass": "메틸잔틴계 혈액 유동성 개선 약물",
+    "moa": "혈액 점도를 낮추는 기전으로 자료에 정리되어 있다.",
+    "uses": "뇌순환개선제 및 Raynaud 현상의 용도가 자료에 제시되어 있다.",
+    "caution": "",
+    "source": {
+      "fileId": "source-2",
+      "pages": [
+        18
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "메틸잔틴 관련 내용에서 혈액 점도 감소와 Raynaud 현상에 연결된 약물은?",
+        "choices": [
+          "Pitolisant",
+          "Ramelteon",
+          "Pentoxifylline",
+          "Sugammadex"
+        ],
+        "answer": 2,
+        "explanation": "Pentoxifylline: 혈액 점도를 낮추는 기전으로 자료에 정리되어 있다. 뇌순환개선제 및 Raynaud 현상의 용도가 자료에 제시되어 있다.",
+        "sourcePages": [
+          18
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Pentoxifylline의 주된 작용기전으로 맞는 것은?",
+        "choices": [
+          "B세포 생존 인자 BAFF를 단클론항체로 중화한다.",
+          "NM 수용체에서 ACh와 경쟁적으로 결합하여 신경근 전달을 차단한다.",
+          "멜라토닌 MT1·MT2 수용체를 활성화하여 일주기 리듬을 조절한다.",
+          "혈액 점도를 낮추는 기전으로 자료에 정리되어 있다."
+        ],
+        "answer": 3,
+        "explanation": "Pentoxifylline: 혈액 점도를 낮추는 기전으로 자료에 정리되어 있다.",
+        "sourcePages": [
+          18
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "자료에서 Pentoxifylline과 연결한 용도로 맞는 것은?",
+        "choices": [
+          "뇌순환개선제 및 Raynaud 현상의 용도가 자료에 제시되어 있다.",
+          "Cyclodextrin 포접제로서 rocuronium의 신경근 차단을 역전한다.",
+          "BZ 결합부위의 경쟁적 길항제로서 benzodiazepine 과량을 역전한다.",
+          "멜라토닌 수용체 작용제로서 non-24 수면각성장애에 사용한다."
+        ],
+        "answer": 0,
+        "explanation": "Pentoxifylline: 뇌순환개선제 및 Raynaud 현상의 용도가 자료에 제시되어 있다. 기전은 다음과 같습니다. 혈액 점도를 낮추는 기전으로 자료에 정리되어 있다.",
+        "sourcePages": [
+          18
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Pentoxifylline의 주된 기전: B세포 생존 인자 BAFF를 단클론항체로 중화한다.",
+      "b": "Pentoxifylline의 용도: 뇌순환개선제 및 Raynaud 현상의 용도가 자료에 제시되어 있다.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀립니다. 올바른 기전: 혈액 점도를 낮추는 기전으로 자료에 정리되어 있다. B는 맞습니다. 뇌순환개선제 및 Raynaud 현상의 용도가 자료에 제시되어 있다.",
+      "sourcePages": [
+        18
+      ]
+    }
+  }
+]

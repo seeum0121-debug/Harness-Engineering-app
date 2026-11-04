@@ -1,0 +1,4067 @@
+[
+  {
+    "id": "c20-disulfiram",
+    "chapter": 20,
+    "name": "Disulfiram",
+    "nameKo": "디설피람",
+    "drugClass": "ALDH 억제제",
+    "moa": "Aldehyde dehydrogenase(ALDH)를 억제해 음주 후 acetaldehyde가 축적되게 한다.",
+    "uses": "알코올 사용장애에서 음주 시 불쾌 반응을 유도하는 혐오요법",
+    "caution": "자료에 간독성과 심혈관 질환에서의 주의가 제시되어 있다.",
+    "source": {
+      "fileId": "source-5",
+      "pages": [
+        2,
+        5
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "ALDH를 억제하고 음주 시 acetaldehyde 축적에 따른 홍조·구역을 유도하는 약물은?",
+        "choices": [
+          "Disulfiram",
+          "Naltrexone",
+          "Fomepizole",
+          "Thiamine"
+        ],
+        "answer": 0,
+        "explanation": "Disulfiram: Aldehyde dehydrogenase(ALDH)를 억제해 음주 후 acetaldehyde가 축적되게 한다. 자료에서 연결한 용도는 알코올 사용장애에서 음주 시 불쾌 반응을 유도하는 혐오요법이다.",
+        "sourcePages": [
+          2,
+          5
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Disulfiram의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "Alcohol dehydrogenase를 억제해 methanol의 독성 대사체 생성을 줄인다.",
+          "Aldehyde dehydrogenase(ALDH)를 억제해 음주 후 acetaldehyde가 축적되게 한다.",
+          "중추 α2 수용체를 자극해 norepinephrine 과활성을 줄인다.",
+          "PDE-5를 억제해 평활근의 cGMP 분해를 줄인다."
+        ],
+        "answer": 1,
+        "explanation": "Disulfiram의 기전은 다음과 같다. Aldehyde dehydrogenase(ALDH)를 억제해 음주 후 acetaldehyde가 축적되게 한다.",
+        "sourcePages": [
+          2,
+          5
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Disulfiram과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "메탄올 중독에서 독성 대사체 형성 억제",
+          "Wernicke 뇌병증에서 비타민 결핍 보충",
+          "알코올 사용장애에서 음주 시 불쾌 반응을 유도하는 혐오요법",
+          "폐동맥 고혈압에서 폐혈관 이완"
+        ],
+        "answer": 2,
+        "explanation": "Disulfiram은 자료에서 알코올 사용장애에서 음주 시 불쾌 반응을 유도하는 혐오요법에 연결된다. Aldehyde dehydrogenase(ALDH)를 억제해 음주 후 acetaldehyde가 축적되게 한다.",
+        "sourcePages": [
+          2,
+          5
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Disulfiram의 작용기전은 다음과 같다: Aldehyde dehydrogenase(ALDH)를 억제해 음주 후 acetaldehyde가 축적되게 한다.",
+      "b": "Disulfiram의 용도는 다음과 같다: 알코올 사용장애에서 음주 시 불쾌 반응을 유도하는 혐오요법.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 옳다. Disulfiram의 실제 기전: Aldehyde dehydrogenase(ALDH)를 억제해 음주 후 acetaldehyde가 축적되게 한다. B는 옳다. 자료에서 Disulfiram에 연결한 실제 용도: 알코올 사용장애에서 음주 시 불쾌 반응을 유도하는 혐오요법.",
+      "sourcePages": [
+        2,
+        5
+      ]
+    }
+  },
+  {
+    "id": "c20-thiamine",
+    "chapter": 20,
+    "name": "Thiamine",
+    "nameKo": "티아민",
+    "drugClass": "비타민 B1",
+    "moa": "Pyruvate dehydrogenase·α-ketoglutarate dehydrogenase·transketolase의 보조인자로 에너지 대사를 돕는다.",
+    "uses": "티아민 결핍에 의한 Wernicke 뇌병증의 치료",
+    "caution": "자료는 영양결핍 음주자에서 포도당만 먼저 공급하면 결핍이 악화될 수 있다고 설명한다.",
+    "source": {
+      "fileId": "source-5",
+      "pages": [
+        3
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "혼돈·운동실조·안구운동 이상을 보이는 Wernicke 뇌병증과 연결되는 비타민은?",
+        "choices": [
+          "Disulfiram",
+          "Thiamine",
+          "Fomepizole",
+          "Naltrexone"
+        ],
+        "answer": 1,
+        "explanation": "Thiamine: Pyruvate dehydrogenase·α-ketoglutarate dehydrogenase·transketolase의 보조인자로 에너지 대사를 돕는다. 자료에서 연결한 용도는 티아민 결핍에 의한 Wernicke 뇌병증의 치료이다.",
+        "sourcePages": [
+          3
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Thiamine의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "ALDH를 억제해 acetaldehyde의 분해를 막는다.",
+          "5-HT3 이온채널을 차단해 구토 신호를 억제한다.",
+          "Pyruvate dehydrogenase·α-ketoglutarate dehydrogenase·transketolase의 보조인자로 에너지 대사를 돕는다.",
+          "Bradykinin B2 수용체를 차단해 부종 신호를 줄인다."
+        ],
+        "answer": 2,
+        "explanation": "Thiamine의 기전은 다음과 같다. Pyruvate dehydrogenase·α-ketoglutarate dehydrogenase·transketolase의 보조인자로 에너지 대사를 돕는다.",
+        "sourcePages": [
+          3
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Thiamine과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "음주 후 불쾌 반응을 유도하는 혐오요법",
+          "유전성 혈관부종 발작의 B2 수용체 차단 치료",
+          "폐동맥 고혈압에서 activin 신호 억제",
+          "티아민 결핍에 의한 Wernicke 뇌병증의 치료"
+        ],
+        "answer": 3,
+        "explanation": "Thiamine은 자료에서 티아민 결핍에 의한 Wernicke 뇌병증의 치료에 연결된다. Pyruvate dehydrogenase·α-ketoglutarate dehydrogenase·transketolase의 보조인자로 에너지 대사를 돕는다.",
+        "sourcePages": [
+          3
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Thiamine의 작용기전은 다음과 같다: Pyruvate dehydrogenase·α-ketoglutarate dehydrogenase·transketolase의 보조인자로 에너지 대사를 돕는다.",
+      "b": "Thiamine의 용도는 다음과 같다: 음주 후 불쾌 반응을 유도하는 혐오요법.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 옳다. Thiamine의 실제 기전: Pyruvate dehydrogenase·α-ketoglutarate dehydrogenase·transketolase의 보조인자로 에너지 대사를 돕는다. B는 틀리다. 자료에서 Thiamine에 연결한 실제 용도: 티아민 결핍에 의한 Wernicke 뇌병증의 치료.",
+      "sourcePages": [
+        3
+      ]
+    }
+  },
+  {
+    "id": "c20-naltrexone",
+    "chapter": 20,
+    "name": "Naltrexone",
+    "nameKo": "날트렉손",
+    "drugClass": "Opioid 길항제",
+    "moa": "내인성 opioid가 보상계 dopamine을 증가시키는 경로를 차단한다.",
+    "uses": "알코올 사용장애에서 보상 효과와 갈망을 줄이는 치료",
+    "caution": "자료는 opioid 의존 상태에서 급성 금단을 유발할 수 있음을 강조한다.",
+    "source": {
+      "fileId": "source-5",
+      "pages": [
+        5
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "음주 시 내인성 opioid가 보상계 dopamine을 높이는 고리를 차단하여 갈망을 줄이는 약물은?",
+        "choices": [
+          "Disulfiram",
+          "Thiamine",
+          "Naltrexone",
+          "Fomepizole"
+        ],
+        "answer": 2,
+        "explanation": "Naltrexone: 내인성 opioid가 보상계 dopamine을 증가시키는 경로를 차단한다. 자료에서 연결한 용도는 알코올 사용장애에서 보상 효과와 갈망을 줄이는 치료이다.",
+        "sourcePages": [
+          5
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Naltrexone의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "ALDH를 억제해 음주 후 acetaldehyde를 축적시킨다.",
+          "Alcohol dehydrogenase를 직접 억제해 formic acid 생성을 줄인다.",
+          "비타민 B1 보조인자로서 뇌의 에너지 대사를 보충한다.",
+          "내인성 opioid가 보상계 dopamine을 증가시키는 경로를 차단한다."
+        ],
+        "answer": 3,
+        "explanation": "Naltrexone의 기전은 다음과 같다. 내인성 opioid가 보상계 dopamine을 증가시키는 경로를 차단한다.",
+        "sourcePages": [
+          5
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Naltrexone과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "알코올 사용장애에서 보상 효과와 갈망을 줄이는 치료",
+          "티아민 결핍에 의한 Wernicke 뇌병증 치료",
+          "메탄올의 독성 대사체 생성을 막는 해독",
+          "H2 수용체 차단에 의한 위산 분비 억제"
+        ],
+        "answer": 0,
+        "explanation": "Naltrexone은 자료에서 알코올 사용장애에서 보상 효과와 갈망을 줄이는 치료에 연결된다. 내인성 opioid가 보상계 dopamine을 증가시키는 경로를 차단한다.",
+        "sourcePages": [
+          5
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Naltrexone의 작용기전은 다음과 같다: ALDH를 억제해 음주 후 acetaldehyde를 축적시킨다.",
+      "b": "Naltrexone의 용도는 다음과 같다: 알코올 사용장애에서 보상 효과와 갈망을 줄이는 치료.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀리다. Naltrexone의 실제 기전: 내인성 opioid가 보상계 dopamine을 증가시키는 경로를 차단한다. B는 옳다. 자료에서 Naltrexone에 연결한 실제 용도: 알코올 사용장애에서 보상 효과와 갈망을 줄이는 치료.",
+      "sourcePages": [
+        5
+      ]
+    }
+  },
+  {
+    "id": "c20-fomepizole",
+    "chapter": 20,
+    "name": "Fomepizole",
+    "nameKo": "포메피졸",
+    "drugClass": "Alcohol dehydrogenase 억제제",
+    "moa": "Alcohol dehydrogenase(ADH)를 억제해 methanol의 독성 대사체 생성을 줄인다.",
+    "uses": "메탄올 및 ethylene glycol 중독의 해독",
+    "caution": "메탄올 독성의 핵심은 formic acid에 의한 시신경 손상과 대사성 산증이다.",
+    "source": {
+      "fileId": "source-5",
+      "pages": [
+        6
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "ADH를 직접 억제하여 메탄올에서 독성 대사체가 만들어지는 것을 막는 약물은?",
+        "choices": [
+          "Disulfiram",
+          "Naltrexone",
+          "Diazepam",
+          "Fomepizole"
+        ],
+        "answer": 3,
+        "explanation": "Fomepizole: Alcohol dehydrogenase(ADH)를 억제해 methanol의 독성 대사체 생성을 줄인다. 자료에서 연결한 용도는 메탄올 및 ethylene glycol 중독의 해독이다.",
+        "sourcePages": [
+          6
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Fomepizole의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "Alcohol dehydrogenase(ADH)를 억제해 methanol의 독성 대사체 생성을 줄인다.",
+          "ALDH를 억제해 acetaldehyde가 축적되게 한다.",
+          "NMDA 수용체를 활성화해 흥분성 전달을 높인다.",
+          "Opioid 수용체의 보상 신호를 차단한다."
+        ],
+        "answer": 0,
+        "explanation": "Fomepizole의 기전은 다음과 같다. Alcohol dehydrogenase(ADH)를 억제해 methanol의 독성 대사체 생성을 줄인다.",
+        "sourcePages": [
+          6
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Fomepizole과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "알코올 사용장애에서 음주 혐오반응 유도",
+          "메탄올 및 ethylene glycol 중독의 해독",
+          "기면증에서 histamine 유리 증가",
+          "천식에서 cysteinyl-leukotriene 수용체 차단"
+        ],
+        "answer": 1,
+        "explanation": "Fomepizole은 자료에서 메탄올 및 ethylene glycol 중독의 해독에 연결된다. Alcohol dehydrogenase(ADH)를 억제해 methanol의 독성 대사체 생성을 줄인다.",
+        "sourcePages": [
+          6
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Fomepizole의 작용기전은 다음과 같다: ALDH를 억제해 acetaldehyde가 축적되게 한다.",
+      "b": "Fomepizole의 용도는 다음과 같다: 알코올 사용장애에서 음주 혐오반응 유도.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀리다. Fomepizole의 실제 기전: Alcohol dehydrogenase(ADH)를 억제해 methanol의 독성 대사체 생성을 줄인다. B는 틀리다. 자료에서 Fomepizole에 연결한 실제 용도: 메탄올 및 ethylene glycol 중독의 해독.",
+      "sourcePages": [
+        6
+      ]
+    }
+  },
+  {
+    "id": "c20-diazepam",
+    "chapter": 20,
+    "name": "Diazepam",
+    "nameKo": "디아제팜",
+    "drugClass": "Benzodiazepine",
+    "moa": "GABA_A 수용체를 통한 억제성 신호를 강화해 알코올 금단의 중추 흥분을 줄인다.",
+    "uses": "알코올 금단에서 발작·진전섬망 등 중추 흥분 증상의 치료",
+    "caution": "자료는 간손상 시 산화 대사와 활성대사체 축적 문제를 설명하고 lorazepam·oxazepam을 구분한다.",
+    "source": {
+      "fileId": "source-5",
+      "pages": [
+        3,
+        5
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "자료에서 장시간형 benzodiazepine으로 분류되어 알코올 금단 치료에 연결되는 약물은?",
+        "choices": [
+          "Diazepam",
+          "Disulfiram",
+          "Fomepizole",
+          "Thiamine"
+        ],
+        "answer": 0,
+        "explanation": "Diazepam: GABA_A 수용체를 통한 억제성 신호를 강화해 알코올 금단의 중추 흥분을 줄인다. 자료에서 연결한 용도는 알코올 금단에서 발작·진전섬망 등 중추 흥분 증상의 치료이다.",
+        "sourcePages": [
+          3,
+          5
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Diazepam의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "ALDH를 차단해 음주 시 불쾌 반응을 유도한다.",
+          "GABA_A 수용체를 통한 억제성 신호를 강화해 알코올 금단의 중추 흥분을 줄인다.",
+          "Activin 리간드를 포획해 혈관벽 증식을 억제한다.",
+          "H3 역작용으로 histamine 유리를 늘려 각성을 높인다."
+        ],
+        "answer": 1,
+        "explanation": "Diazepam의 기전은 다음과 같다. GABA_A 수용체를 통한 억제성 신호를 강화해 알코올 금단의 중추 흥분을 줄인다.",
+        "sourcePages": [
+          3,
+          5
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Diazepam과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "메탄올의 ADH 매개 독성 대사 억제",
+          "알코올 사용장애의 ALDH 억제 혐오요법",
+          "알코올 금단에서 발작·진전섬망 등 중추 흥분 증상의 치료",
+          "Wernicke 뇌병증의 비타민 B1 보충"
+        ],
+        "answer": 2,
+        "explanation": "Diazepam은 자료에서 알코올 금단에서 발작·진전섬망 등 중추 흥분 증상의 치료에 연결된다. GABA_A 수용체를 통한 억제성 신호를 강화해 알코올 금단의 중추 흥분을 줄인다.",
+        "sourcePages": [
+          3,
+          5
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Diazepam의 작용기전은 다음과 같다: GABA_A 수용체를 통한 억제성 신호를 강화해 알코올 금단의 중추 흥분을 줄인다.",
+      "b": "Diazepam의 용도는 다음과 같다: 알코올 금단에서 발작·진전섬망 등 중추 흥분 증상의 치료.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 옳다. Diazepam의 실제 기전: GABA_A 수용체를 통한 억제성 신호를 강화해 알코올 금단의 중추 흥분을 줄인다. B는 옳다. 자료에서 Diazepam에 연결한 실제 용도: 알코올 금단에서 발작·진전섬망 등 중추 흥분 증상의 치료.",
+      "sourcePages": [
+        3,
+        5
+      ]
+    }
+  },
+  {
+    "id": "c21-methadone",
+    "chapter": 21,
+    "name": "Methadone",
+    "nameKo": "메타돈",
+    "drugClass": "Opioid 수용체 작용제",
+    "moa": "μ-opioid 수용체 작용을 통해 opioid 효과를 나타낸다.",
+    "uses": "Opioid 의존의 유지요법",
+    "caution": "자료에서는 opioid 약물군과 유지요법 약물로 제시한다.",
+    "source": {
+      "fileId": "source-5",
+      "pages": [
+        9,
+        10
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "자료에서 opioid 약물군에 속하며 opioid 의존 유지요법에 사용하는 약물로 제시된 것은?",
+        "choices": [
+          "Clonidine",
+          "Methadone",
+          "Disulfiram",
+          "Fomepizole"
+        ],
+        "answer": 1,
+        "explanation": "Methadone: μ-opioid 수용체 작용을 통해 opioid 효과를 나타낸다. 자료에서 연결한 용도는 Opioid 의존의 유지요법이다.",
+        "sourcePages": [
+          9,
+          10
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Methadone의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "중추 α2 수용체를 자극해 자율신경 과활성을 낮춘다.",
+          "CB1 수용체를 부분 활성화해 cannabinoid 효과를 낸다.",
+          "μ-opioid 수용체 작용을 통해 opioid 효과를 나타낸다.",
+          "5-HT3 이온채널을 차단해 급성 구토 신호를 낮춘다."
+        ],
+        "answer": 2,
+        "explanation": "Methadone의 기전은 다음과 같다. μ-opioid 수용체 작용을 통해 opioid 효과를 나타낸다.",
+        "sourcePages": [
+          9,
+          10
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Methadone과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "메탄올 중독에서 ADH 직접 억제",
+          "알코올 사용장애의 혐오요법",
+          "GPR55 등 여러 표적을 통한 소아 뇌전증 치료",
+          "Opioid 의존의 유지요법"
+        ],
+        "answer": 3,
+        "explanation": "Methadone은 자료에서 Opioid 의존의 유지요법에 연결된다. μ-opioid 수용체 작용을 통해 opioid 효과를 나타낸다.",
+        "sourcePages": [
+          9,
+          10
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Methadone의 작용기전은 다음과 같다: μ-opioid 수용체 작용을 통해 opioid 효과를 나타낸다.",
+      "b": "Methadone의 용도는 다음과 같다: 메탄올 중독에서 ADH 직접 억제.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 옳다. Methadone의 실제 기전: μ-opioid 수용체 작용을 통해 opioid 효과를 나타낸다. B는 틀리다. 자료에서 Methadone에 연결한 실제 용도: Opioid 의존의 유지요법.",
+      "sourcePages": [
+        9,
+        10
+      ]
+    }
+  },
+  {
+    "id": "c21-clonidine",
+    "chapter": 21,
+    "name": "Clonidine",
+    "nameKo": "클로니딘",
+    "drugClass": "중추 α2 수용체 작용제",
+    "moa": "중추 α2 수용체 작용으로 청반의 norepinephrine 과활성을 억제한다.",
+    "uses": "Opioid 금단의 빈맥·발한 등 자율신경 증상 완화",
+    "caution": "자료는 opioid 유지요법 약물과 자율신경 금단증상 완화 약물을 구분한다.",
+    "source": {
+      "fileId": "source-5",
+      "pages": [
+        10
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "Opioid 금단에서 청반의 NE 과활성을 중추 α2 작용으로 억제하는 약물은?",
+        "choices": [
+          "Methadone",
+          "Dronabinol",
+          "Clonidine",
+          "Disulfiram"
+        ],
+        "answer": 2,
+        "explanation": "Clonidine: 중추 α2 수용체 작용으로 청반의 norepinephrine 과활성을 억제한다. 자료에서 연결한 용도는 Opioid 금단의 빈맥·발한 등 자율신경 증상 완화이다.",
+        "sourcePages": [
+          10
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Clonidine의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "μ-opioid 수용체 작용으로 opioid 효과를 제공한다.",
+          "ALDH를 억제해 음주 후 acetaldehyde를 축적시킨다.",
+          "GPR55 길항 등 여러 표적을 통해 신경 흥분성을 낮춘다.",
+          "중추 α2 수용체 작용으로 청반의 norepinephrine 과활성을 억제한다."
+        ],
+        "answer": 3,
+        "explanation": "Clonidine의 기전은 다음과 같다. 중추 α2 수용체 작용으로 청반의 norepinephrine 과활성을 억제한다.",
+        "sourcePages": [
+          10
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Clonidine과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "Opioid 금단의 빈맥·발한 등 자율신경 증상 완화",
+          "알코올 사용장애에서 혐오반응 유도",
+          "Cannabinoid 작용을 이용한 식욕 촉진",
+          "메탄올 중독의 독성 대사체 생성 억제"
+        ],
+        "answer": 0,
+        "explanation": "Clonidine은 자료에서 Opioid 금단의 빈맥·발한 등 자율신경 증상 완화에 연결된다. 중추 α2 수용체 작용으로 청반의 norepinephrine 과활성을 억제한다.",
+        "sourcePages": [
+          10
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Clonidine의 작용기전은 다음과 같다: μ-opioid 수용체 작용으로 opioid 효과를 제공한다.",
+      "b": "Clonidine의 용도는 다음과 같다: Opioid 금단의 빈맥·발한 등 자율신경 증상 완화.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀리다. Clonidine의 실제 기전: 중추 α2 수용체 작용으로 청반의 norepinephrine 과활성을 억제한다. B는 옳다. 자료에서 Clonidine에 연결한 실제 용도: Opioid 금단의 빈맥·발한 등 자율신경 증상 완화.",
+      "sourcePages": [
+        10
+      ]
+    }
+  },
+  {
+    "id": "c21-dronabinol",
+    "chapter": 21,
+    "name": "Dronabinol",
+    "nameKo": "드로나비놀",
+    "drugClass": "THC 계열 cannabinoid",
+    "moa": "THC의 CB1 부분작용을 통해 cannabinoid 효과를 나타낸다.",
+    "uses": "항암화학요법 유발 오심·구토(CINV)와 식욕 촉진",
+    "caution": "THC의 정신활성은 CB1을 거의 활성화하지 않는 cannabidiol과 구분된다.",
+    "source": {
+      "fileId": "source-5",
+      "pages": [
+        11,
+        12
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "THC의 약물 형태로, CB1 부분작용과 CINV·식욕 촉진이 연결되는 것은?",
+        "choices": [
+          "Cannabidiol",
+          "Clonidine",
+          "Fomepizole",
+          "Dronabinol"
+        ],
+        "answer": 3,
+        "explanation": "Dronabinol: THC의 CB1 부분작용을 통해 cannabinoid 효과를 나타낸다. 자료에서 연결한 용도는 항암화학요법 유발 오심·구토(CINV)와 식욕 촉진이다.",
+        "sourcePages": [
+          11,
+          12
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Dronabinol의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "THC의 CB1 부분작용을 통해 cannabinoid 효과를 나타낸다.",
+          "CB1을 거의 활성화하지 않고 GPR55 등 여러 표적으로 신경 흥분성을 낮춘다.",
+          "중추 α2 수용체를 자극해 NE 과활성을 억제한다.",
+          "Substance P의 NK1 수용체를 선택적으로 차단한다."
+        ],
+        "answer": 0,
+        "explanation": "Dronabinol의 기전은 다음과 같다. THC의 CB1 부분작용을 통해 cannabinoid 효과를 나타낸다.",
+        "sourcePages": [
+          11,
+          12
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Dronabinol과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "Lennox–Gastaut·Dravet 증후군의 소아 뇌전증 치료",
+          "항암화학요법 유발 오심·구토(CINV)와 식욕 촉진",
+          "ADH 직접 억제에 의한 메탄올 중독 해독",
+          "Opioid 금단의 자율신경 증상 완화"
+        ],
+        "answer": 1,
+        "explanation": "Dronabinol은 자료에서 항암화학요법 유발 오심·구토(CINV)와 식욕 촉진에 연결된다. THC의 CB1 부분작용을 통해 cannabinoid 효과를 나타낸다.",
+        "sourcePages": [
+          11,
+          12
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Dronabinol의 작용기전은 다음과 같다: CB1을 거의 활성화하지 않고 GPR55 등 여러 표적으로 신경 흥분성을 낮춘다.",
+      "b": "Dronabinol의 용도는 다음과 같다: Lennox–Gastaut·Dravet 증후군의 소아 뇌전증 치료.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀리다. Dronabinol의 실제 기전: THC의 CB1 부분작용을 통해 cannabinoid 효과를 나타낸다. B는 틀리다. 자료에서 Dronabinol에 연결한 실제 용도: 항암화학요법 유발 오심·구토(CINV)와 식욕 촉진.",
+      "sourcePages": [
+        11,
+        12
+      ]
+    }
+  },
+  {
+    "id": "c21-cannabidiol",
+    "chapter": 21,
+    "name": "Cannabidiol",
+    "nameKo": "칸나비디올",
+    "drugClass": "Cannabinoid계 항경련 약물",
+    "moa": "강의자료에서는 CB1을 거의 활성화하지 않으며, GPR55 길항 등 여러 표적이 신경 흥분성 감소에 관여하는 것으로 설명한다.",
+    "uses": "Lennox–Gastaut(LGS) 및 Dravet 증후군의 소아 뇌전증 치료",
+    "caution": "THC의 CB1 부분작용과 구분하며, 자료의 다중 표적 설명을 하나의 확정된 기전으로 단순화하지 않는다.",
+    "source": {
+      "fileId": "source-5",
+      "pages": [
+        11,
+        12
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "자료에서 CB1 활성화가 적고 GPR55 등 여러 표적과 연결해 설명하며 LGS·Dravet 증후군에 제시한 약물은?",
+        "choices": [
+          "Cannabidiol",
+          "Dronabinol",
+          "Methadone",
+          "Clonidine"
+        ],
+        "answer": 0,
+        "explanation": "Cannabidiol: 강의자료에서는 CB1을 거의 활성화하지 않으며, GPR55 길항 등 여러 표적이 신경 흥분성 감소에 관여하는 것으로 설명한다. 자료에서 연결한 용도는 Lennox–Gastaut(LGS) 및 Dravet 증후군의 소아 뇌전증 치료이다.",
+        "sourcePages": [
+          11,
+          12
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "강의자료에서 Cannabidiol의 작용기전에 관해 설명한 것은?",
+        "choices": [
+          "CB1 부분작용을 통해 THC의 정신활성과 식욕 촉진을 유도한다.",
+          "강의자료에서는 CB1을 거의 활성화하지 않으며, GPR55 길항 등 여러 표적이 신경 흥분성 감소에 관여하는 것으로 설명한다.",
+          "μ-opioid 수용체 작용으로 opioid 효과를 낸다.",
+          "중추 α2 수용체 작용으로 청반의 NE 과활성을 낮춘다."
+        ],
+        "answer": 1,
+        "explanation": "강의자료는 Cannabidiol을 THC와 구분하고 GPR55 길항 등 여러 표적의 관여로 설명합니다. 이 설명을 하나의 확정된 사람의 항경련 기전으로 단정하지 않습니다.",
+        "sourcePages": [
+          11,
+          12
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Cannabidiol과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "THC 작용을 이용한 CINV 및 식욕 촉진",
+          "Opioid 의존의 유지요법",
+          "Lennox–Gastaut(LGS) 및 Dravet 증후군의 소아 뇌전증 치료",
+          "알코올 사용장애의 ALDH 억제 혐오요법"
+        ],
+        "answer": 2,
+        "explanation": "Cannabidiol은 자료에서 Lennox–Gastaut(LGS) 및 Dravet 증후군의 소아 뇌전증 치료에 연결된다. 강의자료에서는 CB1을 거의 활성화하지 않으며, GPR55 길항 등 여러 표적이 신경 흥분성 감소에 관여하는 것으로 설명한다.",
+        "sourcePages": [
+          11,
+          12
+        ]
+      }
+    ],
+    "ab": {
+      "a": "강의자료에서는 Cannabidiol을 CB1 활성화가 적고 GPR55 길항 등 여러 표적이 관여하는 약물로 설명한다.",
+      "b": "Cannabidiol의 용도는 다음과 같다: Lennox–Gastaut(LGS) 및 Dravet 증후군의 소아 뇌전증 치료.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 옳다. 자료는 THC의 CB1 부분작용과 구별되는 Cannabidiol의 다중 표적 설명을 제시한다. 정확한 항경련 효과를 하나의 확정된 표적 기전으로 단정하는 문장은 아니다. B는 옳다. 자료에는 LGS 및 Dravet 증후군의 소아 뇌전증 치료가 제시되어 있다.",
+      "sourcePages": [
+        11,
+        12
+      ]
+    }
+  },
+  {
+    "id": "c22-diphenhydramine",
+    "chapter": 22,
+    "name": "Diphenhydramine",
+    "nameKo": "디펜히드라민",
+    "drugClass": "1세대 H1 항히스타민제",
+    "moa": "H1 수용체를 차단하며 중추 진정 및 항무스카린 작용을 나타낸다.",
+    "uses": "알레르기 증상·멀미 및 OTC 수면제",
+    "caution": "중추 진정과 구갈·배뇨이상 같은 항무스카린 부작용을 구분한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        6,
+        8
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "1세대 ethanolamine계 H1 항히스타민제로, 강한 진정 및 OTC 수면제 용도가 제시된 약물은?",
+        "choices": [
+          "Fexofenadine",
+          "Diphenhydramine",
+          "Famotidine",
+          "Pitolisant"
+        ],
+        "answer": 1,
+        "explanation": "Diphenhydramine: H1 수용체를 차단하며 중추 진정 및 항무스카린 작용을 나타낸다. 자료에서 연결한 용도는 알레르기 증상·멀미 및 OTC 수면제이다.",
+        "sourcePages": [
+          6,
+          8
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Diphenhydramine의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "H2 수용체를 차단해 위산 분비를 억제한다.",
+          "H3 수용체 역작용으로 histamine 유리를 늘린다.",
+          "H1 수용체를 차단하며 중추 진정 및 항무스카린 작용을 나타낸다.",
+          "5-HT4 수용체를 자극해 장 연동운동을 촉진한다."
+        ],
+        "answer": 2,
+        "explanation": "Diphenhydramine의 기전은 다음과 같다. H1 수용체를 차단하며 중추 진정 및 항무스카린 작용을 나타낸다.",
+        "sourcePages": [
+          6,
+          8
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Diphenhydramine과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "H2 수용체 차단을 이용한 소화성 궤양 치료",
+          "Histamine 유리 증가를 이용한 기면증 각성",
+          "폐동맥 고혈압에서 activin 신호 억제",
+          "알레르기 증상·멀미 및 OTC 수면제"
+        ],
+        "answer": 3,
+        "explanation": "Diphenhydramine은 자료에서 알레르기 증상·멀미 및 OTC 수면제에 연결된다. H1 수용체를 차단하며 중추 진정 및 항무스카린 작용을 나타낸다.",
+        "sourcePages": [
+          6,
+          8
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Diphenhydramine의 작용기전은 다음과 같다: H1 수용체를 차단하며 중추 진정 및 항무스카린 작용을 나타낸다.",
+      "b": "Diphenhydramine의 용도는 다음과 같다: H2 수용체 차단을 이용한 소화성 궤양 치료.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 옳다. Diphenhydramine의 실제 기전: H1 수용체를 차단하며 중추 진정 및 항무스카린 작용을 나타낸다. B는 틀리다. 자료에서 Diphenhydramine에 연결한 실제 용도: 알레르기 증상·멀미 및 OTC 수면제.",
+      "sourcePages": [
+        6,
+        8
+      ]
+    }
+  },
+  {
+    "id": "c22-dimenhydrinate",
+    "chapter": 22,
+    "name": "Dimenhydrinate",
+    "nameKo": "디멘히드리네이트",
+    "drugClass": "1세대 H1 항히스타민제",
+    "moa": "Diphenhydramine 성분의 H1·항무스카린 작용으로 전정계 구토 신호를 억제한다.",
+    "uses": "멀미의 예방·완화",
+    "caution": "자료에서는 diphenhydramine과 8-chlorotheophylline의 조합으로 설명한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        6
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "Diphenhydramine과 8-chlorotheophylline의 조합이며 멀미와 연결되는 약물은?",
+        "choices": [
+          "Chlorpheniramine",
+          "Cimetidine",
+          "Dimenhydrinate",
+          "Loratadine"
+        ],
+        "answer": 2,
+        "explanation": "Dimenhydrinate: Diphenhydramine 성분의 H1·항무스카린 작용으로 전정계 구토 신호를 억제한다. 자료에서 연결한 용도는 멀미의 예방·완화이다.",
+        "sourcePages": [
+          6
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Dimenhydrinate의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "벽세포 H2 수용체 차단으로 위산 분비를 억제한다.",
+          "5-HT4 수용체 활성으로 장 연동운동을 증가시킨다.",
+          "Bradykinin B2 수용체 차단으로 혈관부종을 완화한다.",
+          "Diphenhydramine 성분의 H1·항무스카린 작용으로 전정계 구토 신호를 억제한다."
+        ],
+        "answer": 3,
+        "explanation": "Dimenhydrinate의 기전은 다음과 같다. Diphenhydramine 성분의 H1·항무스카린 작용으로 전정계 구토 신호를 억제한다.",
+        "sourcePages": [
+          6
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Dimenhydrinate과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "멀미의 예방·완화",
+          "박출률 감소 심부전에서 neprilysin 억제",
+          "유전성 혈관부종의 장기 예방",
+          "Lennox–Gastaut 증후군의 뇌전증 치료"
+        ],
+        "answer": 0,
+        "explanation": "Dimenhydrinate은 자료에서 멀미의 예방·완화에 연결된다. Diphenhydramine 성분의 H1·항무스카린 작용으로 전정계 구토 신호를 억제한다.",
+        "sourcePages": [
+          6
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Dimenhydrinate의 작용기전은 다음과 같다: 벽세포 H2 수용체 차단으로 위산 분비를 억제한다.",
+      "b": "Dimenhydrinate의 용도는 다음과 같다: 멀미의 예방·완화.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀리다. Dimenhydrinate의 실제 기전: Diphenhydramine 성분의 H1·항무스카린 작용으로 전정계 구토 신호를 억제한다. B는 옳다. 자료에서 Dimenhydrinate에 연결한 실제 용도: 멀미의 예방·완화.",
+      "sourcePages": [
+        6
+      ]
+    }
+  },
+  {
+    "id": "c22-chlorpheniramine",
+    "chapter": 22,
+    "name": "Chlorpheniramine",
+    "nameKo": "클로르페니라민",
+    "drugClass": "1세대 alkylamine계 H1 항히스타민제",
+    "moa": "H1 수용체를 차단하는 1세대 항히스타민 작용을 나타낸다.",
+    "uses": "감기약의 항히스타민 성분으로 사용",
+    "caution": "자료는 ethanolamine계보다 상대적으로 약한 진정을 제시한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        6,
+        8
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "1세대 alkylamine계 항히스타민제로, 자료에서 감기약 성분으로 연결한 것은?",
+        "choices": [
+          "Famotidine",
+          "Pitolisant",
+          "Ondansetron",
+          "Chlorpheniramine"
+        ],
+        "answer": 3,
+        "explanation": "Chlorpheniramine: H1 수용체를 차단하는 1세대 항히스타민 작용을 나타낸다. 자료에서 연결한 용도는 감기약의 항히스타민 성분으로 사용이다.",
+        "sourcePages": [
+          6,
+          8
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Chlorpheniramine의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "H1 수용체를 차단하는 1세대 항히스타민 작용을 나타낸다.",
+          "H2 수용체를 차단해 위산 분비를 줄인다.",
+          "H3 역작용으로 중추 histamine 유리를 늘린다.",
+          "5-HT3 이온채널을 차단해 구토 신호를 줄인다."
+        ],
+        "answer": 0,
+        "explanation": "Chlorpheniramine의 기전은 다음과 같다. H1 수용체를 차단하는 1세대 항히스타민 작용을 나타낸다.",
+        "sourcePages": [
+          6,
+          8
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Chlorpheniramine과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "중추성 요붕증의 항이뇨 치료",
+          "감기약의 항히스타민 성분으로 사용",
+          "박출률 감소 심부전의 ARNI 치료",
+          "메탄올 중독의 ADH 억제 해독"
+        ],
+        "answer": 1,
+        "explanation": "Chlorpheniramine은 자료에서 감기약의 항히스타민 성분으로 사용에 연결된다. H1 수용체를 차단하는 1세대 항히스타민 작용을 나타낸다.",
+        "sourcePages": [
+          6,
+          8
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Chlorpheniramine의 작용기전은 다음과 같다: H2 수용체를 차단해 위산 분비를 줄인다.",
+      "b": "Chlorpheniramine의 용도는 다음과 같다: 중추성 요붕증의 항이뇨 치료.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀리다. Chlorpheniramine의 실제 기전: H1 수용체를 차단하는 1세대 항히스타민 작용을 나타낸다. B는 틀리다. 자료에서 Chlorpheniramine에 연결한 실제 용도: 감기약의 항히스타민 성분으로 사용.",
+      "sourcePages": [
+        6,
+        8
+      ]
+    }
+  },
+  {
+    "id": "c22-fexofenadine",
+    "chapter": 22,
+    "name": "Fexofenadine",
+    "nameKo": "펙소페나딘",
+    "drugClass": "2세대 H1 항히스타민제",
+    "moa": "선택적으로 H1 수용체를 차단하며 중추 침투가 적어 진정이 상대적으로 적다.",
+    "uses": "두드러기·가려움 등 알레르기 증상 완화",
+    "caution": "자료는 terfenadine의 활성대사체이며 hERG 차단 문제가 없는 것으로 구분한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        7,
+        8
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "Terfenadine의 활성대사체로, 진정이 적은 2세대 H1 항히스타민제는?",
+        "choices": [
+          "Fexofenadine",
+          "Cimetidine",
+          "Diphenhydramine",
+          "Pitolisant"
+        ],
+        "answer": 0,
+        "explanation": "Fexofenadine: 선택적으로 H1 수용체를 차단하며 중추 침투가 적어 진정이 상대적으로 적다. 자료에서 연결한 용도는 두드러기·가려움 등 알레르기 증상 완화이다.",
+        "sourcePages": [
+          7,
+          8
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Fexofenadine의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "중추 H3 수용체 역작용으로 각성 신호를 높인다.",
+          "선택적으로 H1 수용체를 차단하며 중추 침투가 적어 진정이 상대적으로 적다.",
+          "H2 수용체 차단으로 위산 분비를 줄인다.",
+          "ALDH 억제로 acetaldehyde를 축적시킨다."
+        ],
+        "answer": 1,
+        "explanation": "Fexofenadine의 기전은 다음과 같다. 선택적으로 H1 수용체를 차단하며 중추 침투가 적어 진정이 상대적으로 적다.",
+        "sourcePages": [
+          7,
+          8
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Fexofenadine과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "Opioid 의존의 유지요법",
+          "V2 수용체 작용을 이용한 중추성 요붕증 치료",
+          "두드러기·가려움 등 알레르기 증상 완화",
+          "폐동맥 고혈압에서 sGC 직접 자극"
+        ],
+        "answer": 2,
+        "explanation": "Fexofenadine은 자료에서 두드러기·가려움 등 알레르기 증상 완화에 연결된다. 선택적으로 H1 수용체를 차단하며 중추 침투가 적어 진정이 상대적으로 적다.",
+        "sourcePages": [
+          7,
+          8
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Fexofenadine의 작용기전은 다음과 같다: 선택적으로 H1 수용체를 차단하며 중추 침투가 적어 진정이 상대적으로 적다.",
+      "b": "Fexofenadine의 용도는 다음과 같다: 두드러기·가려움 등 알레르기 증상 완화.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 옳다. Fexofenadine의 실제 기전: 선택적으로 H1 수용체를 차단하며 중추 침투가 적어 진정이 상대적으로 적다. B는 옳다. 자료에서 Fexofenadine에 연결한 실제 용도: 두드러기·가려움 등 알레르기 증상 완화.",
+      "sourcePages": [
+        7,
+        8
+      ]
+    }
+  },
+  {
+    "id": "c22-cyproheptadine",
+    "chapter": 22,
+    "name": "Cyproheptadine",
+    "nameKo": "시프로헵타딘",
+    "drugClass": "항세로토닌성 1세대 항히스타민제",
+    "moa": "H1 항히스타민 작용과 5-HT2A 길항 작용을 함께 나타낸다.",
+    "uses": "한랭 두드러기·식욕 촉진 및 serotonin 증후군",
+    "caution": "자료는 항무스카린 작용이 강한 항세로토닌성 1세대 약물로 정리한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        7,
+        13
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "항세로토닌성 1세대 항히스타민제로, 식욕 촉진과 serotonin 증후군이 연결되는 약물은?",
+        "choices": [
+          "Fexofenadine",
+          "Cyproheptadine",
+          "Pitolisant",
+          "Famotidine"
+        ],
+        "answer": 1,
+        "explanation": "Cyproheptadine: H1 항히스타민 작용과 5-HT2A 길항 작용을 함께 나타낸다. 자료에서 연결한 용도는 한랭 두드러기·식욕 촉진 및 serotonin 증후군이다.",
+        "sourcePages": [
+          7,
+          13
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Cyproheptadine의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "H3 수용체의 역작용제로 histamine 유리를 높인다.",
+          "5-HT1B/1D 수용체를 자극해 CGRP 유리를 줄인다.",
+          "H1 항히스타민 작용과 5-HT2A 길항 작용을 함께 나타낸다.",
+          "5-HT4 수용체를 자극해 위장관 운동을 촉진한다."
+        ],
+        "answer": 2,
+        "explanation": "Cyproheptadine의 기전은 다음과 같다. H1 항히스타민 작용과 5-HT2A 길항 작용을 함께 나타낸다.",
+        "sourcePages": [
+          7,
+          13
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Cyproheptadine과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "기면증의 각성 증진",
+          "H2 수용체 차단을 통한 GERD 치료",
+          "메탄올 중독의 독성 대사체 생성 억제",
+          "한랭 두드러기·식욕 촉진 및 serotonin 증후군"
+        ],
+        "answer": 3,
+        "explanation": "Cyproheptadine은 자료에서 한랭 두드러기·식욕 촉진 및 serotonin 증후군에 연결된다. H1 항히스타민 작용과 5-HT2A 길항 작용을 함께 나타낸다.",
+        "sourcePages": [
+          7,
+          13
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Cyproheptadine의 작용기전은 다음과 같다: H1 항히스타민 작용과 5-HT2A 길항 작용을 함께 나타낸다.",
+      "b": "Cyproheptadine의 용도는 다음과 같다: 기면증의 각성 증진.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 옳다. Cyproheptadine의 실제 기전: H1 항히스타민 작용과 5-HT2A 길항 작용을 함께 나타낸다. B는 틀리다. 자료에서 Cyproheptadine에 연결한 실제 용도: 한랭 두드러기·식욕 촉진 및 serotonin 증후군.",
+      "sourcePages": [
+        7,
+        13
+      ]
+    }
+  },
+  {
+    "id": "c22-famotidine",
+    "chapter": 22,
+    "name": "Famotidine",
+    "nameKo": "파모티딘",
+    "drugClass": "H2 수용체 길항제",
+    "moa": "위 벽세포의 H2 수용체 신호를 차단해 위산 분비를 억제한다.",
+    "uses": "위·십이지장 궤양 및 위식도역류질환(GERD)",
+    "caution": "자료에서 cimetidine의 CYP 억제·항안드로겐 문제와 구분한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        9
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "위산 분비를 억제하는 H2 길항제이며 cimetidine의 CYP 억제 문제가 거의 없는 것으로 제시된 약물은?",
+        "choices": [
+          "Diphenhydramine",
+          "Pitolisant",
+          "Famotidine",
+          "Fexofenadine"
+        ],
+        "answer": 2,
+        "explanation": "Famotidine: 위 벽세포의 H2 수용체 신호를 차단해 위산 분비를 억제한다. 자료에서 연결한 용도는 위·십이지장 궤양 및 위식도역류질환(GERD)이다.",
+        "sourcePages": [
+          9
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Famotidine의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "위장관 5-HT4 수용체를 활성화해 운동을 촉진한다.",
+          "히스타민 H3 역작용으로 중추 각성을 높인다.",
+          "H1 수용체를 차단해 알레르기 증상을 줄인다.",
+          "위 벽세포의 H2 수용체 신호를 차단해 위산 분비를 억제한다."
+        ],
+        "answer": 3,
+        "explanation": "Famotidine의 기전은 다음과 같다. 위 벽세포의 H2 수용체 신호를 차단해 위산 분비를 억제한다.",
+        "sourcePages": [
+          9
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Famotidine과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "위·십이지장 궤양 및 위식도역류질환(GERD)",
+          "중추성 요붕증의 항이뇨 치료",
+          "폐동맥 고혈압의 activin 리간드 포획",
+          "알코올 사용장애의 혐오요법"
+        ],
+        "answer": 0,
+        "explanation": "Famotidine은 자료에서 위·십이지장 궤양 및 위식도역류질환(GERD)에 연결된다. 위 벽세포의 H2 수용체 신호를 차단해 위산 분비를 억제한다.",
+        "sourcePages": [
+          9
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Famotidine의 작용기전은 다음과 같다: 위장관 5-HT4 수용체를 활성화해 운동을 촉진한다.",
+      "b": "Famotidine의 용도는 다음과 같다: 위·십이지장 궤양 및 위식도역류질환(GERD).",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀리다. Famotidine의 실제 기전: 위 벽세포의 H2 수용체 신호를 차단해 위산 분비를 억제한다. B는 옳다. 자료에서 Famotidine에 연결한 실제 용도: 위·십이지장 궤양 및 위식도역류질환(GERD).",
+      "sourcePages": [
+        9
+      ]
+    }
+  },
+  {
+    "id": "c22-cimetidine",
+    "chapter": 22,
+    "name": "Cimetidine",
+    "nameKo": "시메티딘",
+    "drugClass": "H2 수용체 길항제",
+    "moa": "H2 수용체를 차단해 위산 분비를 억제한다.",
+    "uses": "위·십이지장 궤양·GERD·Zollinger–Ellison 증후군",
+    "caution": "CYP 억제에 의한 상호작용과 항안드로겐 작용에 의한 여성형 유방이 특징이다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        9
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "H2 길항제 중 CYP 억제에 의한 상호작용과 여성형 유방이 특징적으로 제시된 약물은?",
+        "choices": [
+          "Famotidine",
+          "Fexofenadine",
+          "Pitolisant",
+          "Cimetidine"
+        ],
+        "answer": 3,
+        "explanation": "Cimetidine: H2 수용체를 차단해 위산 분비를 억제한다. 자료에서 연결한 용도는 위·십이지장 궤양·GERD·Zollinger–Ellison 증후군이다.",
+        "sourcePages": [
+          9
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Cimetidine의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "H2 수용체를 차단해 위산 분비를 억제한다.",
+          "H3 수용체 역작용으로 histamine 유리를 증가시킨다.",
+          "5-HT3 이온채널을 차단해 구토를 줄인다.",
+          "ClC-2 채널을 활성화해 장내 수분을 늘린다."
+        ],
+        "answer": 0,
+        "explanation": "Cimetidine의 기전은 다음과 같다. H2 수용체를 차단해 위산 분비를 억제한다.",
+        "sourcePages": [
+          9
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Cimetidine과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "Lennox–Gastaut·Dravet 증후군 치료",
+          "위·십이지장 궤양·GERD·Zollinger–Ellison 증후군",
+          "CGRP 차단에 의한 편두통 예방",
+          "메탄올 중독에서 ADH 직접 억제"
+        ],
+        "answer": 1,
+        "explanation": "Cimetidine은 자료에서 위·십이지장 궤양·GERD·Zollinger–Ellison 증후군에 연결된다. H2 수용체를 차단해 위산 분비를 억제한다.",
+        "sourcePages": [
+          9
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Cimetidine의 작용기전은 다음과 같다: H3 수용체 역작용으로 histamine 유리를 증가시킨다.",
+      "b": "Cimetidine의 용도는 다음과 같다: Lennox–Gastaut·Dravet 증후군 치료.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀리다. Cimetidine의 실제 기전: H2 수용체를 차단해 위산 분비를 억제한다. B는 틀리다. 자료에서 Cimetidine에 연결한 실제 용도: 위·십이지장 궤양·GERD·Zollinger–Ellison 증후군.",
+      "sourcePages": [
+        9
+      ]
+    }
+  },
+  {
+    "id": "c22-pitolisant",
+    "chapter": 22,
+    "name": "Pitolisant",
+    "nameKo": "피톨리산트",
+    "drugClass": "H3 수용체 길항제·역작용제",
+    "moa": "H3 수용체 길항·역작용으로 histamine 유리를 증가시켜 각성을 높인다.",
+    "uses": "기면증에서 각성 증진",
+    "caution": "졸림을 유발할 수 있는 중추 H1 차단제와 작용 방향을 구분한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        5,
+        8
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "Histamine H3 수용체 역작용으로 histamine 유리를 늘려 기면증에 사용하는 약물은?",
+        "choices": [
+          "Pitolisant",
+          "Diphenhydramine",
+          "Famotidine",
+          "Cyproheptadine"
+        ],
+        "answer": 0,
+        "explanation": "Pitolisant: H3 수용체 길항·역작용으로 histamine 유리를 증가시켜 각성을 높인다. 자료에서 연결한 용도는 기면증에서 각성 증진이다.",
+        "sourcePages": [
+          5,
+          8
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Pitolisant의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "중추 H1 수용체를 차단해 진정 작용을 낸다.",
+          "H3 수용체 길항·역작용으로 histamine 유리를 증가시켜 각성을 높인다.",
+          "H2 수용체를 차단해 위산 분비를 줄인다.",
+          "중추 α2 수용체 작용으로 NE 유리를 줄인다."
+        ],
+        "answer": 1,
+        "explanation": "Pitolisant의 기전은 다음과 같다. H3 수용체 길항·역작용으로 histamine 유리를 증가시켜 각성을 높인다.",
+        "sourcePages": [
+          5,
+          8
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Pitolisant과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "NSAID 유발 위궤양의 예방·치료",
+          "THC 작용을 이용한 식욕 촉진",
+          "기면증에서 각성 증진",
+          "유전성 혈관부종 발작의 B2 수용체 차단 치료"
+        ],
+        "answer": 2,
+        "explanation": "Pitolisant은 자료에서 기면증에서 각성 증진에 연결된다. H3 수용체 길항·역작용으로 histamine 유리를 증가시켜 각성을 높인다.",
+        "sourcePages": [
+          5,
+          8
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Pitolisant의 작용기전은 다음과 같다: H3 수용체 길항·역작용으로 histamine 유리를 증가시켜 각성을 높인다.",
+      "b": "Pitolisant의 용도는 다음과 같다: 기면증에서 각성 증진.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 옳다. Pitolisant의 실제 기전: H3 수용체 길항·역작용으로 histamine 유리를 증가시켜 각성을 높인다. B는 옳다. 자료에서 Pitolisant에 연결한 실제 용도: 기면증에서 각성 증진.",
+      "sourcePages": [
+        5,
+        8
+      ]
+    }
+  },
+  {
+    "id": "c23-sumatriptan",
+    "chapter": 23,
+    "name": "Sumatriptan",
+    "nameKo": "수마트립탄",
+    "drugClass": "5-HT1B/1D 수용체 작용제",
+    "moa": "5-HT1B/1D 작용으로 뇌혈관을 수축시키고 삼차신경 말단의 CGRP 유리를 억제한다.",
+    "uses": "편두통 발작의 급성기 치료",
+    "caution": "자료는 혈관수축 때문에 관상동맥질환·조절되지 않는 고혈압에서 주의해야 함을 제시한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        12
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "5-HT1B/1D 작용을 통해 뇌혈관 수축과 CGRP 유리 억제를 일으키는 편두통 약물은?",
+        "choices": [
+          "Lasmiditan",
+          "Sumatriptan",
+          "Ondansetron",
+          "Prucalopride"
+        ],
+        "answer": 1,
+        "explanation": "Sumatriptan: 5-HT1B/1D 작용으로 뇌혈관을 수축시키고 삼차신경 말단의 CGRP 유리를 억제한다. 자료에서 연결한 용도는 편두통 발작의 급성기 치료이다.",
+        "sourcePages": [
+          12
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Sumatriptan의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "5-HT1F 수용체를 자극해 혈관수축 없이 신경 억제를 유도한다.",
+          "5-HT3 이온채널을 차단해 구토 신호를 낮춘다.",
+          "5-HT1B/1D 작용으로 뇌혈관을 수축시키고 삼차신경 말단의 CGRP 유리를 억제한다.",
+          "5-HT4 수용체를 자극해 장 연동운동을 높인다."
+        ],
+        "answer": 2,
+        "explanation": "Sumatriptan의 기전은 다음과 같다. 5-HT1B/1D 작용으로 뇌혈관을 수축시키고 삼차신경 말단의 CGRP 유리를 억제한다.",
+        "sourcePages": [
+          12
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Sumatriptan과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "여성의 중증 설사형 과민성장증후군 치료",
+          "만성 변비에서 장 연동운동 촉진",
+          "Carcinoid 증후군의 serotonin 합성 억제",
+          "편두통 발작의 급성기 치료"
+        ],
+        "answer": 3,
+        "explanation": "Sumatriptan은 자료에서 편두통 발작의 급성기 치료에 연결된다. 5-HT1B/1D 작용으로 뇌혈관을 수축시키고 삼차신경 말단의 CGRP 유리를 억제한다.",
+        "sourcePages": [
+          12
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Sumatriptan의 작용기전은 다음과 같다: 5-HT1B/1D 작용으로 뇌혈관을 수축시키고 삼차신경 말단의 CGRP 유리를 억제한다.",
+      "b": "Sumatriptan의 용도는 다음과 같다: 여성의 중증 설사형 과민성장증후군 치료.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 옳다. Sumatriptan의 실제 기전: 5-HT1B/1D 작용으로 뇌혈관을 수축시키고 삼차신경 말단의 CGRP 유리를 억제한다. B는 틀리다. 자료에서 Sumatriptan에 연결한 실제 용도: 편두통 발작의 급성기 치료.",
+      "sourcePages": [
+        12
+      ]
+    }
+  },
+  {
+    "id": "c23-lasmiditan",
+    "chapter": 23,
+    "name": "Lasmiditan",
+    "nameKo": "라스미디탄",
+    "drugClass": "5-HT1F 수용체 작용제",
+    "moa": "5-HT1F 수용체를 자극해 혈관수축 없이 신경 억제를 유도한다.",
+    "uses": "편두통 치료",
+    "caution": "자료의 보충 설명은 어지러움·졸림을 특징으로 든다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        12
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "Triptan과 달리 혈관수축 없이 5-HT1F를 통해 작용하는 편두통 약물은?",
+        "choices": [
+          "Sumatriptan",
+          "Alosetron",
+          "Lasmiditan",
+          "Metoclopramide"
+        ],
+        "answer": 2,
+        "explanation": "Lasmiditan: 5-HT1F 수용체를 자극해 혈관수축 없이 신경 억제를 유도한다. 자료에서 연결한 용도는 편두통 치료이다.",
+        "sourcePages": [
+          12
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Lasmiditan의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "5-HT1B/1D 수용체 작용으로 혈관수축을 유도한다.",
+          "5-HT3 수용체를 차단해 장 운동과 분비를 줄인다.",
+          "말초 tryptophan hydroxylase를 억제해 serotonin 합성을 줄인다.",
+          "5-HT1F 수용체를 자극해 혈관수축 없이 신경 억제를 유도한다."
+        ],
+        "answer": 3,
+        "explanation": "Lasmiditan의 기전은 다음과 같다. 5-HT1F 수용체를 자극해 혈관수축 없이 신경 억제를 유도한다.",
+        "sourcePages": [
+          12
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Lasmiditan과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "편두통 치료",
+          "중증 설사형 과민성장증후군 치료",
+          "만성 변비에서 위장관 운동 촉진",
+          "항암화학요법의 급성 오심·구토 예방"
+        ],
+        "answer": 0,
+        "explanation": "Lasmiditan은 자료에서 편두통 치료에 연결된다. 5-HT1F 수용체를 자극해 혈관수축 없이 신경 억제를 유도한다.",
+        "sourcePages": [
+          12
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Lasmiditan의 작용기전은 다음과 같다: 5-HT1B/1D 수용체 작용으로 혈관수축을 유도한다.",
+      "b": "Lasmiditan의 용도는 다음과 같다: 편두통 치료.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀리다. Lasmiditan의 실제 기전: 5-HT1F 수용체를 자극해 혈관수축 없이 신경 억제를 유도한다. B는 옳다. 자료에서 Lasmiditan에 연결한 실제 용도: 편두통 치료.",
+      "sourcePages": [
+        12
+      ]
+    }
+  },
+  {
+    "id": "c23-ondansetron",
+    "chapter": 23,
+    "name": "Ondansetron",
+    "nameKo": "온단세트론",
+    "drugClass": "5-HT3 수용체 길항제",
+    "moa": "미주신경 구심섬유·CTZ의 5-HT3 이온채널을 차단해 구토 신호를 억제한다.",
+    "uses": "항암화학요법 유발 급성 오심·구토 및 수술 후 구토 예방",
+    "caution": "자료는 setron 계열의 QT 연장 위험을 제시한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        13
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "5-HT3 이온채널을 차단하며 항암화학요법의 급성 구토와 수술 후 구토에 연결되는 setron 약물은?",
+        "choices": [
+          "Sumatriptan",
+          "Prucalopride",
+          "Telotristat ethyl",
+          "Ondansetron"
+        ],
+        "answer": 3,
+        "explanation": "Ondansetron: 미주신경 구심섬유·CTZ의 5-HT3 이온채널을 차단해 구토 신호를 억제한다. 자료에서 연결한 용도는 항암화학요법 유발 급성 오심·구토 및 수술 후 구토 예방이다.",
+        "sourcePages": [
+          13
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Ondansetron의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "미주신경 구심섬유·CTZ의 5-HT3 이온채널을 차단해 구토 신호를 억제한다.",
+          "5-HT1B/1D 작용으로 혈관수축과 CGRP 유리 억제를 일으킨다.",
+          "Somatostatin 수용체 작용으로 종양의 호르몬 분비를 억제한다.",
+          "5-HT4 작용으로 장의 ACh 유리와 연동운동을 촉진한다."
+        ],
+        "answer": 0,
+        "explanation": "Ondansetron의 기전은 다음과 같다. 미주신경 구심섬유·CTZ의 5-HT3 이온채널을 차단해 구토 신호를 억제한다.",
+        "sourcePages": [
+          13
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Ondansetron과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "편두통 발작의 혈관수축성 치료",
+          "항암화학요법 유발 급성 오심·구토 및 수술 후 구토 예방",
+          "만성 변비에서 장 연동운동 촉진",
+          "유전성 혈관부종 발작의 bradykinin 차단"
+        ],
+        "answer": 1,
+        "explanation": "Ondansetron은 자료에서 항암화학요법 유발 급성 오심·구토 및 수술 후 구토 예방에 연결된다. 미주신경 구심섬유·CTZ의 5-HT3 이온채널을 차단해 구토 신호를 억제한다.",
+        "sourcePages": [
+          13
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Ondansetron의 작용기전은 다음과 같다: 5-HT1B/1D 작용으로 혈관수축과 CGRP 유리 억제를 일으킨다.",
+      "b": "Ondansetron의 용도는 다음과 같다: 편두통 발작의 혈관수축성 치료.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀리다. Ondansetron의 실제 기전: 미주신경 구심섬유·CTZ의 5-HT3 이온채널을 차단해 구토 신호를 억제한다. B는 틀리다. 자료에서 Ondansetron에 연결한 실제 용도: 항암화학요법 유발 급성 오심·구토 및 수술 후 구토 예방.",
+      "sourcePages": [
+        13
+      ]
+    }
+  },
+  {
+    "id": "c23-alosetron",
+    "chapter": 23,
+    "name": "Alosetron",
+    "nameKo": "알로세트론",
+    "drugClass": "5-HT3 수용체 길항제",
+    "moa": "장의 5-HT3 수용체를 차단해 장 운동과 분비를 줄인다.",
+    "uses": "여성의 중증 설사형 과민성장증후군(IBS-D)",
+    "caution": "심한 변비와 허혈성 대장염이 자료의 주요 부작용이다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        13
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "5-HT3 길항제 중 여성의 중증 IBS-D에 사용하며 허혈성 대장염이 주요 주의점인 약물은?",
+        "choices": [
+          "Alosetron",
+          "Ondansetron",
+          "Prucalopride",
+          "Lasmiditan"
+        ],
+        "answer": 0,
+        "explanation": "Alosetron: 장의 5-HT3 수용체를 차단해 장 운동과 분비를 줄인다. 자료에서 연결한 용도는 여성의 중증 설사형 과민성장증후군(IBS-D)이다.",
+        "sourcePages": [
+          13
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Alosetron의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "5-HT4 수용체 활성으로 ACh 유리와 연동운동을 늘린다.",
+          "장의 5-HT3 수용체를 차단해 장 운동과 분비를 줄인다.",
+          "5-HT1F 수용체 작용으로 혈관수축 없이 신경을 억제한다.",
+          "ClC-2 채널을 활성화해 장관의 수분을 늘린다."
+        ],
+        "answer": 1,
+        "explanation": "Alosetron의 기전은 다음과 같다. 장의 5-HT3 수용체를 차단해 장 운동과 분비를 줄인다.",
+        "sourcePages": [
+          13
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Alosetron과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "만성 변비에서 장 운동 촉진",
+          "편두통 급성기에서 신경 억제",
+          "여성의 중증 설사형 과민성장증후군(IBS-D)",
+          "박출률 감소 심부전의 neprilysin 억제"
+        ],
+        "answer": 2,
+        "explanation": "Alosetron은 자료에서 여성의 중증 설사형 과민성장증후군(IBS-D)에 연결된다. 장의 5-HT3 수용체를 차단해 장 운동과 분비를 줄인다.",
+        "sourcePages": [
+          13
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Alosetron의 작용기전은 다음과 같다: 장의 5-HT3 수용체를 차단해 장 운동과 분비를 줄인다.",
+      "b": "Alosetron의 용도는 다음과 같다: 여성의 중증 설사형 과민성장증후군(IBS-D).",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 옳다. Alosetron의 실제 기전: 장의 5-HT3 수용체를 차단해 장 운동과 분비를 줄인다. B는 옳다. 자료에서 Alosetron에 연결한 실제 용도: 여성의 중증 설사형 과민성장증후군(IBS-D).",
+      "sourcePages": [
+        13
+      ]
+    }
+  },
+  {
+    "id": "c23-prucalopride",
+    "chapter": 23,
+    "name": "Prucalopride",
+    "nameKo": "프루칼로프라이드",
+    "drugClass": "5-HT4 수용체 작용제",
+    "moa": "5-HT4 수용체를 자극해 장 콜린성 신경의 ACh 유리와 연동운동을 늘린다.",
+    "uses": "만성 변비",
+    "caution": "자료는 cisapride와 비교하여 5-HT4 선택성이 높은 약물로 제시한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        13,
+        14
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "5-HT4 선택성이 높고 자료에서 만성 변비 치료와 연결되는 약물은?",
+        "choices": [
+          "Alosetron",
+          "Prucalopride",
+          "Ondansetron",
+          "Telotristat ethyl"
+        ],
+        "answer": 1,
+        "explanation": "Prucalopride: 5-HT4 수용체를 자극해 장 콜린성 신경의 ACh 유리와 연동운동을 늘린다. 자료에서 연결한 용도는 만성 변비이다.",
+        "sourcePages": [
+          13,
+          14
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Prucalopride의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "장의 5-HT3 수용체를 차단해 운동과 분비를 줄인다.",
+          "말초 tryptophan hydroxylase를 억제해 serotonin 합성을 낮춘다.",
+          "5-HT4 수용체를 자극해 장 콜린성 신경의 ACh 유리와 연동운동을 늘린다.",
+          "Somatostatin 수용체를 자극해 호르몬 분비를 낮춘다."
+        ],
+        "answer": 2,
+        "explanation": "Prucalopride의 기전은 다음과 같다. 5-HT4 수용체를 자극해 장 콜린성 신경의 ACh 유리와 연동운동을 늘린다.",
+        "sourcePages": [
+          13,
+          14
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Prucalopride과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "여성의 중증 IBS-D 치료",
+          "항암화학요법의 급성 구토 예방",
+          "Carcinoid 증후군 설사의 serotonin 합성 억제",
+          "만성 변비"
+        ],
+        "answer": 3,
+        "explanation": "Prucalopride은 자료에서 만성 변비에 연결된다. 5-HT4 수용체를 자극해 장 콜린성 신경의 ACh 유리와 연동운동을 늘린다.",
+        "sourcePages": [
+          13,
+          14
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Prucalopride의 작용기전은 다음과 같다: 5-HT4 수용체를 자극해 장 콜린성 신경의 ACh 유리와 연동운동을 늘린다.",
+      "b": "Prucalopride의 용도는 다음과 같다: 여성의 중증 IBS-D 치료.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 옳다. Prucalopride의 실제 기전: 5-HT4 수용체를 자극해 장 콜린성 신경의 ACh 유리와 연동운동을 늘린다. B는 틀리다. 자료에서 Prucalopride에 연결한 실제 용도: 만성 변비.",
+      "sourcePages": [
+        13,
+        14
+      ]
+    }
+  },
+  {
+    "id": "c23-metoclopramide",
+    "chapter": 23,
+    "name": "Metoclopramide",
+    "nameKo": "메토클로프라미드",
+    "drugClass": "5-HT4 작용·D2 길항 위장관 운동촉진제",
+    "moa": "5-HT4 작용으로 위장관 운동을 촉진하며 D2 길항 작용도 나타낸다.",
+    "uses": "위장관 운동 촉진·GERD 및 진토",
+    "caution": "자료는 5-HT4 작용과 D2 길항을 함께 연결한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        13,
+        14
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "5-HT4 작용과 D2 길항을 함께 가지며 위장관 운동 촉진·진토에 사용하는 약물은?",
+        "choices": [
+          "Prucalopride",
+          "Alosetron",
+          "Metoclopramide",
+          "Sumatriptan"
+        ],
+        "answer": 2,
+        "explanation": "Metoclopramide: 5-HT4 작용으로 위장관 운동을 촉진하며 D2 길항 작용도 나타낸다. 자료에서 연결한 용도는 위장관 운동 촉진·GERD 및 진토이다.",
+        "sourcePages": [
+          13,
+          14
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Metoclopramide의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "5-HT1B/1D 작용으로 뇌혈관 수축을 일으킨다.",
+          "말초 tryptophan hydroxylase를 억제해 serotonin을 줄인다.",
+          "CGRP를 항체로 포획해 신경성 염증을 줄인다.",
+          "5-HT4 작용으로 위장관 운동을 촉진하며 D2 길항 작용도 나타낸다."
+        ],
+        "answer": 3,
+        "explanation": "Metoclopramide의 기전은 다음과 같다. 5-HT4 작용으로 위장관 운동을 촉진하며 D2 길항 작용도 나타낸다.",
+        "sourcePages": [
+          13,
+          14
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Metoclopramide과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "위장관 운동 촉진·GERD 및 진토",
+          "편두통의 혈관수축성 급성기 치료",
+          "ALDH 억제에 의한 음주 혐오요법",
+          "유전성 혈관부종의 kallikrein 억제 치료"
+        ],
+        "answer": 0,
+        "explanation": "Metoclopramide은 자료에서 위장관 운동 촉진·GERD 및 진토에 연결된다. 5-HT4 작용으로 위장관 운동을 촉진하며 D2 길항 작용도 나타낸다.",
+        "sourcePages": [
+          13,
+          14
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Metoclopramide의 작용기전은 다음과 같다: 5-HT1B/1D 작용으로 뇌혈관 수축을 일으킨다.",
+      "b": "Metoclopramide의 용도는 다음과 같다: 위장관 운동 촉진·GERD 및 진토.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀리다. Metoclopramide의 실제 기전: 5-HT4 작용으로 위장관 운동을 촉진하며 D2 길항 작용도 나타낸다. B는 옳다. 자료에서 Metoclopramide에 연결한 실제 용도: 위장관 운동 촉진·GERD 및 진토.",
+      "sourcePages": [
+        13,
+        14
+      ]
+    }
+  },
+  {
+    "id": "c23-telotristat",
+    "chapter": 23,
+    "name": "Telotristat ethyl",
+    "nameKo": "텔로트리스타트 에틸",
+    "drugClass": "Tryptophan hydroxylase 억제제",
+    "moa": "말초 tryptophan hydroxylase를 억제해 serotonin 합성을 줄인다.",
+    "uses": "Carcinoid 증후군의 불응성 설사",
+    "caution": "자료에서는 octreotide 이후 불응성 설사에 연결한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        11,
+        14
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "Carcinoid 증후군의 불응성 설사에서 tryptophan hydroxylase를 억제하는 약물은?",
+        "choices": [
+          "Octreotide",
+          "Ondansetron",
+          "Prucalopride",
+          "Telotristat ethyl"
+        ],
+        "answer": 3,
+        "explanation": "Telotristat ethyl: 말초 tryptophan hydroxylase를 억제해 serotonin 합성을 줄인다. 자료에서 연결한 용도는 Carcinoid 증후군의 불응성 설사이다.",
+        "sourcePages": [
+          11,
+          14
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Telotristat ethyl의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "말초 tryptophan hydroxylase를 억제해 serotonin 합성을 줄인다.",
+          "Somatostatin 수용체를 통해 종양의 호르몬 분비를 억제한다.",
+          "5-HT3 이온채널을 차단해 구토 신호를 억제한다.",
+          "5-HT4 수용체를 자극해 장 연동운동을 촉진한다."
+        ],
+        "answer": 0,
+        "explanation": "Telotristat ethyl의 기전은 다음과 같다. 말초 tryptophan hydroxylase를 억제해 serotonin 합성을 줄인다.",
+        "sourcePages": [
+          11,
+          14
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Telotristat ethyl과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "만성 변비에서 장 연동운동 촉진",
+          "Carcinoid 증후군의 불응성 설사",
+          "편두통의 5-HT1F 매개 치료",
+          "항암화학요법 유발 급성 구토 예방"
+        ],
+        "answer": 1,
+        "explanation": "Telotristat ethyl은 자료에서 Carcinoid 증후군의 불응성 설사에 연결된다. 말초 tryptophan hydroxylase를 억제해 serotonin 합성을 줄인다.",
+        "sourcePages": [
+          11,
+          14
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Telotristat ethyl의 작용기전은 다음과 같다: Somatostatin 수용체를 통해 종양의 호르몬 분비를 억제한다.",
+      "b": "Telotristat ethyl의 용도는 다음과 같다: 만성 변비에서 장 연동운동 촉진.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀리다. Telotristat ethyl의 실제 기전: 말초 tryptophan hydroxylase를 억제해 serotonin 합성을 줄인다. B는 틀리다. 자료에서 Telotristat ethyl에 연결한 실제 용도: Carcinoid 증후군의 불응성 설사.",
+      "sourcePages": [
+        11,
+        14
+      ]
+    }
+  },
+  {
+    "id": "c23-octreotide",
+    "chapter": 23,
+    "name": "Octreotide",
+    "nameKo": "옥트레오타이드",
+    "drugClass": "Somatostatin 유사체",
+    "moa": "Somatostatin 수용체를 통해 종양의 serotonin·호르몬 분비를 억제한다.",
+    "uses": "Carcinoid 증후군의 설사",
+    "caution": "자료는 serotonin 합성효소 억제제인 telotristat와 기전을 구분한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        14
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "Carcinoid 증후군 설사에서 종양의 serotonin·호르몬 분비를 억제하는 somatostatin 유사체는?",
+        "choices": [
+          "Octreotide",
+          "Telotristat ethyl",
+          "Ondansetron",
+          "Metoclopramide"
+        ],
+        "answer": 0,
+        "explanation": "Octreotide: Somatostatin 수용체를 통해 종양의 serotonin·호르몬 분비를 억제한다. 자료에서 연결한 용도는 Carcinoid 증후군의 설사이다.",
+        "sourcePages": [
+          14
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Octreotide의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "Tryptophan hydroxylase를 직접 억제해 serotonin 합성을 줄인다.",
+          "Somatostatin 수용체를 통해 종양의 serotonin·호르몬 분비를 억제한다.",
+          "5-HT3 이온채널 차단으로 급성 구토 신호를 억제한다.",
+          "5-HT4 작용과 D2 길항으로 위장관 운동을 촉진한다."
+        ],
+        "answer": 1,
+        "explanation": "Octreotide의 기전은 다음과 같다. Somatostatin 수용체를 통해 종양의 serotonin·호르몬 분비를 억제한다.",
+        "sourcePages": [
+          14
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Octreotide과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "만성 변비의 장 연동운동 촉진",
+          "기면증에서 histamine 유리 증가",
+          "Carcinoid 증후군의 설사",
+          "Opioid 의존의 유지요법"
+        ],
+        "answer": 2,
+        "explanation": "Octreotide은 자료에서 Carcinoid 증후군의 설사에 연결된다. Somatostatin 수용체를 통해 종양의 serotonin·호르몬 분비를 억제한다.",
+        "sourcePages": [
+          14
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Octreotide의 작용기전은 다음과 같다: Somatostatin 수용체를 통해 종양의 serotonin·호르몬 분비를 억제한다.",
+      "b": "Octreotide의 용도는 다음과 같다: Carcinoid 증후군의 설사.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 옳다. Octreotide의 실제 기전: Somatostatin 수용체를 통해 종양의 serotonin·호르몬 분비를 억제한다. B는 옳다. 자료에서 Octreotide에 연결한 실제 용도: Carcinoid 증후군의 설사.",
+      "sourcePages": [
+        14
+      ]
+    }
+  },
+  {
+    "id": "c24-captopril",
+    "chapter": 24,
+    "name": "Captopril",
+    "nameKo": "캅토프릴",
+    "drugClass": "ACE 억제제",
+    "moa": "ACE를 억제해 angiotensin II 생성을 줄이고 bradykinin 분해를 억제한다.",
+    "uses": "고혈압·심부전 및 당뇨병성 신증",
+    "caution": "Sulfhydryl기, 발진·미각장애 및 짧은 반감기가 자료의 구별점이다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        16,
+        18
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "ACE 억제제 중 sulfhydryl기를 가지며 발진·미각장애가 특징적으로 제시된 약물은?",
+        "choices": [
+          "Lisinopril",
+          "Captopril",
+          "Losartan",
+          "Icatibant"
+        ],
+        "answer": 1,
+        "explanation": "Captopril: ACE를 억제해 angiotensin II 생성을 줄이고 bradykinin 분해를 억제한다. 자료에서 연결한 용도는 고혈압·심부전 및 당뇨병성 신증이다.",
+        "sourcePages": [
+          16,
+          18
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Captopril의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "AT1 수용체를 차단하되 bradykinin 분해효소를 직접 억제하지 않는다.",
+          "Bradykinin B2 수용체를 차단해 부종 신호를 줄인다.",
+          "ACE를 억제해 angiotensin II 생성을 줄이고 bradykinin 분해를 억제한다.",
+          "Kallikrein을 억제해 bradykinin 생성을 줄인다."
+        ],
+        "answer": 2,
+        "explanation": "Captopril의 기전은 다음과 같다. ACE를 억제해 angiotensin II 생성을 줄이고 bradykinin 분해를 억제한다.",
+        "sourcePages": [
+          16,
+          18
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Captopril과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "유전성 혈관부종 발작의 B2 차단 치료",
+          "항암화학요법의 지연성 구토 예방",
+          "메탄올 중독에서 ADH 억제 해독",
+          "고혈압·심부전 및 당뇨병성 신증"
+        ],
+        "answer": 3,
+        "explanation": "Captopril은 자료에서 고혈압·심부전 및 당뇨병성 신증에 연결된다. ACE를 억제해 angiotensin II 생성을 줄이고 bradykinin 분해를 억제한다.",
+        "sourcePages": [
+          16,
+          18
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Captopril의 작용기전은 다음과 같다: ACE를 억제해 angiotensin II 생성을 줄이고 bradykinin 분해를 억제한다.",
+      "b": "Captopril의 용도는 다음과 같다: 유전성 혈관부종 발작의 B2 차단 치료.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 옳다. Captopril의 실제 기전: ACE를 억제해 angiotensin II 생성을 줄이고 bradykinin 분해를 억제한다. B는 틀리다. 자료에서 Captopril에 연결한 실제 용도: 고혈압·심부전 및 당뇨병성 신증.",
+      "sourcePages": [
+        16,
+        18
+      ]
+    }
+  },
+  {
+    "id": "c24-lisinopril",
+    "chapter": 24,
+    "name": "Lisinopril",
+    "nameKo": "리시노프릴",
+    "drugClass": "ACE 억제제",
+    "moa": "ACE를 억제해 angiotensin II 생성을 줄이고 bradykinin의 분해를 줄인다.",
+    "uses": "고혈압·심부전 및 당뇨병성 신증",
+    "caution": "자료는 친수성, 간대사를 받지 않는 점, 전구약물이 아닌 점을 구별점으로 제시한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        16,
+        18
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "친수성이며 간대사를 받지 않고, captopril과 함께 전구약물이 아닌 ACE 억제제로 제시된 것은?",
+        "choices": [
+          "Enalapril",
+          "Losartan",
+          "Lisinopril",
+          "Ecallantide"
+        ],
+        "answer": 2,
+        "explanation": "Lisinopril: ACE를 억제해 angiotensin II 생성을 줄이고 bradykinin의 분해를 줄인다. 자료에서 연결한 용도는 고혈압·심부전 및 당뇨병성 신증이다.",
+        "sourcePages": [
+          16,
+          18
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Lisinopril의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "Neprilysin을 억제하고 AT1 수용체를 차단한다.",
+          "Bradykinin B2 수용체를 직접 차단한다.",
+          "Kallikrein 억제로 bradykinin 생성을 감소시킨다.",
+          "ACE를 억제해 angiotensin II 생성을 줄이고 bradykinin의 분해를 줄인다."
+        ],
+        "answer": 3,
+        "explanation": "Lisinopril의 기전은 다음과 같다. ACE를 억제해 angiotensin II 생성을 줄이고 bradykinin의 분해를 줄인다.",
+        "sourcePages": [
+          16,
+          18
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Lisinopril과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "고혈압·심부전 및 당뇨병성 신증",
+          "Carcinoid 증후군의 불응성 설사 치료",
+          "5-HT3 차단에 의한 급성 구토 예방",
+          "Opioid 의존의 유지요법"
+        ],
+        "answer": 0,
+        "explanation": "Lisinopril은 자료에서 고혈압·심부전 및 당뇨병성 신증에 연결된다. ACE를 억제해 angiotensin II 생성을 줄이고 bradykinin의 분해를 줄인다.",
+        "sourcePages": [
+          16,
+          18
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Lisinopril의 작용기전은 다음과 같다: Neprilysin을 억제하고 AT1 수용체를 차단한다.",
+      "b": "Lisinopril의 용도는 다음과 같다: 고혈압·심부전 및 당뇨병성 신증.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀리다. Lisinopril의 실제 기전: ACE를 억제해 angiotensin II 생성을 줄이고 bradykinin의 분해를 줄인다. B는 옳다. 자료에서 Lisinopril에 연결한 실제 용도: 고혈압·심부전 및 당뇨병성 신증.",
+      "sourcePages": [
+        16,
+        18
+      ]
+    }
+  },
+  {
+    "id": "c24-losartan",
+    "chapter": 24,
+    "name": "Losartan",
+    "nameKo": "로사르탄",
+    "drugClass": "Angiotensin II 수용체 차단제(ARB)",
+    "moa": "Angiotensin II의 AT1 수용체를 차단하며 bradykinin 분해에는 직접 영향을 주지 않는다.",
+    "uses": "고혈압·심부전에서 ACE 억제제 대체 치료",
+    "caution": "자료는 ACE 억제제보다 기침이 적지만 고칼륨혈증·임신 관련 주의가 있음을 설명한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        16,
+        18
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "AT1 수용체를 차단하고 bradykinin 분해효소를 직접 억제하지 않는 ARB는?",
+        "choices": [
+          "Captopril",
+          "Lisinopril",
+          "Icatibant",
+          "Losartan"
+        ],
+        "answer": 3,
+        "explanation": "Losartan: Angiotensin II의 AT1 수용체를 차단하며 bradykinin 분해에는 직접 영향을 주지 않는다. 자료에서 연결한 용도는 고혈압·심부전에서 ACE 억제제 대체 치료이다.",
+        "sourcePages": [
+          16,
+          18
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Losartan의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "Angiotensin II의 AT1 수용체를 차단하며 bradykinin 분해에는 직접 영향을 주지 않는다.",
+          "ACE를 억제해 angiotensin II 생성과 bradykinin 분해를 함께 줄인다.",
+          "Bradykinin의 B2 수용체를 차단한다.",
+          "Neprilysin만 억제해 natriuretic peptide 분해를 줄인다."
+        ],
+        "answer": 0,
+        "explanation": "Losartan의 기전은 다음과 같다. Angiotensin II의 AT1 수용체를 차단하며 bradykinin 분해에는 직접 영향을 주지 않는다.",
+        "sourcePages": [
+          16,
+          18
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Losartan과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "중추성 요붕증의 항이뇨 치료",
+          "고혈압·심부전에서 ACE 억제제 대체 치료",
+          "H2 수용체 차단에 의한 소화성 궤양 치료",
+          "유전성 혈관부종 발작의 B2 차단 치료"
+        ],
+        "answer": 1,
+        "explanation": "Losartan은 자료에서 고혈압·심부전에서 ACE 억제제 대체 치료에 연결된다. Angiotensin II의 AT1 수용체를 차단하며 bradykinin 분해에는 직접 영향을 주지 않는다.",
+        "sourcePages": [
+          16,
+          18
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Losartan의 작용기전은 다음과 같다: ACE를 억제해 angiotensin II 생성과 bradykinin 분해를 함께 줄인다.",
+      "b": "Losartan의 용도는 다음과 같다: 중추성 요붕증의 항이뇨 치료.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀리다. Losartan의 실제 기전: Angiotensin II의 AT1 수용체를 차단하며 bradykinin 분해에는 직접 영향을 주지 않는다. B는 틀리다. 자료에서 Losartan에 연결한 실제 용도: 고혈압·심부전에서 ACE 억제제 대체 치료.",
+      "sourcePages": [
+        16,
+        18
+      ]
+    }
+  },
+  {
+    "id": "c24-sacubitril-valsartan",
+    "chapter": 24,
+    "name": "Sacubitril / valsartan",
+    "nameKo": "사쿠비트릴 / 발사르탄",
+    "drugClass": "Angiotensin 수용체–neprilysin 억제제(ARNI)",
+    "moa": "Sacubitril은 neprilysin을 억제하고 valsartan은 AT1 수용체를 차단한다.",
+    "uses": "박출률 감소 심부전(HFrEF)",
+    "caution": "자료는 ACE 억제제와의 병용에 따른 bradykinin 축적·혈관부종 위험을 강조한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        18,
+        19
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "Neprilysin 억제제와 ARB를 결합한 ARNI 복합제의 성분 조합은?",
+        "choices": [
+          "Sacubitril / valsartan",
+          "Fimasartan / amlodipine",
+          "Alprostadil / papaverine",
+          "Pyridoxine / doxylamine"
+        ],
+        "answer": 0,
+        "explanation": "Sacubitril / valsartan: Sacubitril은 neprilysin을 억제하고 valsartan은 AT1 수용체를 차단한다. 자료에서 연결한 용도는 박출률 감소 심부전(HFrEF)이다.",
+        "sourcePages": [
+          18,
+          19
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Sacubitril / valsartan의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "ACE와 kallikrein을 함께 억제해 bradykinin을 직접 제거한다.",
+          "Sacubitril은 neprilysin을 억제하고 valsartan은 AT1 수용체를 차단한다.",
+          "H1과 H2 수용체를 함께 차단해 histamine 반응을 줄인다.",
+          "PDE-5와 sGC를 모두 억제해 cGMP 생성을 낮춘다."
+        ],
+        "answer": 1,
+        "explanation": "Sacubitril / valsartan의 기전은 다음과 같다. Sacubitril은 neprilysin을 억제하고 valsartan은 AT1 수용체를 차단한다.",
+        "sourcePages": [
+          18,
+          19
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Sacubitril / valsartan과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "유전성 혈관부종의 C1 억제인자 보충",
+          "메탄올 중독의 ADH 억제 치료",
+          "박출률 감소 심부전(HFrEF)",
+          "여성의 중증 설사형 과민성장증후군 치료"
+        ],
+        "answer": 2,
+        "explanation": "Sacubitril / valsartan은 자료에서 박출률 감소 심부전(HFrEF)에 연결된다. Sacubitril은 neprilysin을 억제하고 valsartan은 AT1 수용체를 차단한다.",
+        "sourcePages": [
+          18,
+          19
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Sacubitril / valsartan의 작용기전은 다음과 같다: Sacubitril은 neprilysin을 억제하고 valsartan은 AT1 수용체를 차단한다.",
+      "b": "Sacubitril / valsartan의 용도는 다음과 같다: 박출률 감소 심부전(HFrEF).",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 옳다. Sacubitril / valsartan의 실제 기전: Sacubitril은 neprilysin을 억제하고 valsartan은 AT1 수용체를 차단한다. B는 옳다. 자료에서 Sacubitril / valsartan에 연결한 실제 용도: 박출률 감소 심부전(HFrEF).",
+      "sourcePages": [
+        18,
+        19
+      ]
+    }
+  },
+  {
+    "id": "c24-ecallantide",
+    "chapter": 24,
+    "name": "Ecallantide",
+    "nameKo": "에칼란타이드",
+    "drugClass": "Kallikrein 억제제",
+    "moa": "Kallikrein을 억제해 bradykinin 생성 경로를 차단한다.",
+    "uses": "유전성 혈관부종(HAE) 치료",
+    "caution": "Histamine 매개 알레르기와 bradykinin 매개 HAE를 구분한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        19
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "유전성 혈관부종에서 kallikrein을 억제하여 bradykinin 생성을 줄이는 약물은?",
+        "choices": [
+          "Icatibant",
+          "Ecallantide",
+          "Captopril",
+          "Danazol"
+        ],
+        "answer": 1,
+        "explanation": "Ecallantide: Kallikrein을 억제해 bradykinin 생성 경로를 차단한다. 자료에서 연결한 용도는 유전성 혈관부종(HAE) 치료이다.",
+        "sourcePages": [
+          19
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Ecallantide의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "Bradykinin B2 수용체를 직접 차단한다.",
+          "ACE를 억제하여 bradykinin 분해를 줄인다.",
+          "Kallikrein을 억제해 bradykinin 생성 경로를 차단한다.",
+          "약한 androgen 작용으로 간의 C1-INH 합성을 늘린다."
+        ],
+        "answer": 2,
+        "explanation": "Ecallantide의 기전은 다음과 같다. Kallikrein을 억제해 bradykinin 생성 경로를 차단한다.",
+        "sourcePages": [
+          19
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Ecallantide과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "박출률 감소 심부전의 ARNI 치료",
+          "기면증에서 histamine 유리 증가",
+          "폐동맥 고혈압의 sGC 자극 치료",
+          "유전성 혈관부종(HAE) 치료"
+        ],
+        "answer": 3,
+        "explanation": "Ecallantide은 자료에서 유전성 혈관부종(HAE) 치료에 연결된다. Kallikrein을 억제해 bradykinin 생성 경로를 차단한다.",
+        "sourcePages": [
+          19
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Ecallantide의 작용기전은 다음과 같다: Kallikrein을 억제해 bradykinin 생성 경로를 차단한다.",
+      "b": "Ecallantide의 용도는 다음과 같다: 박출률 감소 심부전의 ARNI 치료.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 옳다. Ecallantide의 실제 기전: Kallikrein을 억제해 bradykinin 생성 경로를 차단한다. B는 틀리다. 자료에서 Ecallantide에 연결한 실제 용도: 유전성 혈관부종(HAE) 치료.",
+      "sourcePages": [
+        19
+      ]
+    }
+  },
+  {
+    "id": "c24-icatibant",
+    "chapter": 24,
+    "name": "Icatibant",
+    "nameKo": "이카티반트",
+    "drugClass": "Bradykinin B2 수용체 길항제",
+    "moa": "Bradykinin B2 수용체를 차단해 bradykinin의 부종 신호를 억제한다.",
+    "uses": "유전성 혈관부종(HAE)의 발작 치료",
+    "caution": "자료는 kallikrein 억제에 의한 생성 차단과 B2 수용체 차단을 구별한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        19
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "유전성 혈관부종 발작에서 bradykinin B2 수용체를 직접 차단하는 약물은?",
+        "choices": [
+          "Ecallantide",
+          "Lanadelumab",
+          "Icatibant",
+          "Danazol"
+        ],
+        "answer": 2,
+        "explanation": "Icatibant: Bradykinin B2 수용체를 차단해 bradykinin의 부종 신호를 억제한다. 자료에서 연결한 용도는 유전성 혈관부종(HAE)의 발작 치료이다.",
+        "sourcePages": [
+          19
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Icatibant의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "Kallikrein을 억제해 bradykinin 생성을 줄인다.",
+          "약한 androgen 작용으로 C1-INH 합성을 늘린다.",
+          "ACE를 억제해 angiotensin II 생성을 줄인다.",
+          "Bradykinin B2 수용체를 차단해 bradykinin의 부종 신호를 억제한다."
+        ],
+        "answer": 3,
+        "explanation": "Icatibant의 기전은 다음과 같다. Bradykinin B2 수용체를 차단해 bradykinin의 부종 신호를 억제한다.",
+        "sourcePages": [
+          19
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Icatibant과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "유전성 혈관부종(HAE)의 발작 치료",
+          "고혈압에서 AT1 수용체 차단",
+          "박출률 감소 심부전에서 neprilysin 억제",
+          "만성 변비에서 장의 ClC-2 활성화"
+        ],
+        "answer": 0,
+        "explanation": "Icatibant은 자료에서 유전성 혈관부종(HAE)의 발작 치료에 연결된다. Bradykinin B2 수용체를 차단해 bradykinin의 부종 신호를 억제한다.",
+        "sourcePages": [
+          19
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Icatibant의 작용기전은 다음과 같다: Kallikrein을 억제해 bradykinin 생성을 줄인다.",
+      "b": "Icatibant의 용도는 다음과 같다: 유전성 혈관부종(HAE)의 발작 치료.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀리다. Icatibant의 실제 기전: Bradykinin B2 수용체를 차단해 bradykinin의 부종 신호를 억제한다. B는 옳다. 자료에서 Icatibant에 연결한 실제 용도: 유전성 혈관부종(HAE)의 발작 치료.",
+      "sourcePages": [
+        19
+      ]
+    }
+  },
+  {
+    "id": "c24-lanadelumab",
+    "chapter": 24,
+    "name": "Lanadelumab",
+    "nameKo": "라나델루맙",
+    "drugClass": "Kallikrein 억제 계열 약물",
+    "moa": "Kallikrein을 억제하여 bradykinin 생성 경로를 줄인다.",
+    "uses": "유전성 혈관부종(HAE)의 예방",
+    "caution": "자료에서는 예방용 kallikrein 억제 약물로 berotralstat와 함께 제시한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        19
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "자료에서 HAE 예방용 kallikrein 억제 약물로 제시된 것은?",
+        "choices": [
+          "Icatibant",
+          "Danazol",
+          "Losartan",
+          "Lanadelumab"
+        ],
+        "answer": 3,
+        "explanation": "Lanadelumab: Kallikrein을 억제하여 bradykinin 생성 경로를 줄인다. 자료에서 연결한 용도는 유전성 혈관부종(HAE)의 예방이다.",
+        "sourcePages": [
+          19
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Lanadelumab의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "Kallikrein을 억제하여 bradykinin 생성 경로를 줄인다.",
+          "Bradykinin B2 수용체를 직접 차단한다.",
+          "약한 androgen 작용으로 간의 C1-INH 합성을 늘린다.",
+          "AT1 수용체를 차단하여 angiotensin II 신호를 줄인다."
+        ],
+        "answer": 0,
+        "explanation": "Lanadelumab의 기전은 다음과 같다. Kallikrein을 억제하여 bradykinin 생성 경로를 줄인다.",
+        "sourcePages": [
+          19
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Lanadelumab과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "당뇨병성 신증의 ACE 억제 치료",
+          "유전성 혈관부종(HAE)의 예방",
+          "알코올 사용장애의 혐오요법",
+          "항암화학요법의 급성 구토 예방"
+        ],
+        "answer": 1,
+        "explanation": "Lanadelumab은 자료에서 유전성 혈관부종(HAE)의 예방에 연결된다. Kallikrein을 억제하여 bradykinin 생성 경로를 줄인다.",
+        "sourcePages": [
+          19
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Lanadelumab의 작용기전은 다음과 같다: Bradykinin B2 수용체를 직접 차단한다.",
+      "b": "Lanadelumab의 용도는 다음과 같다: 당뇨병성 신증의 ACE 억제 치료.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀리다. Lanadelumab의 실제 기전: Kallikrein을 억제하여 bradykinin 생성 경로를 줄인다. B는 틀리다. 자료에서 Lanadelumab에 연결한 실제 용도: 유전성 혈관부종(HAE)의 예방.",
+      "sourcePages": [
+        19
+      ]
+    }
+  },
+  {
+    "id": "c24-danazol",
+    "chapter": 24,
+    "name": "Danazol",
+    "nameKo": "다나졸",
+    "drugClass": "약한 androgen",
+    "moa": "약한 androgen 작용으로 간에서 C1-INH 합성을 늘린다.",
+    "uses": "유전성 혈관부종(HAE)의 장기 예방",
+    "caution": "자료는 남성화 부작용을 설명한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        19
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "약한 androgen으로 간의 C1-INH 합성을 늘려 HAE 장기 예방에 연결되는 약물은?",
+        "choices": [
+          "Danazol",
+          "Ecallantide",
+          "Icatibant",
+          "Lanadelumab"
+        ],
+        "answer": 0,
+        "explanation": "Danazol: 약한 androgen 작용으로 간에서 C1-INH 합성을 늘린다. 자료에서 연결한 용도는 유전성 혈관부종(HAE)의 장기 예방이다.",
+        "sourcePages": [
+          19
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Danazol의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "Kallikrein을 직접 억제해 bradykinin 생성을 줄인다.",
+          "약한 androgen 작용으로 간에서 C1-INH 합성을 늘린다.",
+          "Bradykinin B2 수용체를 차단해 신호를 막는다.",
+          "ACE 억제로 bradykinin 분해를 감소시킨다."
+        ],
+        "answer": 1,
+        "explanation": "Danazol의 기전은 다음과 같다. 약한 androgen 작용으로 간에서 C1-INH 합성을 늘린다.",
+        "sourcePages": [
+          19
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Danazol과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "박출률 감소 심부전의 ARNI 치료",
+          "Methanol의 ADH 매개 독성 대사 억제",
+          "유전성 혈관부종(HAE)의 장기 예방",
+          "기면증에서 H3 역작용에 의한 각성"
+        ],
+        "answer": 2,
+        "explanation": "Danazol은 자료에서 유전성 혈관부종(HAE)의 장기 예방에 연결된다. 약한 androgen 작용으로 간에서 C1-INH 합성을 늘린다.",
+        "sourcePages": [
+          19
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Danazol의 작용기전은 다음과 같다: 약한 androgen 작용으로 간에서 C1-INH 합성을 늘린다.",
+      "b": "Danazol의 용도는 다음과 같다: 유전성 혈관부종(HAE)의 장기 예방.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 옳다. Danazol의 실제 기전: 약한 androgen 작용으로 간에서 C1-INH 합성을 늘린다. B는 옳다. 자료에서 Danazol에 연결한 실제 용도: 유전성 혈관부종(HAE)의 장기 예방.",
+      "sourcePages": [
+        19
+      ]
+    }
+  },
+  {
+    "id": "c25-alprostadil",
+    "chapter": 25,
+    "name": "Alprostadil",
+    "nameKo": "알프로스타딜",
+    "drugClass": "Prostaglandin E1(PGE1)",
+    "moa": "PGE1 작용으로 Gs–adenylyl cyclase–cAMP 경로를 활성화해 평활근을 이완시킨다.",
+    "uses": "발기부전 및 특정 선천성 심장병에서 신생아 동맥관 개방 유지",
+    "caution": "동맥관을 열어 두는 alprostadil과 닫는 indomethacin을 구분한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        24,
+        25,
+        28
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "PGE1 약물로 발기부전과 신생아 동맥관 개방 유지에 연결되는 것은?",
+        "choices": [
+          "Indomethacin",
+          "Alprostadil",
+          "Latanoprost",
+          "Montelukast"
+        ],
+        "answer": 1,
+        "explanation": "Alprostadil: PGE1 작용으로 Gs–adenylyl cyclase–cAMP 경로를 활성화해 평활근을 이완시킨다. 자료에서 연결한 용도는 발기부전 및 특정 선천성 심장병에서 신생아 동맥관 개방 유지이다.",
+        "sourcePages": [
+          24,
+          25,
+          28
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Alprostadil의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "COX를 억제해 prostaglandin 합성을 줄인다.",
+          "FP 수용체 작용으로 포도막공막 방수 유출을 늘린다.",
+          "PGE1 작용으로 Gs–adenylyl cyclase–cAMP 경로를 활성화해 평활근을 이완시킨다.",
+          "Cysteinyl-leukotriene 수용체를 차단해 기관지수축을 줄인다."
+        ],
+        "answer": 2,
+        "explanation": "Alprostadil의 기전은 다음과 같다. PGE1 작용으로 Gs–adenylyl cyclase–cAMP 경로를 활성화해 평활근을 이완시킨다.",
+        "sourcePages": [
+          24,
+          25,
+          28
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Alprostadil과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "미숙아의 동맥관 폐쇄 유도",
+          "개방각 녹내장에서 방수 유출 촉진",
+          "천식에서 leukotriene 수용체 차단",
+          "발기부전 및 특정 선천성 심장병에서 신생아 동맥관 개방 유지"
+        ],
+        "answer": 3,
+        "explanation": "Alprostadil은 자료에서 발기부전 및 특정 선천성 심장병에서 신생아 동맥관 개방 유지에 연결된다. PGE1 작용으로 Gs–adenylyl cyclase–cAMP 경로를 활성화해 평활근을 이완시킨다.",
+        "sourcePages": [
+          24,
+          25,
+          28
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Alprostadil의 작용기전은 다음과 같다: PGE1 작용으로 Gs–adenylyl cyclase–cAMP 경로를 활성화해 평활근을 이완시킨다.",
+      "b": "Alprostadil의 용도는 다음과 같다: 미숙아의 동맥관 폐쇄 유도.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 옳다. Alprostadil의 실제 기전: PGE1 작용으로 Gs–adenylyl cyclase–cAMP 경로를 활성화해 평활근을 이완시킨다. B는 틀리다. 자료에서 Alprostadil에 연결한 실제 용도: 발기부전 및 특정 선천성 심장병에서 신생아 동맥관 개방 유지.",
+      "sourcePages": [
+        24,
+        25,
+        28
+      ]
+    }
+  },
+  {
+    "id": "c25-epoprostenol",
+    "chapter": 25,
+    "name": "Epoprostenol",
+    "nameKo": "에포프로스테놀",
+    "drugClass": "Prostacyclin(PGI2)",
+    "moa": "IP 수용체–Gs–cAMP 경로를 통해 혈관확장과 혈소판 응집 억제를 유도한다.",
+    "uses": "폐동맥 고혈압(PAH)",
+    "caution": "PGI2의 혈관확장·응집 억제와 TXA2의 혈관수축·응집 촉진을 구분한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        22,
+        24
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "자료에서 PGI2 자체로 분류되어 폐동맥 고혈압 치료에 연결되는 약물은?",
+        "choices": [
+          "Alprostadil",
+          "Misoprostol",
+          "Epoprostenol",
+          "Latanoprost"
+        ],
+        "answer": 2,
+        "explanation": "Epoprostenol: IP 수용체–Gs–cAMP 경로를 통해 혈관확장과 혈소판 응집 억제를 유도한다. 자료에서 연결한 용도는 폐동맥 고혈압(PAH)이다.",
+        "sourcePages": [
+          22,
+          24
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Epoprostenol의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "TP 수용체를 활성화해 혈관수축과 혈소판 응집을 촉진한다.",
+          "COX 억제로 prostaglandin 합성을 감소시킨다.",
+          "ClC-2 채널을 활성화해 장관 분비를 증가시킨다.",
+          "IP 수용체–Gs–cAMP 경로를 통해 혈관확장과 혈소판 응집 억제를 유도한다."
+        ],
+        "answer": 3,
+        "explanation": "Epoprostenol의 기전은 다음과 같다. IP 수용체–Gs–cAMP 경로를 통해 혈관확장과 혈소판 응집 억제를 유도한다.",
+        "sourcePages": [
+          22,
+          24
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Epoprostenol과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "폐동맥 고혈압(PAH)",
+          "개방각 녹내장에서 방수 유출 촉진",
+          "NSAID 유발 위궤양의 위점막 보호",
+          "만성 변비에서 장내 수분 증가"
+        ],
+        "answer": 0,
+        "explanation": "Epoprostenol은 자료에서 폐동맥 고혈압(PAH)에 연결된다. IP 수용체–Gs–cAMP 경로를 통해 혈관확장과 혈소판 응집 억제를 유도한다.",
+        "sourcePages": [
+          22,
+          24
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Epoprostenol의 작용기전은 다음과 같다: TP 수용체를 활성화해 혈관수축과 혈소판 응집을 촉진한다.",
+      "b": "Epoprostenol의 용도는 다음과 같다: 폐동맥 고혈압(PAH).",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀리다. Epoprostenol의 실제 기전: IP 수용체–Gs–cAMP 경로를 통해 혈관확장과 혈소판 응집 억제를 유도한다. B는 옳다. 자료에서 Epoprostenol에 연결한 실제 용도: 폐동맥 고혈압(PAH).",
+      "sourcePages": [
+        22,
+        24
+      ]
+    }
+  },
+  {
+    "id": "c25-selexipag",
+    "chapter": 25,
+    "name": "Selexipag",
+    "nameKo": "셀렉시팍",
+    "drugClass": "Prostacyclin IP 수용체 작용제",
+    "moa": "IP 수용체를 자극해 prostacyclin–cAMP 경로를 활성화한다.",
+    "uses": "폐동맥 고혈압(PAH)",
+    "caution": "자료는 PGI2·PGI2 유사체와 별도로 IP 작용제 항목에 제시한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        22,
+        24,
+        29
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "폐동맥 고혈압 치료에서 PGI2 자체가 아니라 IP 수용체 작용제로 제시된 약물은?",
+        "choices": [
+          "Epoprostenol",
+          "Sildenafil",
+          "Bosentan",
+          "Selexipag"
+        ],
+        "answer": 3,
+        "explanation": "Selexipag: IP 수용체를 자극해 prostacyclin–cAMP 경로를 활성화한다. 자료에서 연결한 용도는 폐동맥 고혈압(PAH)이다.",
+        "sourcePages": [
+          22,
+          24,
+          29
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Selexipag의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "IP 수용체를 자극해 prostacyclin–cAMP 경로를 활성화한다.",
+          "PDE-5를 억제해 cGMP 분해를 줄인다.",
+          "Endothelin ETA·ETB 수용체를 차단한다.",
+          "Activin 리간드를 포획해 증식 신호를 줄인다."
+        ],
+        "answer": 0,
+        "explanation": "Selexipag의 기전은 다음과 같다. IP 수용체를 자극해 prostacyclin–cAMP 경로를 활성화한다.",
+        "sourcePages": [
+          22,
+          24,
+          29
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Selexipag과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "중추성 요붕증의 항이뇨 치료",
+          "폐동맥 고혈압(PAH)",
+          "개방각 녹내장에서 방수 유출 촉진",
+          "NSAID 유발 위궤양의 위점막 보호"
+        ],
+        "answer": 1,
+        "explanation": "Selexipag은 자료에서 폐동맥 고혈압(PAH)에 연결된다. IP 수용체를 자극해 prostacyclin–cAMP 경로를 활성화한다.",
+        "sourcePages": [
+          22,
+          24,
+          29
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Selexipag의 작용기전은 다음과 같다: PDE-5를 억제해 cGMP 분해를 줄인다.",
+      "b": "Selexipag의 용도는 다음과 같다: 중추성 요붕증의 항이뇨 치료.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀리다. Selexipag의 실제 기전: IP 수용체를 자극해 prostacyclin–cAMP 경로를 활성화한다. B는 틀리다. 자료에서 Selexipag에 연결한 실제 용도: 폐동맥 고혈압(PAH).",
+      "sourcePages": [
+        22,
+        24,
+        29
+      ]
+    }
+  },
+  {
+    "id": "c25-misoprostol",
+    "chapter": 25,
+    "name": "Misoprostol",
+    "nameKo": "미소프로스톨",
+    "drugClass": "PGE1 유사체",
+    "moa": "PGE 작용을 보충해 위산 분비를 낮추고 점액·중탄산 분비를 늘리며 자궁 수축도 유도한다.",
+    "uses": "NSAID 유발 궤양 예방·치료 및 산과적 자궁경부 숙화·자궁 수축",
+    "caution": "위점막 보호 목적의 사용과 산과적 사용을 구분하며, 자료는 설사와 자궁 수축 작용을 제시한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        25
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "PGE1 유사체로 NSAID 유발 궤양 보호 작용과 자궁 수축 작용이 함께 제시된 약물은?",
+        "choices": [
+          "Misoprostol",
+          "Lubiprostone",
+          "Latanoprost",
+          "Montelukast"
+        ],
+        "answer": 0,
+        "explanation": "Misoprostol: PGE 작용을 보충해 위산 분비를 낮추고 점액·중탄산 분비를 늘리며 자궁 수축도 유도한다. 자료에서 연결한 용도는 NSAID 유발 궤양 예방·치료 및 산과적 자궁경부 숙화·자궁 수축이다.",
+        "sourcePages": [
+          25
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Misoprostol의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "ClC-2 채널을 활성화해 장내 수분을 늘린다.",
+          "PGE 작용을 보충해 위산 분비를 낮추고 점액·중탄산 분비를 늘리며 자궁 수축도 유도한다.",
+          "FP 수용체 작용으로 방수 배출을 촉진한다.",
+          "Cysteinyl-leukotriene 수용체를 차단한다."
+        ],
+        "answer": 1,
+        "explanation": "Misoprostol의 기전은 다음과 같다. PGE 작용을 보충해 위산 분비를 낮추고 점액·중탄산 분비를 늘리며 자궁 수축도 유도한다.",
+        "sourcePages": [
+          25
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Misoprostol과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "폐동맥 고혈압에서 IP 수용체 선택적 자극",
+          "개방각 녹내장에서 방수 유출 촉진",
+          "NSAID 유발 궤양 예방·치료 및 산과적 자궁경부 숙화·자궁 수축",
+          "천식에서 leukotriene 수용체 차단"
+        ],
+        "answer": 2,
+        "explanation": "Misoprostol은 자료에서 NSAID 유발 궤양 예방·치료 및 산과적 자궁경부 숙화·자궁 수축에 연결된다. PGE 작용을 보충해 위산 분비를 낮추고 점액·중탄산 분비를 늘리며 자궁 수축도 유도한다.",
+        "sourcePages": [
+          25
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Misoprostol의 작용기전은 다음과 같다: PGE 작용을 보충해 위산 분비를 낮추고 점액·중탄산 분비를 늘리며 자궁 수축도 유도한다.",
+      "b": "Misoprostol의 용도는 다음과 같다: NSAID 유발 궤양 예방·치료 및 산과적 자궁경부 숙화·자궁 수축.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 옳다. Misoprostol의 실제 기전: PGE 작용을 보충해 위산 분비를 낮추고 점액·중탄산 분비를 늘리며 자궁 수축도 유도한다. B는 옳다. 자료에서 Misoprostol에 연결한 실제 용도: NSAID 유발 궤양 예방·치료 및 산과적 자궁경부 숙화·자궁 수축.",
+      "sourcePages": [
+        25
+      ]
+    }
+  },
+  {
+    "id": "c25-latanoprost",
+    "chapter": 25,
+    "name": "Latanoprost",
+    "nameKo": "라타노프로스트",
+    "drugClass": "PGF2α 유사체",
+    "moa": "FP 수용체 작용으로 포도막공막 유출로를 통한 방수 배출을 늘려 안압을 낮춘다.",
+    "uses": "개방각 녹내장(OAG)",
+    "caution": "자료는 홍채 색소 침착과 속눈썹 성장을 특징으로 제시한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        25
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "PGF2α 유사체로 FP 수용체를 통해 방수 유출을 늘려 안압을 낮추는 약물은?",
+        "choices": [
+          "Misoprostol",
+          "Latanoprost",
+          "Alprostadil",
+          "Lubiprostone"
+        ],
+        "answer": 1,
+        "explanation": "Latanoprost: FP 수용체 작용으로 포도막공막 유출로를 통한 방수 배출을 늘려 안압을 낮춘다. 자료에서 연결한 용도는 개방각 녹내장(OAG)이다.",
+        "sourcePages": [
+          25
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Latanoprost의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "PGE 작용을 보충해 위점막 보호와 자궁 수축을 유도한다.",
+          "ClC-2 채널을 활성화해 장관 내 수분을 늘린다.",
+          "FP 수용체 작용으로 포도막공막 유출로를 통한 방수 배출을 늘려 안압을 낮춘다.",
+          "COX를 억제해 prostaglandin 합성을 감소시킨다."
+        ],
+        "answer": 2,
+        "explanation": "Latanoprost의 기전은 다음과 같다. FP 수용체 작용으로 포도막공막 유출로를 통한 방수 배출을 늘려 안압을 낮춘다.",
+        "sourcePages": [
+          25
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Latanoprost과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "NSAID 유발 위궤양의 위점막 보호",
+          "특정 선천성 심장병의 동맥관 개방 유지",
+          "만성 변비에서 장관 분비 증가",
+          "개방각 녹내장(OAG)"
+        ],
+        "answer": 3,
+        "explanation": "Latanoprost은 자료에서 개방각 녹내장(OAG)에 연결된다. FP 수용체 작용으로 포도막공막 유출로를 통한 방수 배출을 늘려 안압을 낮춘다.",
+        "sourcePages": [
+          25
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Latanoprost의 작용기전은 다음과 같다: FP 수용체 작용으로 포도막공막 유출로를 통한 방수 배출을 늘려 안압을 낮춘다.",
+      "b": "Latanoprost의 용도는 다음과 같다: NSAID 유발 위궤양의 위점막 보호.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 옳다. Latanoprost의 실제 기전: FP 수용체 작용으로 포도막공막 유출로를 통한 방수 배출을 늘려 안압을 낮춘다. B는 틀리다. 자료에서 Latanoprost에 연결한 실제 용도: 개방각 녹내장(OAG).",
+      "sourcePages": [
+        25
+      ]
+    }
+  },
+  {
+    "id": "c25-lubiprostone",
+    "chapter": 25,
+    "name": "Lubiprostone",
+    "nameKo": "루비프로스톤",
+    "drugClass": "장 ClC-2 채널 활성화 약물",
+    "moa": "장 상피의 ClC-2 chloride 채널을 활성화해 장관 내 chloride와 수분을 늘린다.",
+    "uses": "만성 변비 및 변비형 과민성장증후군(IBS-C)",
+    "caution": "자료는 오심·설사를 주요 부작용으로 제시한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        25
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "장 상피의 ClC-2 chloride 채널을 활성화하여 만성 변비·IBS-C에 사용하는 약물은?",
+        "choices": [
+          "Misoprostol",
+          "Latanoprost",
+          "Lubiprostone",
+          "Alosetron"
+        ],
+        "answer": 2,
+        "explanation": "Lubiprostone: 장 상피의 ClC-2 chloride 채널을 활성화해 장관 내 chloride와 수분을 늘린다. 자료에서 연결한 용도는 만성 변비 및 변비형 과민성장증후군(IBS-C)이다.",
+        "sourcePages": [
+          25
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Lubiprostone의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "5-HT3 수용체를 차단해 장 운동과 분비를 줄인다.",
+          "FP 수용체 작용으로 방수 유출을 증가시킨다.",
+          "COX 억제로 prostaglandin 합성을 감소시킨다.",
+          "장 상피의 ClC-2 chloride 채널을 활성화해 장관 내 chloride와 수분을 늘린다."
+        ],
+        "answer": 3,
+        "explanation": "Lubiprostone의 기전은 다음과 같다. 장 상피의 ClC-2 chloride 채널을 활성화해 장관 내 chloride와 수분을 늘린다.",
+        "sourcePages": [
+          25
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Lubiprostone과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "만성 변비 및 변비형 과민성장증후군(IBS-C)",
+          "여성의 중증 설사형 과민성장증후군 치료",
+          "개방각 녹내장에서 안압 저하",
+          "폐동맥 고혈압에서 prostacyclin 경로 자극"
+        ],
+        "answer": 0,
+        "explanation": "Lubiprostone은 자료에서 만성 변비 및 변비형 과민성장증후군(IBS-C)에 연결된다. 장 상피의 ClC-2 chloride 채널을 활성화해 장관 내 chloride와 수분을 늘린다.",
+        "sourcePages": [
+          25
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Lubiprostone의 작용기전은 다음과 같다: 5-HT3 수용체를 차단해 장 운동과 분비를 줄인다.",
+      "b": "Lubiprostone의 용도는 다음과 같다: 만성 변비 및 변비형 과민성장증후군(IBS-C).",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀리다. Lubiprostone의 실제 기전: 장 상피의 ClC-2 chloride 채널을 활성화해 장관 내 chloride와 수분을 늘린다. B는 옳다. 자료에서 Lubiprostone에 연결한 실제 용도: 만성 변비 및 변비형 과민성장증후군(IBS-C).",
+      "sourcePages": [
+        25
+      ]
+    }
+  },
+  {
+    "id": "c25-montelukast",
+    "chapter": 25,
+    "name": "Montelukast",
+    "nameKo": "몬테루카스트",
+    "drugClass": "Leukotriene 수용체 길항제(LTRA)",
+    "moa": "Cysteinyl-leukotriene 수용체를 차단해 leukotriene에 의한 기관지수축 신호를 줄인다.",
+    "uses": "천식",
+    "caution": "Leukotriene 합성효소를 억제하는 zileuton과 수용체 차단을 구분한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        21,
+        23,
+        25
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "Leukotriene 합성을 직접 억제하는 대신 수용체를 차단하며 천식에 연결되는 약물은?",
+        "choices": [
+          "Zileuton",
+          "Indomethacin",
+          "Latanoprost",
+          "Montelukast"
+        ],
+        "answer": 3,
+        "explanation": "Montelukast: Cysteinyl-leukotriene 수용체를 차단해 leukotriene에 의한 기관지수축 신호를 줄인다. 자료에서 연결한 용도는 천식이다.",
+        "sourcePages": [
+          21,
+          23,
+          25
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Montelukast의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "Cysteinyl-leukotriene 수용체를 차단해 leukotriene에 의한 기관지수축 신호를 줄인다.",
+          "5-lipoxygenase를 억제해 leukotriene 합성을 줄인다.",
+          "COX를 억제해 prostaglandin 합성을 줄인다.",
+          "FP 수용체 작용으로 방수 유출을 늘린다."
+        ],
+        "answer": 0,
+        "explanation": "Montelukast의 기전은 다음과 같다. Cysteinyl-leukotriene 수용체를 차단해 leukotriene에 의한 기관지수축 신호를 줄인다.",
+        "sourcePages": [
+          21,
+          23,
+          25
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Montelukast과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "미숙아의 동맥관 폐쇄 유도",
+          "천식",
+          "개방각 녹내장에서 방수 유출 촉진",
+          "만성 변비에서 ClC-2 채널 활성화"
+        ],
+        "answer": 1,
+        "explanation": "Montelukast은 자료에서 천식에 연결된다. Cysteinyl-leukotriene 수용체를 차단해 leukotriene에 의한 기관지수축 신호를 줄인다.",
+        "sourcePages": [
+          21,
+          23,
+          25
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Montelukast의 작용기전은 다음과 같다: 5-lipoxygenase를 억제해 leukotriene 합성을 줄인다.",
+      "b": "Montelukast의 용도는 다음과 같다: 미숙아의 동맥관 폐쇄 유도.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀리다. Montelukast의 실제 기전: Cysteinyl-leukotriene 수용체를 차단해 leukotriene에 의한 기관지수축 신호를 줄인다. B는 틀리다. 자료에서 Montelukast에 연결한 실제 용도: 천식.",
+      "sourcePages": [
+        21,
+        23,
+        25
+      ]
+    }
+  },
+  {
+    "id": "c25-indomethacin",
+    "chapter": 25,
+    "name": "Indomethacin",
+    "nameKo": "인도메타신",
+    "drugClass": "COX 억제제",
+    "moa": "Cyclooxygenase(COX)를 억제해 prostaglandin 합성을 감소시킨다.",
+    "uses": "미숙아에서 동맥관 폐쇄 유도",
+    "caution": "동맥관 개방을 유지하는 alprostadil과 작용 방향이 반대다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        24,
+        25
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "Prostaglandin 합성을 억제하여 미숙아의 동맥관을 닫는 데 연결되는 약물은?",
+        "choices": [
+          "Indomethacin",
+          "Alprostadil",
+          "Epoprostenol",
+          "Selexipag"
+        ],
+        "answer": 0,
+        "explanation": "Indomethacin: Cyclooxygenase(COX)를 억제해 prostaglandin 합성을 감소시킨다. 자료에서 연결한 용도는 미숙아에서 동맥관 폐쇄 유도이다.",
+        "sourcePages": [
+          24,
+          25
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Indomethacin의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "PGE1 작용으로 cAMP 경로를 자극해 평활근을 이완한다.",
+          "Cyclooxygenase(COX)를 억제해 prostaglandin 합성을 감소시킨다.",
+          "IP 수용체 작용으로 prostacyclin 신호를 증가시킨다.",
+          "Cysteinyl-leukotriene 수용체를 차단한다."
+        ],
+        "answer": 1,
+        "explanation": "Indomethacin의 기전은 다음과 같다. Cyclooxygenase(COX)를 억제해 prostaglandin 합성을 감소시킨다.",
+        "sourcePages": [
+          24,
+          25
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Indomethacin과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "특정 선천성 심장병에서 동맥관 개방 유지",
+          "개방각 녹내장에서 방수 유출 촉진",
+          "미숙아에서 동맥관 폐쇄 유도",
+          "만성 변비에서 장 ClC-2 채널 활성화"
+        ],
+        "answer": 2,
+        "explanation": "Indomethacin은 자료에서 미숙아에서 동맥관 폐쇄 유도에 연결된다. Cyclooxygenase(COX)를 억제해 prostaglandin 합성을 감소시킨다.",
+        "sourcePages": [
+          24,
+          25
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Indomethacin의 작용기전은 다음과 같다: Cyclooxygenase(COX)를 억제해 prostaglandin 합성을 감소시킨다.",
+      "b": "Indomethacin의 용도는 다음과 같다: 미숙아에서 동맥관 폐쇄 유도.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 옳다. Indomethacin의 실제 기전: Cyclooxygenase(COX)를 억제해 prostaglandin 합성을 감소시킨다. B는 옳다. 자료에서 Indomethacin에 연결한 실제 용도: 미숙아에서 동맥관 폐쇄 유도.",
+      "sourcePages": [
+        24,
+        25
+      ]
+    }
+  },
+  {
+    "id": "c26-sildenafil",
+    "chapter": 26,
+    "name": "Sildenafil",
+    "nameKo": "실데나필",
+    "drugClass": "PDE-5 억제제",
+    "moa": "PDE-5를 억제해 cGMP 분해를 줄이고 NO–cGMP에 의한 평활근 이완을 강화한다.",
+    "uses": "발기부전 및 폐동맥 고혈압(PAH)",
+    "caution": "자료는 nitrate 병용 시 심한 저혈압과 PDE-6 억제에 따른 청색 시야를 제시한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        28,
+        29
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "PDE-5 억제제 중 망막 PDE-6 억제와 청색 시야가 특징적으로 제시된 약물은?",
+        "choices": [
+          "Riociguat",
+          "Sildenafil",
+          "Alprostadil",
+          "Bosentan"
+        ],
+        "answer": 1,
+        "explanation": "Sildenafil: PDE-5를 억제해 cGMP 분해를 줄이고 NO–cGMP에 의한 평활근 이완을 강화한다. 자료에서 연결한 용도는 발기부전 및 폐동맥 고혈압(PAH)이다.",
+        "sourcePages": [
+          28,
+          29
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Sildenafil의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "sGC를 직접 자극하여 cGMP 생성을 높인다.",
+          "PGE1–Gs 경로를 자극하여 cAMP 생성을 높인다.",
+          "PDE-5를 억제해 cGMP 분해를 줄이고 NO–cGMP에 의한 평활근 이완을 강화한다.",
+          "Endothelin ETA·ETB 수용체를 차단한다."
+        ],
+        "answer": 2,
+        "explanation": "Sildenafil의 기전은 다음과 같다. PDE-5를 억제해 cGMP 분해를 줄이고 NO–cGMP에 의한 평활근 이완을 강화한다.",
+        "sourcePages": [
+          28,
+          29
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Sildenafil과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "중추성 요붕증의 항이뇨 치료",
+          "SIADH에서 선택적 수분 배설 증가",
+          "지연성 항암화학요법 구토의 NK1 차단 치료",
+          "발기부전 및 폐동맥 고혈압(PAH)"
+        ],
+        "answer": 3,
+        "explanation": "Sildenafil은 자료에서 발기부전 및 폐동맥 고혈압(PAH)에 연결된다. PDE-5를 억제해 cGMP 분해를 줄이고 NO–cGMP에 의한 평활근 이완을 강화한다.",
+        "sourcePages": [
+          28,
+          29
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Sildenafil의 작용기전은 다음과 같다: PDE-5를 억제해 cGMP 분해를 줄이고 NO–cGMP에 의한 평활근 이완을 강화한다.",
+      "b": "Sildenafil의 용도는 다음과 같다: 중추성 요붕증의 항이뇨 치료.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 옳다. Sildenafil의 실제 기전: PDE-5를 억제해 cGMP 분해를 줄이고 NO–cGMP에 의한 평활근 이완을 강화한다. B는 틀리다. 자료에서 Sildenafil에 연결한 실제 용도: 발기부전 및 폐동맥 고혈압(PAH).",
+      "sourcePages": [
+        28,
+        29
+      ]
+    }
+  },
+  {
+    "id": "c26-tadalafil",
+    "chapter": 26,
+    "name": "Tadalafil",
+    "nameKo": "타다라필",
+    "drugClass": "PDE-5 억제제",
+    "moa": "PDE-5를 억제해 cGMP 분해를 줄이고 평활근 이완 신호를 유지한다.",
+    "uses": "발기부전 및 양성전립선비대증(BPH)의 하부요로증상",
+    "caution": "자료는 긴 반감기와 nitrate 병용에 따른 심한 저혈압 위험을 설명한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        28
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "PDE-5 억제제 중 긴 반감기와 BPH 하부요로증상 용도가 명시된 약물은?",
+        "choices": [
+          "Riociguat",
+          "Alprostadil",
+          "Tadalafil",
+          "Desmopressin"
+        ],
+        "answer": 2,
+        "explanation": "Tadalafil: PDE-5를 억제해 cGMP 분해를 줄이고 평활근 이완 신호를 유지한다. 자료에서 연결한 용도는 발기부전 및 양성전립선비대증(BPH)의 하부요로증상이다.",
+        "sourcePages": [
+          28
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Tadalafil의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "PGE1 작용을 통해 cAMP 생성을 증가시킨다.",
+          "sGC를 직접 자극해 cGMP 생성을 증가시킨다.",
+          "V2 수용체를 자극해 aquaporin-2 작용을 증가시킨다.",
+          "PDE-5를 억제해 cGMP 분해를 줄이고 평활근 이완 신호를 유지한다."
+        ],
+        "answer": 3,
+        "explanation": "Tadalafil의 기전은 다음과 같다. PDE-5를 억제해 cGMP 분해를 줄이고 평활근 이완 신호를 유지한다.",
+        "sourcePages": [
+          28
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Tadalafil과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "발기부전 및 양성전립선비대증(BPH)의 하부요로증상",
+          "중추성 요붕증과 야뇨증의 항이뇨 치료",
+          "유전성 혈관부종 발작의 B2 차단 치료",
+          "CGRP 항체를 이용한 편두통 예방"
+        ],
+        "answer": 0,
+        "explanation": "Tadalafil은 자료에서 발기부전 및 양성전립선비대증(BPH)의 하부요로증상에 연결된다. PDE-5를 억제해 cGMP 분해를 줄이고 평활근 이완 신호를 유지한다.",
+        "sourcePages": [
+          28
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Tadalafil의 작용기전은 다음과 같다: PGE1 작용을 통해 cAMP 생성을 증가시킨다.",
+      "b": "Tadalafil의 용도는 다음과 같다: 발기부전 및 양성전립선비대증(BPH)의 하부요로증상.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀리다. Tadalafil의 실제 기전: PDE-5를 억제해 cGMP 분해를 줄이고 평활근 이완 신호를 유지한다. B는 옳다. 자료에서 Tadalafil에 연결한 실제 용도: 발기부전 및 양성전립선비대증(BPH)의 하부요로증상.",
+      "sourcePages": [
+        28
+      ]
+    }
+  },
+  {
+    "id": "c26-riociguat",
+    "chapter": 26,
+    "name": "Riociguat",
+    "nameKo": "리오시구앗",
+    "drugClass": "Soluble guanylyl cyclase(sGC) 자극제",
+    "moa": "sGC를 직접 자극하고 NO에 대한 감수성도 높여 cGMP 신호를 강화한다.",
+    "uses": "폐동맥 고혈압(PAH)",
+    "caution": "자료는 PDE-5 억제제 병용 시 저혈압 위험과 임신 관련 금기를 제시한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        29
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "NO 없이도 sGC를 직접 자극하고 NO 감수성도 높이는 폐동맥 고혈압 약물은?",
+        "choices": [
+          "Sildenafil",
+          "Bosentan",
+          "Sotatercept",
+          "Riociguat"
+        ],
+        "answer": 3,
+        "explanation": "Riociguat: sGC를 직접 자극하고 NO에 대한 감수성도 높여 cGMP 신호를 강화한다. 자료에서 연결한 용도는 폐동맥 고혈압(PAH)이다.",
+        "sourcePages": [
+          29
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Riociguat의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "sGC를 직접 자극하고 NO에 대한 감수성도 높여 cGMP 신호를 강화한다.",
+          "PDE-5를 억제해 cGMP 분해를 줄인다.",
+          "Endothelin ETA·ETB 수용체를 차단한다.",
+          "Activin 리간드를 포획해 증식 신호를 억제한다."
+        ],
+        "answer": 0,
+        "explanation": "Riociguat의 기전은 다음과 같다. sGC를 직접 자극하고 NO에 대한 감수성도 높여 cGMP 신호를 강화한다.",
+        "sourcePages": [
+          29
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Riociguat과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "SIADH의 수분 과다·저나트륨혈증 교정",
+          "폐동맥 고혈압(PAH)",
+          "중추성 요붕증의 항이뇨 치료",
+          "항암화학요법의 지연성 구토 예방"
+        ],
+        "answer": 1,
+        "explanation": "Riociguat은 자료에서 폐동맥 고혈압(PAH)에 연결된다. sGC를 직접 자극하고 NO에 대한 감수성도 높여 cGMP 신호를 강화한다.",
+        "sourcePages": [
+          29
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Riociguat의 작용기전은 다음과 같다: PDE-5를 억제해 cGMP 분해를 줄인다.",
+      "b": "Riociguat의 용도는 다음과 같다: SIADH의 수분 과다·저나트륨혈증 교정.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀리다. Riociguat의 실제 기전: sGC를 직접 자극하고 NO에 대한 감수성도 높여 cGMP 신호를 강화한다. B는 틀리다. 자료에서 Riociguat에 연결한 실제 용도: 폐동맥 고혈압(PAH).",
+      "sourcePages": [
+        29
+      ]
+    }
+  },
+  {
+    "id": "c26-sotatercept",
+    "chapter": 26,
+    "name": "Sotatercept",
+    "nameKo": "소타터셉트",
+    "drugClass": "Activin 리간드 포획제",
+    "moa": "ActRIIA-Fc 융합단백질로 activin 리간드를 포획해 혈관벽 증식 신호를 줄인다.",
+    "uses": "폐동맥 고혈압(PAH)",
+    "caution": "자료는 혈관이완 경로뿐 아니라 혈관벽 증식 신호의 균형을 조절하는 약물로 구분한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        29
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "ActRIIA-Fc 융합단백질로 activin을 포획하는 폐동맥 고혈압 약물은?",
+        "choices": [
+          "Sotatercept",
+          "Riociguat",
+          "Sildenafil",
+          "Selexipag"
+        ],
+        "answer": 0,
+        "explanation": "Sotatercept: ActRIIA-Fc 융합단백질로 activin 리간드를 포획해 혈관벽 증식 신호를 줄인다. 자료에서 연결한 용도는 폐동맥 고혈압(PAH)이다.",
+        "sourcePages": [
+          29
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Sotatercept의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "sGC를 직접 자극해 cGMP 생성을 늘린다.",
+          "ActRIIA-Fc 융합단백질로 activin 리간드를 포획해 혈관벽 증식 신호를 줄인다.",
+          "PDE-5를 억제해 cGMP 분해를 줄인다.",
+          "IP 수용체 작용으로 prostacyclin 경로를 활성화한다."
+        ],
+        "answer": 1,
+        "explanation": "Sotatercept의 기전은 다음과 같다. ActRIIA-Fc 융합단백질로 activin 리간드를 포획해 혈관벽 증식 신호를 줄인다.",
+        "sourcePages": [
+          29
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Sotatercept과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "CGRP 차단에 의한 편두통 예방",
+          "중추성 요붕증의 항이뇨 치료",
+          "폐동맥 고혈압(PAH)",
+          "SIADH의 선택적 수분 배설 증가"
+        ],
+        "answer": 2,
+        "explanation": "Sotatercept은 자료에서 폐동맥 고혈압(PAH)에 연결된다. ActRIIA-Fc 융합단백질로 activin 리간드를 포획해 혈관벽 증식 신호를 줄인다.",
+        "sourcePages": [
+          29
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Sotatercept의 작용기전은 다음과 같다: ActRIIA-Fc 융합단백질로 activin 리간드를 포획해 혈관벽 증식 신호를 줄인다.",
+      "b": "Sotatercept의 용도는 다음과 같다: 폐동맥 고혈압(PAH).",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 옳다. Sotatercept의 실제 기전: ActRIIA-Fc 융합단백질로 activin 리간드를 포획해 혈관벽 증식 신호를 줄인다. B는 옳다. 자료에서 Sotatercept에 연결한 실제 용도: 폐동맥 고혈압(PAH).",
+      "sourcePages": [
+        29
+      ]
+    }
+  },
+  {
+    "id": "c26-desmopressin",
+    "chapter": 26,
+    "name": "Desmopressin",
+    "nameKo": "데스모프레신",
+    "drugClass": "Vasopressin V2 수용체 작용제",
+    "moa": "V2 수용체–Gs–cAMP 작용으로 집합관 aquaporin-2를 증가시켜 수분 재흡수를 높인다.",
+    "uses": "중추성 요붕증·야뇨증 및 경증 혈우병 A·1형 von Willebrand병",
+    "caution": "자료는 신성 요붕증과 구분하고 내피세포의 vWF·factor VIII 유리를 설명한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        30,
+        31
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "V2 수용체 작용제로 중추성 요붕증·야뇨증과 vWF·factor VIII 유리에 연결되는 약물은?",
+        "choices": [
+          "Tolvaptan",
+          "Desmopressin",
+          "Terlipressin",
+          "Bosentan"
+        ],
+        "answer": 1,
+        "explanation": "Desmopressin: V2 수용체–Gs–cAMP 작용으로 집합관 aquaporin-2를 증가시켜 수분 재흡수를 높인다. 자료에서 연결한 용도는 중추성 요붕증·야뇨증 및 경증 혈우병 A·1형 von Willebrand병이다.",
+        "sourcePages": [
+          30,
+          31
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Desmopressin의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "V2 수용체를 차단해 전해질보다 수분의 배설을 증가시킨다.",
+          "V1 수용체를 자극해 혈관수축을 일으킨다.",
+          "V2 수용체–Gs–cAMP 작용으로 집합관 aquaporin-2를 증가시켜 수분 재흡수를 높인다.",
+          "Endothelin ETA·ETB 수용체를 차단한다."
+        ],
+        "answer": 2,
+        "explanation": "Desmopressin의 기전은 다음과 같다. V2 수용체–Gs–cAMP 작용으로 집합관 aquaporin-2를 증가시켜 수분 재흡수를 높인다.",
+        "sourcePages": [
+          30,
+          31
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Desmopressin과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "SIADH 저나트륨혈증의 수분 배설 증가",
+          "폐동맥 고혈압의 endothelin 수용체 차단",
+          "CGRP 차단에 의한 편두통 예방",
+          "중추성 요붕증·야뇨증 및 경증 혈우병 A·1형 von Willebrand병"
+        ],
+        "answer": 3,
+        "explanation": "Desmopressin은 자료에서 중추성 요붕증·야뇨증 및 경증 혈우병 A·1형 von Willebrand병에 연결된다. V2 수용체–Gs–cAMP 작용으로 집합관 aquaporin-2를 증가시켜 수분 재흡수를 높인다.",
+        "sourcePages": [
+          30,
+          31
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Desmopressin의 작용기전은 다음과 같다: V2 수용체–Gs–cAMP 작용으로 집합관 aquaporin-2를 증가시켜 수분 재흡수를 높인다.",
+      "b": "Desmopressin의 용도는 다음과 같다: SIADH 저나트륨혈증의 수분 배설 증가.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 옳다. Desmopressin의 실제 기전: V2 수용체–Gs–cAMP 작용으로 집합관 aquaporin-2를 증가시켜 수분 재흡수를 높인다. B는 틀리다. 자료에서 Desmopressin에 연결한 실제 용도: 중추성 요붕증·야뇨증 및 경증 혈우병 A·1형 von Willebrand병.",
+      "sourcePages": [
+        30,
+        31
+      ]
+    }
+  },
+  {
+    "id": "c26-tolvaptan",
+    "chapter": 26,
+    "name": "Tolvaptan",
+    "nameKo": "톨밥탄",
+    "drugClass": "Vasopressin V2 수용체 길항제",
+    "moa": "V2 수용체를 차단해 전해질보다 수분의 배설을 증가시키는 aquaresis를 유도한다.",
+    "uses": "SIADH에 의한 저나트륨혈증",
+    "caution": "자료는 저나트륨혈증의 지나치게 빠른 교정에 따른 삼투성 탈수초 위험을 설명한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        30,
+        31
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "V2 수용체를 선택적으로 차단하여 aquaresis를 유도하는 vaptan 약물은?",
+        "choices": [
+          "Desmopressin",
+          "Terlipressin",
+          "Tolvaptan",
+          "Aprepitant"
+        ],
+        "answer": 2,
+        "explanation": "Tolvaptan: V2 수용체를 차단해 전해질보다 수분의 배설을 증가시키는 aquaresis를 유도한다. 자료에서 연결한 용도는 SIADH에 의한 저나트륨혈증이다.",
+        "sourcePages": [
+          30,
+          31
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Tolvaptan의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "V2 수용체를 자극해 aquaporin-2와 수분 재흡수를 높인다.",
+          "V1 수용체를 자극해 혈관수축을 일으킨다.",
+          "Substance P의 NK1 수용체를 차단한다.",
+          "V2 수용체를 차단해 전해질보다 수분의 배설을 증가시키는 aquaresis를 유도한다."
+        ],
+        "answer": 3,
+        "explanation": "Tolvaptan의 기전은 다음과 같다. V2 수용체를 차단해 전해질보다 수분의 배설을 증가시키는 aquaresis를 유도한다.",
+        "sourcePages": [
+          30,
+          31
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Tolvaptan과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "SIADH에 의한 저나트륨혈증",
+          "중추성 요붕증의 ADH 작용 보충",
+          "혈우병 A에서 vWF·factor VIII 유리 증가",
+          "지연성 항암화학요법 구토의 예방"
+        ],
+        "answer": 0,
+        "explanation": "Tolvaptan은 자료에서 SIADH에 의한 저나트륨혈증에 연결된다. V2 수용체를 차단해 전해질보다 수분의 배설을 증가시키는 aquaresis를 유도한다.",
+        "sourcePages": [
+          30,
+          31
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Tolvaptan의 작용기전은 다음과 같다: V2 수용체를 자극해 aquaporin-2와 수분 재흡수를 높인다.",
+      "b": "Tolvaptan의 용도는 다음과 같다: SIADH에 의한 저나트륨혈증.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀리다. Tolvaptan의 실제 기전: V2 수용체를 차단해 전해질보다 수분의 배설을 증가시키는 aquaresis를 유도한다. B는 옳다. 자료에서 Tolvaptan에 연결한 실제 용도: SIADH에 의한 저나트륨혈증.",
+      "sourcePages": [
+        30,
+        31
+      ]
+    }
+  },
+  {
+    "id": "c26-bosentan",
+    "chapter": 26,
+    "name": "Bosentan",
+    "nameKo": "보센탄",
+    "drugClass": "비선택적 endothelin 수용체 길항제",
+    "moa": "Endothelin ETA와 ETB 수용체를 모두 차단한다.",
+    "uses": "폐동맥 고혈압(PAH)",
+    "caution": "자료는 endothelin 수용체 길항제의 간독성·임신 관련 주의를 제시한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        31,
+        32
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "Endothelin ETA와 ETB를 모두 차단하는 비선택적 약물은?",
+        "choices": [
+          "Ambrisentan",
+          "Riociguat",
+          "Sotatercept",
+          "Bosentan"
+        ],
+        "answer": 3,
+        "explanation": "Bosentan: Endothelin ETA와 ETB 수용체를 모두 차단한다. 자료에서 연결한 용도는 폐동맥 고혈압(PAH)이다.",
+        "sourcePages": [
+          31,
+          32
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Bosentan의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "Endothelin ETA와 ETB 수용체를 모두 차단한다.",
+          "ETA 수용체를 선택적으로 차단한다.",
+          "sGC를 직접 자극해 cGMP 생성을 늘린다.",
+          "PDE-5를 억제해 cGMP 분해를 줄인다."
+        ],
+        "answer": 0,
+        "explanation": "Bosentan의 기전은 다음과 같다. Endothelin ETA와 ETB 수용체를 모두 차단한다.",
+        "sourcePages": [
+          31,
+          32
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Bosentan과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "중추성 요붕증의 항이뇨 치료",
+          "폐동맥 고혈압(PAH)",
+          "SIADH 저나트륨혈증의 선택적 수분 배설",
+          "CGRP 수용체 차단에 의한 편두통 예방"
+        ],
+        "answer": 1,
+        "explanation": "Bosentan은 자료에서 폐동맥 고혈압(PAH)에 연결된다. Endothelin ETA와 ETB 수용체를 모두 차단한다.",
+        "sourcePages": [
+          31,
+          32
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Bosentan의 작용기전은 다음과 같다: ETA 수용체를 선택적으로 차단한다.",
+      "b": "Bosentan의 용도는 다음과 같다: 중추성 요붕증의 항이뇨 치료.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀리다. Bosentan의 실제 기전: Endothelin ETA와 ETB 수용체를 모두 차단한다. B는 틀리다. 자료에서 Bosentan에 연결한 실제 용도: 폐동맥 고혈압(PAH).",
+      "sourcePages": [
+        31,
+        32
+      ]
+    }
+  },
+  {
+    "id": "c26-ambrisentan",
+    "chapter": 26,
+    "name": "Ambrisentan",
+    "nameKo": "암브리센탄",
+    "drugClass": "선택적 ETA 수용체 길항제",
+    "moa": "Endothelin ETA 수용체를 선택적으로 차단해 혈관수축·증식 신호를 줄인다.",
+    "uses": "폐동맥 고혈압(PAH)",
+    "caution": "자료는 bosentan의 ETA·ETB 비선택적 차단과 구분한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        31,
+        32
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "Endothelin 길항제 중 ETA 수용체 선택적 약물로 제시된 것은?",
+        "choices": [
+          "Ambrisentan",
+          "Bosentan",
+          "Macitentan",
+          "Sildenafil"
+        ],
+        "answer": 0,
+        "explanation": "Ambrisentan: Endothelin ETA 수용체를 선택적으로 차단해 혈관수축·증식 신호를 줄인다. 자료에서 연결한 용도는 폐동맥 고혈압(PAH)이다.",
+        "sourcePages": [
+          31,
+          32
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Ambrisentan의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "Endothelin ETA·ETB 수용체를 모두 차단한다.",
+          "Endothelin ETA 수용체를 선택적으로 차단해 혈관수축·증식 신호를 줄인다.",
+          "PDE-5를 억제해 cGMP 분해를 줄인다.",
+          "Activin 리간드를 포획해 증식 신호를 줄인다."
+        ],
+        "answer": 1,
+        "explanation": "Ambrisentan의 기전은 다음과 같다. Endothelin ETA 수용체를 선택적으로 차단해 혈관수축·증식 신호를 줄인다.",
+        "sourcePages": [
+          31,
+          32
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Ambrisentan과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "지연성 항암화학요법 구토의 NK1 차단 치료",
+          "중추성 요붕증에서 V2 작용 보충",
+          "폐동맥 고혈압(PAH)",
+          "유전성 혈관부종에서 B2 수용체 차단"
+        ],
+        "answer": 2,
+        "explanation": "Ambrisentan은 자료에서 폐동맥 고혈압(PAH)에 연결된다. Endothelin ETA 수용체를 선택적으로 차단해 혈관수축·증식 신호를 줄인다.",
+        "sourcePages": [
+          31,
+          32
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Ambrisentan의 작용기전은 다음과 같다: Endothelin ETA 수용체를 선택적으로 차단해 혈관수축·증식 신호를 줄인다.",
+      "b": "Ambrisentan의 용도는 다음과 같다: 폐동맥 고혈압(PAH).",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 옳다. Ambrisentan의 실제 기전: Endothelin ETA 수용체를 선택적으로 차단해 혈관수축·증식 신호를 줄인다. B는 옳다. 자료에서 Ambrisentan에 연결한 실제 용도: 폐동맥 고혈압(PAH).",
+      "sourcePages": [
+        31,
+        32
+      ]
+    }
+  },
+  {
+    "id": "c26-aprepitant",
+    "chapter": 26,
+    "name": "Aprepitant",
+    "nameKo": "아프레피탄트",
+    "drugClass": "Neurokinin-1(NK1) 수용체 길항제",
+    "moa": "Substance P의 NK1 수용체를 차단해 지연성 구토 신호를 억제한다.",
+    "uses": "항암화학요법 유발 지연성 오심·구토(CINV)",
+    "caution": "자료는 주로 급성기 5-HT3 차단제인 setron과 구별한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        31,
+        32
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "Substance P의 NK1 수용체를 차단하여 항암화학요법의 지연성 구토에 사용하는 약물은?",
+        "choices": [
+          "Ondansetron",
+          "Aprepitant",
+          "Alosetron",
+          "Atogepant"
+        ],
+        "answer": 1,
+        "explanation": "Aprepitant: Substance P의 NK1 수용체를 차단해 지연성 구토 신호를 억제한다. 자료에서 연결한 용도는 항암화학요법 유발 지연성 오심·구토(CINV)이다.",
+        "sourcePages": [
+          31,
+          32
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Aprepitant의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "5-HT3 이온채널을 차단해 serotonin의 구토 신호를 억제한다.",
+          "CGRP 수용체를 차단해 편두통 신호를 줄인다.",
+          "Substance P의 NK1 수용체를 차단해 지연성 구토 신호를 억제한다.",
+          "V2 수용체를 차단해 수분 배설을 늘린다."
+        ],
+        "answer": 2,
+        "explanation": "Aprepitant의 기전은 다음과 같다. Substance P의 NK1 수용체를 차단해 지연성 구토 신호를 억제한다.",
+        "sourcePages": [
+          31,
+          32
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Aprepitant과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "CGRP 차단에 의한 편두통 예방",
+          "여성의 중증 설사형 과민성장증후군 치료",
+          "폐동맥 고혈압에서 activin 포획",
+          "항암화학요법 유발 지연성 오심·구토(CINV)"
+        ],
+        "answer": 3,
+        "explanation": "Aprepitant은 자료에서 항암화학요법 유발 지연성 오심·구토(CINV)에 연결된다. Substance P의 NK1 수용체를 차단해 지연성 구토 신호를 억제한다.",
+        "sourcePages": [
+          31,
+          32
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Aprepitant의 작용기전은 다음과 같다: Substance P의 NK1 수용체를 차단해 지연성 구토 신호를 억제한다.",
+      "b": "Aprepitant의 용도는 다음과 같다: CGRP 차단에 의한 편두통 예방.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 옳다. Aprepitant의 실제 기전: Substance P의 NK1 수용체를 차단해 지연성 구토 신호를 억제한다. B는 틀리다. 자료에서 Aprepitant에 연결한 실제 용도: 항암화학요법 유발 지연성 오심·구토(CINV).",
+      "sourcePages": [
+        31,
+        32
+      ]
+    }
+  },
+  {
+    "id": "c26-fremanezumab",
+    "chapter": 26,
+    "name": "Fremanezumab",
+    "nameKo": "프레마네주맙",
+    "drugClass": "항-CGRP 단클론항체",
+    "moa": "CGRP 리간드를 항체로 포획하여 CGRP 매개 신호를 줄인다.",
+    "uses": "편두통 예방",
+    "caution": "CGRP 리간드를 포획하는 항체와 CGRP 수용체를 막는 gepant를 구분한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        31,
+        32
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "CGRP 수용체가 아니라 CGRP 리간드를 항체로 포획하는 편두통 예방 약물은?",
+        "choices": [
+          "Atogepant",
+          "Sumatriptan",
+          "Fremanezumab",
+          "Lasmiditan"
+        ],
+        "answer": 2,
+        "explanation": "Fremanezumab: CGRP 리간드를 항체로 포획하여 CGRP 매개 신호를 줄인다. 자료에서 연결한 용도는 편두통 예방이다.",
+        "sourcePages": [
+          31,
+          32
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Fremanezumab의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "CGRP 수용체를 직접 차단한다.",
+          "5-HT1B/1D 수용체를 자극해 혈관수축을 유도한다.",
+          "5-HT1F 수용체를 자극해 신경 억제를 유도한다.",
+          "CGRP 리간드를 항체로 포획하여 CGRP 매개 신호를 줄인다."
+        ],
+        "answer": 3,
+        "explanation": "Fremanezumab의 기전은 다음과 같다. CGRP 리간드를 항체로 포획하여 CGRP 매개 신호를 줄인다.",
+        "sourcePages": [
+          31,
+          32
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Fremanezumab과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "편두통 예방",
+          "폐동맥 고혈압에서 endothelin 수용체 차단",
+          "SIADH의 저나트륨혈증 교정",
+          "지연성 항암화학요법 구토의 NK1 차단 치료"
+        ],
+        "answer": 0,
+        "explanation": "Fremanezumab은 자료에서 편두통 예방에 연결된다. CGRP 리간드를 항체로 포획하여 CGRP 매개 신호를 줄인다.",
+        "sourcePages": [
+          31,
+          32
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Fremanezumab의 작용기전은 다음과 같다: CGRP 수용체를 직접 차단한다.",
+      "b": "Fremanezumab의 용도는 다음과 같다: 편두통 예방.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀리다. Fremanezumab의 실제 기전: CGRP 리간드를 항체로 포획하여 CGRP 매개 신호를 줄인다. B는 옳다. 자료에서 Fremanezumab에 연결한 실제 용도: 편두통 예방.",
+      "sourcePages": [
+        31,
+        32
+      ]
+    }
+  },
+  {
+    "id": "c26-atogepant",
+    "chapter": 26,
+    "name": "Atogepant",
+    "nameKo": "아토제판트",
+    "drugClass": "CGRP 수용체 길항제",
+    "moa": "CGRP 수용체를 차단하여 CGRP 매개 편두통 신호를 줄인다.",
+    "uses": "편두통 예방",
+    "caution": "자료는 triptan과 달리 혈관수축을 유도하지 않는 CGRP 차단 경로로 설명한다.",
+    "source": {
+      "fileId": "source-6",
+      "pages": [
+        31,
+        32
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "Gepant 계열로 CGRP 수용체를 차단하는 편두통 예방 약물은?",
+        "choices": [
+          "Fremanezumab",
+          "Sumatriptan",
+          "Lasmiditan",
+          "Atogepant"
+        ],
+        "answer": 3,
+        "explanation": "Atogepant: CGRP 수용체를 차단하여 CGRP 매개 편두통 신호를 줄인다. 자료에서 연결한 용도는 편두통 예방이다.",
+        "sourcePages": [
+          31,
+          32
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Atogepant의 작용기전(MOA)으로 옳은 것은?",
+        "choices": [
+          "CGRP 수용체를 차단하여 CGRP 매개 편두통 신호를 줄인다.",
+          "CGRP 리간드를 단클론항체로 포획한다.",
+          "5-HT1B/1D 수용체를 자극해 혈관수축을 유도한다.",
+          "5-HT1F 수용체를 자극해 신경 억제를 유도한다."
+        ],
+        "answer": 0,
+        "explanation": "Atogepant의 기전은 다음과 같다. CGRP 수용체를 차단하여 CGRP 매개 편두통 신호를 줄인다.",
+        "sourcePages": [
+          31,
+          32
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Atogepant과 연결한 용도로 옳은 것은?",
+        "choices": [
+          "지연성 항암화학요법 구토의 NK1 차단 치료",
+          "편두통 예방",
+          "폐동맥 고혈압에서 activin 리간드 포획",
+          "중추성 요붕증에서 V2 수용체 자극"
+        ],
+        "answer": 1,
+        "explanation": "Atogepant은 자료에서 편두통 예방에 연결된다. CGRP 수용체를 차단하여 CGRP 매개 편두통 신호를 줄인다.",
+        "sourcePages": [
+          31,
+          32
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Atogepant의 작용기전은 다음과 같다: CGRP 리간드를 단클론항체로 포획한다.",
+      "b": "Atogepant의 용도는 다음과 같다: 지연성 항암화학요법 구토의 NK1 차단 치료.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀리다. Atogepant의 실제 기전: CGRP 수용체를 차단하여 CGRP 매개 편두통 신호를 줄인다. B는 틀리다. 자료에서 Atogepant에 연결한 실제 용도: 편두통 예방.",
+      "sourcePages": [
+        31,
+        32
+      ]
+    }
+  }
+]

@@ -1,0 +1,4272 @@
+[
+  {
+    "id": "ch14-chlorpromazine",
+    "chapter": 14,
+    "name": "Chlorpromazine",
+    "nameKo": "클로르프로마진",
+    "drugClass": "저역가 전형 항정신병약",
+    "moa": "D2 수용체를 차단하며 H1·α1·M1 차단도 나타낸다.",
+    "uses": "조현병; 난치성 딸꾹질에 사용되는 약물로 정리된다.",
+    "caution": "진정, 기립성 저혈압, 항무스카린 부작용과 간독성이 중요하다.",
+    "source": {
+      "fileId": "source-3",
+      "pages": [
+        2,
+        4
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "저역가 phenothiazine 계열로, D2 차단과 함께 H1·α1·M1 차단이 강한 항정신병약이다. 해당하는 약물은?",
+        "choices": [
+          "Chlorpromazine",
+          "Haloperidol",
+          "Aripiprazole",
+          "Lithium"
+        ],
+        "answer": 0,
+        "explanation": "Chlorpromazine의 핵심 기전은 D2 수용체를 차단하며 H1·α1·M1 차단도 나타낸다. 강의자료의 용도는 조현병; 난치성 딸꾹질에 사용되는 약물로 정리된다.",
+        "sourcePages": [
+          2,
+          4
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Chlorpromazine의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "시냅스 소포의 SV2A에 결합해 방출을 조절한다.",
+          "GABA-A 수용체를 양성 알로스테릭 조절한다.",
+          "세로토닌 운반체 SERT만 선택적으로 억제한다.",
+          "D2 수용체를 차단하며 H1·α1·M1 차단도 나타낸다."
+        ],
+        "answer": 3,
+        "explanation": "Chlorpromazine은(는) 저역가 전형 항정신병약로 분류된다. D2 수용체를 차단하며 H1·α1·M1 차단도 나타낸다.",
+        "sourcePages": [
+          2,
+          4
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Chlorpromazine의 용도로 제시한 것은?",
+        "choices": [
+          "소발작의 시상 T형 칼슘 전류 억제",
+          "알츠하이머병의 아세틸콜린 분해 억제",
+          "조현병과 난치성 딸꾹질",
+          "파킨슨병의 도파민 보충"
+        ],
+        "answer": 2,
+        "explanation": "조현병; 난치성 딸꾹질에 사용되는 약물로 정리된다. 진정, 기립성 저혈압, 항무스카린 부작용과 간독성이 중요하다.",
+        "sourcePages": [
+          2,
+          4
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Chlorpromazine의 주된 작용기전은 다음과 같다. D2 수용체를 차단하며 H1·α1·M1 차단도 나타낸다.",
+      "b": "강의자료에서 Chlorpromazine의 용도로 제시한 것은 '조현병과 난치성 딸꾹질'이다.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 옳다. Chlorpromazine의 정확한 기전: D2 수용체를 차단하며 H1·α1·M1 차단도 나타낸다. B는 옳다. 강의자료에서 제시한 용도: 조현병; 난치성 딸꾹질에 사용되는 약물로 정리된다.",
+      "sourcePages": [
+        2,
+        4
+      ]
+    }
+  },
+  {
+    "id": "ch14-haloperidol",
+    "chapter": 14,
+    "name": "Haloperidol",
+    "nameKo": "할로페리돌",
+    "drugClass": "고역가 전형 항정신병약",
+    "moa": "D2 수용체를 강하게 차단한다.",
+    "uses": "조현병; 항구토 용도로도 제시된다.",
+    "caution": "추체외로증상(EPS)과 QT 연장에 주의한다.",
+    "source": {
+      "fileId": "source-3",
+      "pages": [
+        2,
+        4
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "Butyrophenone 계열의 고역가 전형 항정신병약으로, D2 차단에 따른 EPS가 중요한 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Clozapine",
+          "Chlorpromazine",
+          "Mirtazapine",
+          "Haloperidol"
+        ],
+        "answer": 3,
+        "explanation": "Haloperidol의 핵심 기전은 D2 수용체를 강하게 차단한다. 강의자료의 용도는 조현병; 항구토 용도로도 제시된다.",
+        "sourcePages": [
+          2,
+          4
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Haloperidol의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "중추 M1·M4 수용체를 자극한다.",
+          "NMDA 수용체를 차단해 해리성 마취를 유도한다.",
+          "D2 수용체를 강하게 차단한다.",
+          "D2 수용체를 부분적으로 활성화한다."
+        ],
+        "answer": 2,
+        "explanation": "Haloperidol은(는) 고역가 전형 항정신병약로 분류된다. D2 수용체를 강하게 차단한다.",
+        "sourcePages": [
+          2,
+          4
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Haloperidol의 용도로 제시한 것은?",
+        "choices": [
+          "신경근 차단 역전",
+          "조현병 및 항구토",
+          "마취 중 해리성 진통",
+          "소발작에 특화된 발작 억제"
+        ],
+        "answer": 1,
+        "explanation": "조현병; 항구토 용도로도 제시된다. 추체외로증상(EPS)과 QT 연장에 주의한다.",
+        "sourcePages": [
+          2,
+          4
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Haloperidol의 주된 작용기전은 다음과 같다. D2 수용체를 강하게 차단한다.",
+      "b": "강의자료에서 Haloperidol의 용도로 제시한 것은 '신경근 차단 역전'이다.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 옳다. Haloperidol의 정확한 기전: D2 수용체를 강하게 차단한다. B는 틀리다. 강의자료에서 제시한 용도: 조현병; 항구토 용도로도 제시된다.",
+      "sourcePages": [
+        2,
+        4
+      ]
+    }
+  },
+  {
+    "id": "ch14-clozapine",
+    "chapter": 14,
+    "name": "Clozapine",
+    "nameKo": "클로자핀",
+    "drugClass": "비정형 항정신병약",
+    "moa": "D2 및 5-HT2A 수용체 차단이 관여하며 D2 결합은 비교적 느슨하다.",
+    "uses": "치료저항성 조현병에 사용되는 약물로 정리된다.",
+    "caution": "무과립구증 때문에 호중구 수치 확인이 중요하며 대사 부작용도 있다.",
+    "source": {
+      "fileId": "source-3",
+      "pages": [
+        3,
+        5
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "치료저항성 조현병에 선택되며, 무과립구증이 중요한 부작용인 비정형 항정신병약이다. 해당하는 약물은?",
+        "choices": [
+          "Fluoxetine",
+          "Lithium",
+          "Clozapine",
+          "Risperidone"
+        ],
+        "answer": 2,
+        "explanation": "Clozapine의 핵심 기전은 D2 및 5-HT2A 수용체 차단이 관여하며 D2 결합은 비교적 느슨하다. 강의자료의 용도는 치료저항성 조현병에 사용되는 약물로 정리된다.",
+        "sourcePages": [
+          3,
+          5
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Clozapine의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "아세틸콜린에스터레이스를 억제한다.",
+          "D2 및 5-HT2A 수용체 차단이 관여하며 D2 결합은 비교적 느슨하다.",
+          "말초 DOPA 탈탄산효소를 선택적으로 억제한다.",
+          "SV2A에 결합해 시냅스 소포 방출을 조절한다."
+        ],
+        "answer": 1,
+        "explanation": "Clozapine은(는) 비정형 항정신병약로 분류된다. D2 및 5-HT2A 수용체 차단이 관여하며 D2 결합은 비교적 느슨하다.",
+        "sourcePages": [
+          3,
+          5
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Clozapine의 용도로 제시한 것은?",
+        "choices": [
+          "치료저항성 조현병",
+          "소발작의 선택적 억제",
+          "오피오이드 과량에 의한 호흡억제 역전",
+          "파킨슨병의 도파민 전구체 보충"
+        ],
+        "answer": 0,
+        "explanation": "치료저항성 조현병에 사용되는 약물로 정리된다. 무과립구증 때문에 호중구 수치 확인이 중요하며 대사 부작용도 있다.",
+        "sourcePages": [
+          3,
+          5
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Clozapine의 주된 작용기전은 다음과 같다. 아세틸콜린에스터레이스를 억제한다.",
+      "b": "강의자료에서 Clozapine의 용도로 제시한 것은 '치료저항성 조현병'이다.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀리다. Clozapine의 정확한 기전: D2 및 5-HT2A 수용체 차단이 관여하며 D2 결합은 비교적 느슨하다. B는 옳다. 강의자료에서 제시한 용도: 치료저항성 조현병에 사용되는 약물로 정리된다.",
+      "sourcePages": [
+        3,
+        5
+      ]
+    }
+  },
+  {
+    "id": "ch14-aripiprazole",
+    "chapter": 14,
+    "name": "Aripiprazole",
+    "nameKo": "아리피프라졸",
+    "drugClass": "비정형 항정신병약·D2 부분 작용제",
+    "moa": "D2 수용체 부분 작용제로 도파민 신호를 조절한다.",
+    "uses": "조현병; 자폐스펙트럼장애의 과민·공격성 관련 약물로 제시된다.",
+    "caution": "용량에 따라 EPS가 나타날 수 있다.",
+    "source": {
+      "fileId": "source-3",
+      "pages": [
+        3,
+        5
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "D2 수용체의 완전 차단제가 아닌 부분 작용제로 정리되는 비정형 항정신병약이다. 해당하는 약물은?",
+        "choices": [
+          "Clozapine",
+          "Aripiprazole",
+          "Haloperidol",
+          "Chlorpromazine"
+        ],
+        "answer": 1,
+        "explanation": "Aripiprazole의 핵심 기전은 D2 수용체 부분 작용제로 도파민 신호를 조절한다. 강의자료의 용도는 조현병; 자폐스펙트럼장애의 과민·공격성 관련 약물로 제시된다.",
+        "sourcePages": [
+          3,
+          5
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Aripiprazole의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "D2 수용체 부분 작용제로 도파민 신호를 조절한다.",
+          "GABA 분해효소 GABA-T를 비가역적으로 억제한다.",
+          "말초 COMT만 억제한다.",
+          "SERT를 선택적으로 억제한다."
+        ],
+        "answer": 0,
+        "explanation": "Aripiprazole은(는) 비정형 항정신병약·D2 부분 작용제로 분류된다. D2 수용체 부분 작용제로 도파민 신호를 조절한다.",
+        "sourcePages": [
+          3,
+          5
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Aripiprazole의 용도로 제시한 것은?",
+        "choices": [
+          "영아연축의 GABA-T 억제 치료",
+          "오피오이드 유발 변비의 말초 길항",
+          "전신마취 유도",
+          "조현병과 자폐스펙트럼장애의 과민·공격성"
+        ],
+        "answer": 3,
+        "explanation": "조현병; 자폐스펙트럼장애의 과민·공격성 관련 약물로 제시된다. 용량에 따라 EPS가 나타날 수 있다.",
+        "sourcePages": [
+          3,
+          5
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Aripiprazole의 주된 작용기전은 다음과 같다. GABA 분해효소 GABA-T를 비가역적으로 억제한다.",
+      "b": "강의자료에서 Aripiprazole의 용도로 제시한 것은 '영아연축의 GABA-T 억제 치료'이다.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀리다. Aripiprazole의 정확한 기전: D2 수용체 부분 작용제로 도파민 신호를 조절한다. B는 틀리다. 강의자료에서 제시한 용도: 조현병; 자폐스펙트럼장애의 과민·공격성 관련 약물로 제시된다.",
+      "sourcePages": [
+        3,
+        5
+      ]
+    }
+  },
+  {
+    "id": "ch14-risperidone",
+    "chapter": 14,
+    "name": "Risperidone",
+    "nameKo": "리스페리돈",
+    "drugClass": "비정형 항정신병약",
+    "moa": "D2 및 5-HT2A 수용체를 길항하며 D2 결합이 비교적 강하다.",
+    "uses": "조현병; 자폐스펙트럼장애의 과민·공격성 관련 약물로 제시된다.",
+    "caution": "비정형 약물 중에서도 EPS와 고프로락틴혈증이 중요하다.",
+    "source": {
+      "fileId": "source-3",
+      "pages": [
+        3,
+        5
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "비정형 항정신병약이지만 D2 결합이 강해 EPS와 고프로락틴혈증이 두드러지는 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Risperidone",
+          "Clozapine",
+          "Aripiprazole",
+          "Quetiapine"
+        ],
+        "answer": 0,
+        "explanation": "Risperidone의 핵심 기전은 D2 및 5-HT2A 수용체를 길항하며 D2 결합이 비교적 강하다. 강의자료의 용도는 조현병; 자폐스펙트럼장애의 과민·공격성 관련 약물로 제시된다.",
+        "sourcePages": [
+          3,
+          5
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Risperidone의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "D2 수용체 부분 작용만으로 도파민 신호를 조절한다.",
+          "세로토닌·노르에피네프린 재흡수를 억제한다.",
+          "GABA-A 신호를 강화하는 신경스테로이드로 작용한다.",
+          "D2 및 5-HT2A 수용체를 길항하며 D2 결합이 비교적 강하다."
+        ],
+        "answer": 3,
+        "explanation": "Risperidone은(는) 비정형 항정신병약로 분류된다. D2 및 5-HT2A 수용체를 길항하며 D2 결합이 비교적 강하다.",
+        "sourcePages": [
+          3,
+          5
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Risperidone의 용도로 제시한 것은?",
+        "choices": [
+          "국소발작의 SV2A 조절",
+          "알츠하이머병의 NMDA 차단",
+          "조현병과 자폐스펙트럼장애의 과민·공격성",
+          "중증 통증의 μ 수용체 진통"
+        ],
+        "answer": 2,
+        "explanation": "조현병; 자폐스펙트럼장애의 과민·공격성 관련 약물로 제시된다. 비정형 약물 중에서도 EPS와 고프로락틴혈증이 중요하다.",
+        "sourcePages": [
+          3,
+          5
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Risperidone의 주된 작용기전은 다음과 같다. D2 및 5-HT2A 수용체를 길항하며 D2 결합이 비교적 강하다.",
+      "b": "강의자료에서 Risperidone의 용도로 제시한 것은 '조현병과 자폐스펙트럼장애의 과민·공격성'이다.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 옳다. Risperidone의 정확한 기전: D2 및 5-HT2A 수용체를 길항하며 D2 결합이 비교적 강하다. B는 옳다. 강의자료에서 제시한 용도: 조현병; 자폐스펙트럼장애의 과민·공격성 관련 약물로 제시된다.",
+      "sourcePages": [
+        3,
+        5
+      ]
+    }
+  },
+  {
+    "id": "ch14-lithium",
+    "chapter": 14,
+    "name": "Lithium",
+    "nameKo": "리튬",
+    "drugClass": "기분안정제",
+    "moa": "Inositol 재활용을 억제해 과활성화된 Gq–PLC 신호를 낮춘다는 가설로 설명된다.",
+    "uses": "양극성장애의 기분안정제로 제시된다.",
+    "caution": "치료역이 좁으며 갑상선기능저하와 신성 요붕증이 중요하다.",
+    "source": {
+      "fileId": "source-3",
+      "pages": [
+        4
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "Inositol 고갈 가설로 설명되며, 갑상선기능저하와 신성 요붕증이 중요한 기분안정제이다. 해당하는 약물은?",
+        "choices": [
+          "Fluoxetine",
+          "Haloperidol",
+          "Donepezil",
+          "Lithium"
+        ],
+        "answer": 3,
+        "explanation": "Lithium의 핵심 기전은 Inositol 재활용을 억제해 과활성화된 Gq–PLC 신호를 낮춘다는 가설로 설명된다. 강의자료의 용도는 양극성장애의 기분안정제로 제시된다.",
+        "sourcePages": [
+          4
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Lithium의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "도파민 전구체로 뇌에서 도파민으로 전환된다.",
+          "말초 μ 수용체만 차단한다.",
+          "Inositol 재활용을 억제해 과활성화된 Gq–PLC 신호를 낮춘다는 가설로 설명된다.",
+          "시냅스전 α2 수용체를 차단해 NE·5-HT 방출을 늘린다."
+        ],
+        "answer": 2,
+        "explanation": "Lithium은(는) 기분안정제로 분류된다. Inositol 재활용을 억제해 과활성화된 Gq–PLC 신호를 낮춘다는 가설로 설명된다.",
+        "sourcePages": [
+          4
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Lithium의 용도로 제시한 것은?",
+        "choices": [
+          "급성 오피오이드 호흡억제의 신속 역전",
+          "양극성장애",
+          "알츠하이머병의 아세틸콜린 분해 억제",
+          "전신마취의 해리성 진통"
+        ],
+        "answer": 1,
+        "explanation": "양극성장애의 기분안정제로 제시된다. 치료역이 좁으며 갑상선기능저하와 신성 요붕증이 중요하다.",
+        "sourcePages": [
+          4
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Lithium의 주된 작용기전은 다음과 같다. Inositol 재활용을 억제해 과활성화된 Gq–PLC 신호를 낮춘다는 가설로 설명된다.",
+      "b": "강의자료에서 Lithium의 용도로 제시한 것은 '급성 오피오이드 호흡억제의 신속 역전'이다.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 옳다. Lithium의 정확한 기전: Inositol 재활용을 억제해 과활성화된 Gq–PLC 신호를 낮춘다는 가설로 설명된다. B는 틀리다. 강의자료에서 제시한 용도: 양극성장애의 기분안정제로 제시된다.",
+      "sourcePages": [
+        4
+      ]
+    }
+  },
+  {
+    "id": "ch14-karxt",
+    "chapter": 14,
+    "name": "Xanomeline + trospium",
+    "nameKo": "자노멜린 + 트로스피움",
+    "drugClass": "무스카린계 항정신병 복합제",
+    "moa": "Xanomeline은 중추 M1·M4 수용체를 자극하고, trospium은 말초 무스카린 수용체를 차단한다.",
+    "uses": "조현병의 양성·음성 증상 및 인지기능과 관련된 비도파민성 항정신병 복합제로 제시된다.",
+    "caution": "Trospium은 뇌로 거의 들어가지 않아 xanomeline의 말초 콜린성 부작용을 줄이는 역할을 한다.",
+    "source": {
+      "fileId": "source-3",
+      "pages": [
+        6,
+        7
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "중추 M1·M4 작용제와 말초 무스카린 길항제를 조합한 KarXT의 성분 조합이다. 해당하는 약물은?",
+        "choices": [
+          "Memantine + donepezil",
+          "Dextromethorphan + quinidine",
+          "Xanomeline + trospium",
+          "Levodopa + carbidopa"
+        ],
+        "answer": 2,
+        "explanation": "Xanomeline + trospium의 핵심 기전은 Xanomeline은 중추 M1·M4 수용체를 자극하고, trospium은 말초 무스카린 수용체를 차단한다. 강의자료의 용도는 조현병의 양성·음성 증상 및 인지기능과 관련된 비도파민성 항정신병 복합제로 제시된다.",
+        "sourcePages": [
+          6,
+          7
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Xanomeline + trospium의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "한 성분은 도파민 전구체이고 다른 성분은 말초 탈탄산효소 억제제이다.",
+          "Xanomeline은 중추 M1·M4 수용체를 자극하고, trospium은 말초 무스카린 수용체를 차단한다.",
+          "두 성분이 모두 D2 수용체를 강하게 차단한다.",
+          "두 성분이 모두 GABA 재흡수를 억제한다."
+        ],
+        "answer": 1,
+        "explanation": "Xanomeline + trospium은(는) 무스카린계 항정신병 복합제로 분류된다. Xanomeline은 중추 M1·M4 수용체를 자극하고, trospium은 말초 무스카린 수용체를 차단한다.",
+        "sourcePages": [
+          6,
+          7
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Xanomeline + trospium의 용도로 제시한 것은?",
+        "choices": [
+          "조현병의 항정신병 치료",
+          "파킨슨병의 도파민 보충",
+          "감정실금의 증상 조절",
+          "알츠하이머병의 NMDA·AChE 병합 조절"
+        ],
+        "answer": 0,
+        "explanation": "조현병의 양성·음성 증상 및 인지기능과 관련된 비도파민성 항정신병 복합제로 제시된다. Trospium은 뇌로 거의 들어가지 않아 xanomeline의 말초 콜린성 부작용을 줄이는 역할을 한다.",
+        "sourcePages": [
+          6,
+          7
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Xanomeline + trospium의 주된 작용기전은 다음과 같다. 한 성분은 도파민 전구체이고 다른 성분은 말초 탈탄산효소 억제제이다.",
+      "b": "강의자료에서 Xanomeline + trospium의 용도로 제시한 것은 '조현병의 항정신병 치료'이다.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀리다. Xanomeline + trospium의 정확한 기전: Xanomeline은 중추 M1·M4 수용체를 자극하고, trospium은 말초 무스카린 수용체를 차단한다. B는 옳다. 강의자료에서 제시한 용도: 조현병의 양성·음성 증상 및 인지기능과 관련된 비도파민성 항정신병 복합제로 제시된다.",
+      "sourcePages": [
+        6,
+        7
+      ]
+    }
+  },
+  {
+    "id": "ch15-fluoxetine",
+    "chapter": 15,
+    "name": "Fluoxetine",
+    "nameKo": "플루옥세틴",
+    "drugClass": "선택적 세로토닌 재흡수 억제제(SSRI)",
+    "moa": "세로토닌 운반체 SERT를 선택적으로 억제해 시냅스의 5-HT를 늘린다.",
+    "uses": "주요우울장애; 신경성 폭식증에 연결되는 SSRI로 제시된다.",
+    "caution": "성기능장애, 불면, 불안 및 저나트륨혈증 등이 강의의 SSRI 주의점이다.",
+    "source": {
+      "fileId": "source-3",
+      "pages": [
+        10
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "SERT를 억제하는 SSRI이며, 자료에서 신경성 폭식증과 특별히 연결한 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Phenelzine",
+          "Fluoxetine",
+          "Bupropion",
+          "Mirtazapine"
+        ],
+        "answer": 1,
+        "explanation": "Fluoxetine의 핵심 기전은 세로토닌 운반체 SERT를 선택적으로 억제해 시냅스의 5-HT를 늘린다. 강의자료의 용도는 주요우울장애; 신경성 폭식증에 연결되는 SSRI로 제시된다.",
+        "sourcePages": [
+          10
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Fluoxetine의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "세로토닌 운반체 SERT를 선택적으로 억제해 시냅스의 5-HT를 늘린다.",
+          "노르에피네프린과 도파민 재흡수를 억제한다.",
+          "Monoamine oxidase를 비가역적으로 억제한다.",
+          "시냅스전 α2 수용체를 차단하며 재흡수는 억제하지 않는다."
+        ],
+        "answer": 0,
+        "explanation": "Fluoxetine은(는) 선택적 세로토닌 재흡수 억제제(SSRI)로 분류된다. 세로토닌 운반체 SERT를 선택적으로 억제해 시냅스의 5-HT를 늘린다.",
+        "sourcePages": [
+          10
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Fluoxetine의 용도로 제시한 것은?",
+        "choices": [
+          "파킨슨병의 도파민 보충",
+          "영아연축의 항경련 치료",
+          "오피오이드에 의한 호흡억제 역전",
+          "주요우울장애와 신경성 폭식증"
+        ],
+        "answer": 3,
+        "explanation": "주요우울장애; 신경성 폭식증에 연결되는 SSRI로 제시된다. 성기능장애, 불면, 불안 및 저나트륨혈증 등이 강의의 SSRI 주의점이다.",
+        "sourcePages": [
+          10
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Fluoxetine의 주된 작용기전은 다음과 같다. 노르에피네프린과 도파민 재흡수를 억제한다.",
+      "b": "강의자료에서 Fluoxetine의 용도로 제시한 것은 '파킨슨병의 도파민 보충'이다.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀리다. Fluoxetine의 정확한 기전: 세로토닌 운반체 SERT를 선택적으로 억제해 시냅스의 5-HT를 늘린다. B는 틀리다. 강의자료에서 제시한 용도: 주요우울장애; 신경성 폭식증에 연결되는 SSRI로 제시된다.",
+      "sourcePages": [
+        10
+      ]
+    }
+  },
+  {
+    "id": "ch15-bupropion",
+    "chapter": 15,
+    "name": "Bupropion",
+    "nameKo": "부프로피온",
+    "drugClass": "노르에피네프린·도파민 재흡수 억제제(NDRI)",
+    "moa": "노르에피네프린·도파민 재흡수를 억제하며 니코틴 수용체 길항도 금연 작용에 관여한다.",
+    "uses": "주요우울장애, 계절성 정동장애 및 금연에 사용된다.",
+    "caution": "발작 역치를 낮출 수 있다.",
+    "source": {
+      "fileId": "source-3",
+      "pages": [
+        12
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "NDRI이며 계절성 정동장애와 금연에 사용되고, 발작 역치를 낮출 수 있는 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Bupropion",
+          "Fluoxetine",
+          "Trazodone",
+          "Moclobemide"
+        ],
+        "answer": 0,
+        "explanation": "Bupropion의 핵심 기전은 노르에피네프린·도파민 재흡수를 억제하며 니코틴 수용체 길항도 금연 작용에 관여한다. 강의자료의 용도는 주요우울장애, 계절성 정동장애 및 금연에 사용된다.",
+        "sourcePages": [
+          12
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Bupropion의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "SERT만 선택적으로 억제한다.",
+          "GABA-A 수용체를 강화하는 신경스테로이드이다.",
+          "NMDA 수용체의 개방 채널을 차단한다.",
+          "노르에피네프린·도파민 재흡수를 억제하며 니코틴 수용체 길항도 금연 작용에 관여한다."
+        ],
+        "answer": 3,
+        "explanation": "Bupropion은(는) 노르에피네프린·도파민 재흡수 억제제(NDRI)로 분류된다. 노르에피네프린·도파민 재흡수를 억제하며 니코틴 수용체 길항도 금연 작용에 관여한다.",
+        "sourcePages": [
+          12
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Bupropion의 용도로 제시한 것은?",
+        "choices": [
+          "파킨슨병의 wearing-off 완화 보조",
+          "알츠하이머병의 아밀로이드 제거",
+          "주요우울장애·계절성 정동장애 및 금연",
+          "전신마취 중 해리성 마취"
+        ],
+        "answer": 2,
+        "explanation": "주요우울장애, 계절성 정동장애 및 금연에 사용된다. 발작 역치를 낮출 수 있다.",
+        "sourcePages": [
+          12
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Bupropion의 주된 작용기전은 다음과 같다. 노르에피네프린·도파민 재흡수를 억제하며 니코틴 수용체 길항도 금연 작용에 관여한다.",
+      "b": "강의자료에서 Bupropion의 용도로 제시한 것은 '주요우울장애·계절성 정동장애 및 금연'이다.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 옳다. Bupropion의 정확한 기전: 노르에피네프린·도파민 재흡수를 억제하며 니코틴 수용체 길항도 금연 작용에 관여한다. B는 옳다. 강의자료에서 제시한 용도: 주요우울장애, 계절성 정동장애 및 금연에 사용된다.",
+      "sourcePages": [
+        12
+      ]
+    }
+  },
+  {
+    "id": "ch15-mirtazapine",
+    "chapter": 15,
+    "name": "Mirtazapine",
+    "nameKo": "미르타자핀",
+    "drugClass": "노르아드레날린성·특이적 세로토닌성 항우울제(NaSSA)",
+    "moa": "α2 수용체를 차단해 NE·5-HT 방출을 늘리고 5-HT2·5-HT3 수용체를 차단한다.",
+    "uses": "항우울제이며, 강의에서는 불안·불면 및 식욕 증가와 연결된다.",
+    "caution": "H1 차단에 따른 진정과 체중증가가 중요하다.",
+    "source": {
+      "fileId": "source-3",
+      "pages": [
+        12,
+        14
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "재흡수를 억제하지 않고 α2를 차단하며, 진정과 식욕 증가가 특징인 NaSSA이다. 해당하는 약물은?",
+        "choices": [
+          "Duloxetine",
+          "Bupropion",
+          "Fluoxetine",
+          "Mirtazapine"
+        ],
+        "answer": 3,
+        "explanation": "Mirtazapine의 핵심 기전은 α2 수용체를 차단해 NE·5-HT 방출을 늘리고 5-HT2·5-HT3 수용체를 차단한다. 강의자료의 용도는 항우울제이며, 강의에서는 불안·불면 및 식욕 증가와 연결된다.",
+        "sourcePages": [
+          12,
+          14
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Mirtazapine의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "GABA-T를 비가역적으로 억제한다.",
+          "말초 COMT를 억제한다.",
+          "α2 수용체를 차단해 NE·5-HT 방출을 늘리고 5-HT2·5-HT3 수용체를 차단한다.",
+          "노르에피네프린·도파민 운반체만 억제한다."
+        ],
+        "answer": 2,
+        "explanation": "Mirtazapine은(는) 노르아드레날린성·특이적 세로토닌성 항우울제(NaSSA)로 분류된다. α2 수용체를 차단해 NE·5-HT 방출을 늘리고 5-HT2·5-HT3 수용체를 차단한다.",
+        "sourcePages": [
+          12,
+          14
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Mirtazapine의 용도로 제시한 것은?",
+        "choices": [
+          "알츠하이머병의 아밀로이드 제거",
+          "불안·불면 및 식욕 저하가 동반된 상황과 연결되는 항우울 치료",
+          "오피오이드 급성 호흡억제 역전",
+          "소발작의 T형 칼슘채널 억제"
+        ],
+        "answer": 1,
+        "explanation": "항우울제이며, 강의에서는 불안·불면 및 식욕 증가와 연결된다. H1 차단에 따른 진정과 체중증가가 중요하다.",
+        "sourcePages": [
+          12,
+          14
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Mirtazapine의 주된 작용기전은 다음과 같다. α2 수용체를 차단해 NE·5-HT 방출을 늘리고 5-HT2·5-HT3 수용체를 차단한다.",
+      "b": "강의자료에서 Mirtazapine의 용도로 제시한 것은 '알츠하이머병의 아밀로이드 제거'이다.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 옳다. Mirtazapine의 정확한 기전: α2 수용체를 차단해 NE·5-HT 방출을 늘리고 5-HT2·5-HT3 수용체를 차단한다. B는 틀리다. 강의자료에서 제시한 용도: 항우울제이며, 강의에서는 불안·불면 및 식욕 증가와 연결된다.",
+      "sourcePages": [
+        12,
+        14
+      ]
+    }
+  },
+  {
+    "id": "ch15-trazodone",
+    "chapter": 15,
+    "name": "Trazodone",
+    "nameKo": "트라조돈",
+    "drugClass": "세로토닌 길항·재흡수 억제제(SARI)",
+    "moa": "세로토닌 재흡수를 억제하고 5-HT2A·5-HT2C 수용체를 길항한다.",
+    "uses": "주요우울장애; 불면에 대한 허가외 사용이 자료에 제시된다.",
+    "caution": "진정이 강하고 α1 차단과 관련된 지속발기증이 중요하다.",
+    "source": {
+      "fileId": "source-3",
+      "pages": [
+        12,
+        14
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "SARI로 분류되며 진정이 강하고 지속발기증이 중요한 항우울제이다. 해당하는 약물은?",
+        "choices": [
+          "Fluoxetine",
+          "Moclobemide",
+          "Trazodone",
+          "Bupropion"
+        ],
+        "answer": 2,
+        "explanation": "Trazodone의 핵심 기전은 세로토닌 재흡수를 억제하고 5-HT2A·5-HT2C 수용체를 길항한다. 강의자료의 용도는 주요우울장애; 불면에 대한 허가외 사용이 자료에 제시된다.",
+        "sourcePages": [
+          12,
+          14
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Trazodone의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "NMDA 수용체를 차단해 해리성 마취를 일으킨다.",
+          "세로토닌 재흡수를 억제하고 5-HT2A·5-HT2C 수용체를 길항한다.",
+          "도파민·노르에피네프린 재흡수만 억제한다.",
+          "GABA 재흡수 운반체 GAT-1을 선택적으로 억제한다."
+        ],
+        "answer": 1,
+        "explanation": "Trazodone은(는) 세로토닌 길항·재흡수 억제제(SARI)로 분류된다. 세로토닌 재흡수를 억제하고 5-HT2A·5-HT2C 수용체를 길항한다.",
+        "sourcePages": [
+          12,
+          14
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Trazodone의 용도로 제시한 것은?",
+        "choices": [
+          "주요우울장애; 불면에 대한 허가외 사용",
+          "파킨슨병 도파민 보충",
+          "영아연축 치료",
+          "수술 시 신경근 차단"
+        ],
+        "answer": 0,
+        "explanation": "주요우울장애; 불면에 대한 허가외 사용이 자료에 제시된다. 진정이 강하고 α1 차단과 관련된 지속발기증이 중요하다.",
+        "sourcePages": [
+          12,
+          14
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Trazodone의 주된 작용기전은 다음과 같다. NMDA 수용체를 차단해 해리성 마취를 일으킨다.",
+      "b": "강의자료에서 Trazodone의 용도로 제시한 것은 '주요우울장애; 불면에 대한 허가외 사용'이다.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀리다. Trazodone의 정확한 기전: 세로토닌 재흡수를 억제하고 5-HT2A·5-HT2C 수용체를 길항한다. B는 옳다. 강의자료에서 제시한 용도: 주요우울장애; 불면에 대한 허가외 사용이 자료에 제시된다.",
+      "sourcePages": [
+        12,
+        14
+      ]
+    }
+  },
+  {
+    "id": "ch15-duloxetine",
+    "chapter": 15,
+    "name": "Duloxetine",
+    "nameKo": "둘록세틴",
+    "drugClass": "세로토닌·노르에피네프린 재흡수 억제제(SNRI)",
+    "moa": "세로토닌과 노르에피네프린의 재흡수를 억제한다.",
+    "uses": "주요우울장애, 불안장애, 당뇨병성 신경병증 및 섬유근육통에 사용된다.",
+    "caution": "SNRI 계열에서 오심과 혈압 상승 등이 제시된다.",
+    "source": {
+      "fileId": "source-3",
+      "pages": [
+        13,
+        14
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "SNRI이며 주요우울장애와 함께 당뇨병성 신경병증 및 섬유근육통에 사용되는 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Phenelzine",
+          "Duloxetine",
+          "Fluoxetine",
+          "Mirtazapine"
+        ],
+        "answer": 1,
+        "explanation": "Duloxetine의 핵심 기전은 세로토닌과 노르에피네프린의 재흡수를 억제한다. 강의자료의 용도는 주요우울장애, 불안장애, 당뇨병성 신경병증 및 섬유근육통에 사용된다.",
+        "sourcePages": [
+          13,
+          14
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Duloxetine의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "세로토닌과 노르에피네프린의 재흡수를 억제한다.",
+          "SERT만 선택적으로 억제한다.",
+          "도파민 D2 수용체를 부분적으로 활성화한다.",
+          "GABA-A 수용체의 신경스테로이드 결합 부위를 조절한다."
+        ],
+        "answer": 0,
+        "explanation": "Duloxetine은(는) 세로토닌·노르에피네프린 재흡수 억제제(SNRI)로 분류된다. 세로토닌과 노르에피네프린의 재흡수를 억제한다.",
+        "sourcePages": [
+          13,
+          14
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Duloxetine의 용도로 제시한 것은?",
+        "choices": [
+          "급성 오피오이드 호흡억제 역전",
+          "파킨슨병의 도파민 전구체 보충",
+          "알츠하이머병의 아밀로이드 제거",
+          "주요우울장애와 당뇨병성 신경병증·섬유근육통"
+        ],
+        "answer": 3,
+        "explanation": "주요우울장애, 불안장애, 당뇨병성 신경병증 및 섬유근육통에 사용된다. SNRI 계열에서 오심과 혈압 상승 등이 제시된다.",
+        "sourcePages": [
+          13,
+          14
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Duloxetine의 주된 작용기전은 다음과 같다. SERT만 선택적으로 억제한다.",
+      "b": "강의자료에서 Duloxetine의 용도로 제시한 것은 '급성 오피오이드 호흡억제 역전'이다.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀리다. Duloxetine의 정확한 기전: 세로토닌과 노르에피네프린의 재흡수를 억제한다. B는 틀리다. 강의자료에서 제시한 용도: 주요우울장애, 불안장애, 당뇨병성 신경병증 및 섬유근육통에 사용된다.",
+      "sourcePages": [
+        13,
+        14
+      ]
+    }
+  },
+  {
+    "id": "ch15-phenelzine",
+    "chapter": 15,
+    "name": "Phenelzine",
+    "nameKo": "페넬진",
+    "drugClass": "비가역적 모노아민 산화효소 억제제(MAOI)",
+    "moa": "비선택적·비가역적으로 monoamine oxidase를 억제한다.",
+    "uses": "비정형 우울증에 사용되는 MAOI로 제시된다.",
+    "caution": "Tyramine 병용에 의한 고혈압 위기와 세로토닌 증후군이 중요하다.",
+    "source": {
+      "fileId": "source-3",
+      "pages": [
+        13,
+        14
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "비가역적 MAOI로, 비정형 우울증에 쓰이며 tyramine의 cheese reaction이 중요한 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Phenelzine",
+          "Moclobemide",
+          "Fluoxetine",
+          "Bupropion"
+        ],
+        "answer": 0,
+        "explanation": "Phenelzine의 핵심 기전은 비선택적·비가역적으로 monoamine oxidase를 억제한다. 강의자료의 용도는 비정형 우울증에 사용되는 MAOI로 제시된다.",
+        "sourcePages": [
+          13,
+          14
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Phenelzine의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "MAO-A를 가역적으로 억제한다.",
+          "도파민 D2 수용체를 부분적으로 자극한다.",
+          "말초 DOPA 탈탄산효소를 억제한다.",
+          "비선택적·비가역적으로 monoamine oxidase를 억제한다."
+        ],
+        "answer": 3,
+        "explanation": "Phenelzine은(는) 비가역적 모노아민 산화효소 억제제(MAOI)로 분류된다. 비선택적·비가역적으로 monoamine oxidase를 억제한다.",
+        "sourcePages": [
+          13,
+          14
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Phenelzine의 용도로 제시한 것은?",
+        "choices": [
+          "파킨슨병의 도파민 전구체 보충",
+          "영아연축 치료",
+          "비정형 우울증",
+          "전신마취 유도"
+        ],
+        "answer": 2,
+        "explanation": "비정형 우울증에 사용되는 MAOI로 제시된다. Tyramine 병용에 의한 고혈압 위기와 세로토닌 증후군이 중요하다.",
+        "sourcePages": [
+          13,
+          14
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Phenelzine의 주된 작용기전은 다음과 같다. 비선택적·비가역적으로 monoamine oxidase를 억제한다.",
+      "b": "강의자료에서 Phenelzine의 용도로 제시한 것은 '비정형 우울증'이다.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 옳다. Phenelzine의 정확한 기전: 비선택적·비가역적으로 monoamine oxidase를 억제한다. B는 옳다. 강의자료에서 제시한 용도: 비정형 우울증에 사용되는 MAOI로 제시된다.",
+      "sourcePages": [
+        13,
+        14
+      ]
+    }
+  },
+  {
+    "id": "ch15-moclobemide",
+    "chapter": 15,
+    "name": "Moclobemide",
+    "nameKo": "모클로베미드",
+    "drugClass": "가역적 MAO-A 억제제(RIMA)",
+    "moa": "MAO-A를 가역적으로 억제한다.",
+    "uses": "우울증 치료용 RIMA로 제시된다.",
+    "caution": "비가역적 MAOI보다 tyramine 반응 위험이 낮다는 기전 비교가 제시된다.",
+    "source": {
+      "fileId": "source-3",
+      "pages": [
+        13
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "비가역적 MAOI와 달리 MAO-A를 가역적으로 억제하는 RIMA이다. 해당하는 약물은?",
+        "choices": [
+          "Phenelzine",
+          "Selegiline",
+          "Bupropion",
+          "Moclobemide"
+        ],
+        "answer": 3,
+        "explanation": "Moclobemide의 핵심 기전은 MAO-A를 가역적으로 억제한다. 강의자료의 용도는 우울증 치료용 RIMA로 제시된다.",
+        "sourcePages": [
+          13
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Moclobemide의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "말초 COMT를 억제한다.",
+          "중추 GABA-T를 비가역적으로 억제한다.",
+          "MAO-A를 가역적으로 억제한다.",
+          "MAO-A와 MAO-B를 비가역적으로 모두 억제한다."
+        ],
+        "answer": 2,
+        "explanation": "Moclobemide은(는) 가역적 MAO-A 억제제(RIMA)로 분류된다. MAO-A를 가역적으로 억제한다.",
+        "sourcePages": [
+          13
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Moclobemide의 용도로 제시한 것은?",
+        "choices": [
+          "알츠하이머병의 아세틸콜린 분해 억제",
+          "우울증 치료",
+          "파킨슨병 도파민 전구체 보충",
+          "오피오이드 유발 변비의 말초 길항"
+        ],
+        "answer": 1,
+        "explanation": "우울증 치료용 RIMA로 제시된다. 비가역적 MAOI보다 tyramine 반응 위험이 낮다는 기전 비교가 제시된다.",
+        "sourcePages": [
+          13
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Moclobemide의 주된 작용기전은 다음과 같다. MAO-A를 가역적으로 억제한다.",
+      "b": "강의자료에서 Moclobemide의 용도로 제시한 것은 '알츠하이머병의 아세틸콜린 분해 억제'이다.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 옳다. Moclobemide의 정확한 기전: MAO-A를 가역적으로 억제한다. B는 틀리다. 강의자료에서 제시한 용도: 우울증 치료용 RIMA로 제시된다.",
+      "sourcePages": [
+        13
+      ]
+    }
+  },
+  {
+    "id": "ch15-esketamine",
+    "chapter": 15,
+    "name": "Esketamine",
+    "nameKo": "에스케타민",
+    "drugClass": "NMDA 수용체 길항 항우울제",
+    "moa": "NMDA 수용체 차단이 glutamate–AMPA–BDNF 경로의 빠른 활성화와 연결된다.",
+    "uses": "치료저항성 우울증에 사용되는 약물로 제시된다.",
+    "caution": "전통적인 재흡수 억제 항우울제의 지연성 변화와 구분한다.",
+    "source": {
+      "fileId": "source-3",
+      "pages": [
+        9,
+        14
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "NMDA 차단과 빠른 BDNF 증가 경로로 설명되며 치료저항성 우울증에 제시되는 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Moclobemide",
+          "Zuranolone",
+          "Esketamine",
+          "Fluoxetine"
+        ],
+        "answer": 2,
+        "explanation": "Esketamine의 핵심 기전은 NMDA 수용체 차단이 glutamate–AMPA–BDNF 경로의 빠른 활성화와 연결된다. 강의자료의 용도는 치료저항성 우울증에 사용되는 약물로 제시된다.",
+        "sourcePages": [
+          9,
+          14
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Esketamine의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "GABA-A 수용체를 조절하는 신경스테로이드이다.",
+          "NMDA 수용체 차단이 glutamate–AMPA–BDNF 경로의 빠른 활성화와 연결된다.",
+          "SERT를 선택적으로 억제한다.",
+          "α2 수용체를 차단해 모노아민 방출을 늘린다."
+        ],
+        "answer": 1,
+        "explanation": "Esketamine은(는) NMDA 수용체 길항 항우울제로 분류된다. NMDA 수용체 차단이 glutamate–AMPA–BDNF 경로의 빠른 활성화와 연결된다.",
+        "sourcePages": [
+          9,
+          14
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Esketamine의 용도로 제시한 것은?",
+        "choices": [
+          "치료저항성 우울증",
+          "소발작의 선택적 억제",
+          "파킨슨병의 도파민 전구체 보충",
+          "오피오이드 호흡억제의 신속 역전"
+        ],
+        "answer": 0,
+        "explanation": "치료저항성 우울증에 사용되는 약물로 제시된다. 전통적인 재흡수 억제 항우울제의 지연성 변화와 구분한다.",
+        "sourcePages": [
+          9,
+          14
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Esketamine의 주된 작용기전은 다음과 같다. GABA-A 수용체를 조절하는 신경스테로이드이다.",
+      "b": "강의자료에서 Esketamine의 용도로 제시한 것은 '치료저항성 우울증'이다.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀리다. Esketamine의 정확한 기전: NMDA 수용체 차단이 glutamate–AMPA–BDNF 경로의 빠른 활성화와 연결된다. B는 옳다. 강의자료에서 제시한 용도: 치료저항성 우울증에 사용되는 약물로 제시된다.",
+      "sourcePages": [
+        9,
+        14
+      ]
+    }
+  },
+  {
+    "id": "ch15-zuranolone",
+    "chapter": 15,
+    "name": "Zuranolone",
+    "nameKo": "주라놀론",
+    "drugClass": "GABA-A 조절 신경스테로이드",
+    "moa": "GABA-A 수용체의 양성 알로스테릭 조절제로 억제성 신호를 강화한다.",
+    "uses": "경구용 산후우울증 치료약으로 제시된다.",
+    "caution": "같은 단원의 brexanolone은 정맥용으로 구분된다.",
+    "source": {
+      "fileId": "source-3",
+      "pages": [
+        14
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "산후우울증에 사용하는 경구 신경스테로이드이며 GABA-A 수용체의 양성 알로스테릭 조절제이다. 해당하는 약물은?",
+        "choices": [
+          "Esketamine",
+          "Zuranolone",
+          "Brexanolone",
+          "Fluoxetine"
+        ],
+        "answer": 1,
+        "explanation": "Zuranolone의 핵심 기전은 GABA-A 수용체의 양성 알로스테릭 조절제로 억제성 신호를 강화한다. 강의자료의 용도는 경구용 산후우울증 치료약으로 제시된다.",
+        "sourcePages": [
+          14
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Zuranolone의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "GABA-A 수용체의 양성 알로스테릭 조절제로 억제성 신호를 강화한다.",
+          "SERT만 선택적으로 억제한다.",
+          "MAO-A를 가역적으로 억제한다.",
+          "말초 μ 수용체를 차단한다."
+        ],
+        "answer": 0,
+        "explanation": "Zuranolone은(는) GABA-A 조절 신경스테로이드로 분류된다. GABA-A 수용체의 양성 알로스테릭 조절제로 억제성 신호를 강화한다.",
+        "sourcePages": [
+          14
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Zuranolone의 용도로 제시한 것은?",
+        "choices": [
+          "파킨슨병의 도파민 보충",
+          "오피오이드 유발 변비",
+          "알츠하이머병의 아밀로이드 제거",
+          "산후우울증"
+        ],
+        "answer": 3,
+        "explanation": "경구용 산후우울증 치료약으로 제시된다. 같은 단원의 brexanolone은 정맥용으로 구분된다.",
+        "sourcePages": [
+          14
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Zuranolone의 주된 작용기전은 다음과 같다. SERT만 선택적으로 억제한다.",
+      "b": "강의자료에서 Zuranolone의 용도로 제시한 것은 '파킨슨병의 도파민 보충'이다.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀리다. Zuranolone의 정확한 기전: GABA-A 수용체의 양성 알로스테릭 조절제로 억제성 신호를 강화한다. B는 틀리다. 강의자료에서 제시한 용도: 경구용 산후우울증 치료약으로 제시된다.",
+      "sourcePages": [
+        14
+      ]
+    }
+  },
+  {
+    "id": "ch16-phenytoin",
+    "chapter": 16,
+    "name": "Phenytoin",
+    "nameKo": "페니토인",
+    "drugClass": "Na+ 채널 차단 항경련약",
+    "moa": "불활성 상태의 전압의존성 Na+ 채널에 결합해 고빈도 반복 발화를 억제한다.",
+    "uses": "강직간대발작과 복합국소발작에 사용되는 약물로 정리된다.",
+    "caution": "잇몸증식·다모증과 포화 동력학이 중요하다.",
+    "source": {
+      "fileId": "source-3",
+      "pages": [
+        19,
+        20
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "사용의존성 Na+ 채널 차단제이며 잇몸증식·다모증과 포화 동력학이 특징인 항경련약이다. 해당하는 약물은?",
+        "choices": [
+          "Phenytoin",
+          "Carbamazepine",
+          "Ethosuximide",
+          "Levetiracetam"
+        ],
+        "answer": 0,
+        "explanation": "Phenytoin의 핵심 기전은 불활성 상태의 전압의존성 Na+ 채널에 결합해 고빈도 반복 발화를 억제한다. 강의자료의 용도는 강직간대발작과 복합국소발작에 사용되는 약물로 정리된다.",
+        "sourcePages": [
+          19,
+          20
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Phenytoin의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "시상 T형 Ca2+ 채널만 선택적으로 억제한다.",
+          "SV2A에 결합해 소포 방출을 조절한다.",
+          "GABA 재흡수 운반체 GAT-1을 억제한다.",
+          "불활성 상태의 전압의존성 Na+ 채널에 결합해 고빈도 반복 발화를 억제한다."
+        ],
+        "answer": 3,
+        "explanation": "Phenytoin은(는) Na+ 채널 차단 항경련약로 분류된다. 불활성 상태의 전압의존성 Na+ 채널에 결합해 고빈도 반복 발화를 억제한다.",
+        "sourcePages": [
+          19,
+          20
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Phenytoin의 용도로 제시한 것은?",
+        "choices": [
+          "조현병의 D2 부분 작용 치료",
+          "오피오이드 호흡억제의 신속 역전",
+          "강직간대발작과 복합국소발작",
+          "소발작에 특화된 1차 기전 치료"
+        ],
+        "answer": 2,
+        "explanation": "강직간대발작과 복합국소발작에 사용되는 약물로 정리된다. 잇몸증식·다모증과 포화 동력학이 중요하다.",
+        "sourcePages": [
+          19,
+          20
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Phenytoin의 주된 작용기전은 다음과 같다. 불활성 상태의 전압의존성 Na+ 채널에 결합해 고빈도 반복 발화를 억제한다.",
+      "b": "강의자료에서 Phenytoin의 용도로 제시한 것은 '강직간대발작과 복합국소발작'이다.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 옳다. Phenytoin의 정확한 기전: 불활성 상태의 전압의존성 Na+ 채널에 결합해 고빈도 반복 발화를 억제한다. B는 옳다. 강의자료에서 제시한 용도: 강직간대발작과 복합국소발작에 사용되는 약물로 정리된다.",
+      "sourcePages": [
+        19,
+        20
+      ]
+    }
+  },
+  {
+    "id": "ch16-carbamazepine",
+    "chapter": 16,
+    "name": "Carbamazepine",
+    "nameKo": "카르바마제핀",
+    "drugClass": "Na+ 채널 차단 항경련약",
+    "moa": "불활성 Na+ 채널을 안정화해 사용의존적으로 반복 발화를 억제한다.",
+    "uses": "강직간대발작·복합국소발작 및 삼차신경통에 사용된다.",
+    "caution": "무과립구증, 재생불량성빈혈, SJS/TEN 및 저나트륨혈증이 중요하다.",
+    "source": {
+      "fileId": "source-3",
+      "pages": [
+        20,
+        25
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "사용의존성 Na+ 채널 차단제이며 자료에서 삼차신경통의 1차 약물로 정리된 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Ethosuximide",
+          "Levetiracetam",
+          "Tiagabine",
+          "Carbamazepine"
+        ],
+        "answer": 3,
+        "explanation": "Carbamazepine의 핵심 기전은 불활성 Na+ 채널을 안정화해 사용의존적으로 반복 발화를 억제한다. 강의자료의 용도는 강직간대발작·복합국소발작 및 삼차신경통에 사용된다.",
+        "sourcePages": [
+          20,
+          25
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Carbamazepine의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "T형 Ca2+ 전류만 억제한다.",
+          "GABA-T를 비가역적으로 억제한다.",
+          "불활성 Na+ 채널을 안정화해 사용의존적으로 반복 발화를 억제한다.",
+          "SV2A에 결합해 소포 방출을 조절한다."
+        ],
+        "answer": 2,
+        "explanation": "Carbamazepine은(는) Na+ 채널 차단 항경련약로 분류된다. 불활성 Na+ 채널을 안정화해 사용의존적으로 반복 발화를 억제한다.",
+        "sourcePages": [
+          20,
+          25
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Carbamazepine의 용도로 제시한 것은?",
+        "choices": [
+          "수술 시 신경근 차단 역전",
+          "삼차신경통",
+          "알츠하이머병의 아밀로이드 제거",
+          "오피오이드 유발 변비의 말초 길항"
+        ],
+        "answer": 1,
+        "explanation": "강직간대발작·복합국소발작 및 삼차신경통에 사용된다. 무과립구증, 재생불량성빈혈, SJS/TEN 및 저나트륨혈증이 중요하다.",
+        "sourcePages": [
+          20,
+          25
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Carbamazepine의 주된 작용기전은 다음과 같다. 불활성 Na+ 채널을 안정화해 사용의존적으로 반복 발화를 억제한다.",
+      "b": "강의자료에서 Carbamazepine의 용도로 제시한 것은 '수술 시 신경근 차단 역전'이다.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 옳다. Carbamazepine의 정확한 기전: 불활성 Na+ 채널을 안정화해 사용의존적으로 반복 발화를 억제한다. B는 틀리다. 강의자료에서 제시한 용도: 강직간대발작·복합국소발작 및 삼차신경통에 사용된다.",
+      "sourcePages": [
+        20,
+        25
+      ]
+    }
+  },
+  {
+    "id": "ch16-valproate",
+    "chapter": 16,
+    "name": "Valproic acid / valproate",
+    "nameKo": "발프로산 / 발프로에이트",
+    "drugClass": "다중 기전 광범위 항경련약",
+    "moa": "GABA-T, Na+ 채널 및 T형 Ca2+ 채널을 억제하는 다중 기전으로 정리된다.",
+    "uses": "광범위 발작, 양극성장애의 조증 및 편두통 예방에 사용된다.",
+    "caution": "간독성, 최기형성 및 췌장염이 중요하다.",
+    "source": {
+      "fileId": "source-3",
+      "pages": [
+        21
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "GABA-T·Na+·T형 Ca2+ 채널 억제를 함께 보이며, 조증과 편두통 예방에도 제시되는 항경련약이다. 해당하는 약물은?",
+        "choices": [
+          "Levetiracetam",
+          "Gabapentin",
+          "Valproic acid / valproate",
+          "Ethosuximide"
+        ],
+        "answer": 2,
+        "explanation": "Valproic acid / valproate의 핵심 기전은 GABA-T, Na+ 채널 및 T형 Ca2+ 채널을 억제하는 다중 기전으로 정리된다. 강의자료의 용도는 광범위 발작, 양극성장애의 조증 및 편두통 예방에 사용된다.",
+        "sourcePages": [
+          21
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Valproic acid / valproate의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "도파민 D2 수용체를 부분적으로 활성화한다.",
+          "GABA-T, Na+ 채널 및 T형 Ca2+ 채널을 억제하는 다중 기전으로 정리된다.",
+          "SV2A에만 결합해 소포 방출을 조절한다.",
+          "GAT-1만 선택적으로 억제한다."
+        ],
+        "answer": 1,
+        "explanation": "Valproic acid / valproate은(는) 다중 기전 광범위 항경련약로 분류된다. GABA-T, Na+ 채널 및 T형 Ca2+ 채널을 억제하는 다중 기전으로 정리된다.",
+        "sourcePages": [
+          21
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Valproic acid / valproate의 용도로 제시한 것은?",
+        "choices": [
+          "광범위 발작과 조증; 편두통 예방",
+          "오피오이드 호흡억제 역전",
+          "알츠하이머병의 아세틸콜린 분해 억제",
+          "파킨슨병의 도파민 전구체 보충"
+        ],
+        "answer": 0,
+        "explanation": "광범위 발작, 양극성장애의 조증 및 편두통 예방에 사용된다. 간독성, 최기형성 및 췌장염이 중요하다.",
+        "sourcePages": [
+          21
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Valproic acid / valproate의 주된 작용기전은 다음과 같다. 도파민 D2 수용체를 부분적으로 활성화한다.",
+      "b": "강의자료에서 Valproic acid / valproate의 용도로 제시한 것은 '광범위 발작과 조증; 편두통 예방'이다.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀리다. Valproic acid / valproate의 정확한 기전: GABA-T, Na+ 채널 및 T형 Ca2+ 채널을 억제하는 다중 기전으로 정리된다. B는 옳다. 강의자료에서 제시한 용도: 광범위 발작, 양극성장애의 조증 및 편두통 예방에 사용된다.",
+      "sourcePages": [
+        21
+      ]
+    }
+  },
+  {
+    "id": "ch16-lamotrigine",
+    "chapter": 16,
+    "name": "Lamotrigine",
+    "nameKo": "라모트리진",
+    "drugClass": "Na+·Ca2+ 채널 억제 항경련약",
+    "moa": "Na+ 채널과 Ca2+ 채널을 억제한다.",
+    "uses": "광범위 발작 및 양극성장애의 우울 삽화와 연결된다.",
+    "caution": "Valproate 병용 시 대사가 억제되어 SJS/TEN 위험이 증가할 수 있다.",
+    "source": {
+      "fileId": "source-3",
+      "pages": [
+        21
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "Na+·Ca2+ 채널을 억제하고 양극성 우울에 사용되며, valproate 병용 시 SJS/TEN 위험 증가가 강조되는 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Tiagabine",
+          "Lamotrigine",
+          "Ethosuximide",
+          "Vigabatrin"
+        ],
+        "answer": 1,
+        "explanation": "Lamotrigine의 핵심 기전은 Na+ 채널과 Ca2+ 채널을 억제한다. 강의자료의 용도는 광범위 발작 및 양극성장애의 우울 삽화와 연결된다.",
+        "sourcePages": [
+          21
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Lamotrigine의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "Na+ 채널과 Ca2+ 채널을 억제한다.",
+          "GABA-T를 비가역적으로 억제한다.",
+          "GABA 재흡수 운반체 GAT-1만 억제한다.",
+          "SV2A에만 결합해 소포 방출을 조절한다."
+        ],
+        "answer": 0,
+        "explanation": "Lamotrigine은(는) Na+·Ca2+ 채널 억제 항경련약로 분류된다. Na+ 채널과 Ca2+ 채널을 억제한다.",
+        "sourcePages": [
+          21
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Lamotrigine의 용도로 제시한 것은?",
+        "choices": [
+          "오피오이드 유발 변비 치료",
+          "알츠하이머병의 NMDA 차단",
+          "전신마취 유도",
+          "광범위 발작과 양극성장애의 우울 삽화"
+        ],
+        "answer": 3,
+        "explanation": "광범위 발작 및 양극성장애의 우울 삽화와 연결된다. Valproate 병용 시 대사가 억제되어 SJS/TEN 위험이 증가할 수 있다.",
+        "sourcePages": [
+          21
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Lamotrigine의 주된 작용기전은 다음과 같다. GABA-T를 비가역적으로 억제한다.",
+      "b": "강의자료에서 Lamotrigine의 용도로 제시한 것은 '오피오이드 유발 변비 치료'이다.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀리다. Lamotrigine의 정확한 기전: Na+ 채널과 Ca2+ 채널을 억제한다. B는 틀리다. 강의자료에서 제시한 용도: 광범위 발작 및 양극성장애의 우울 삽화와 연결된다.",
+      "sourcePages": [
+        21
+      ]
+    }
+  },
+  {
+    "id": "ch16-topiramate",
+    "chapter": 16,
+    "name": "Topiramate",
+    "nameKo": "토피라메이트",
+    "drugClass": "다중 기전 항경련약",
+    "moa": "Na+ 채널·AMPA/kainate 수용체·L형 Ca2+ 채널과 탄산탈수효소를 억제하는 기전으로 제시된다.",
+    "uses": "광범위 발작, 비만 및 편두통 예방에 사용된다.",
+    "caution": "지각이상, 발한결핍과 급성 폐쇄각 녹내장이 중요하다.",
+    "source": {
+      "fileId": "source-3",
+      "pages": [
+        21
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "탄산탈수효소 억제를 포함한 다중 기전을 가지며 편두통 예방·비만과 연결되는 항경련약이다. 해당하는 약물은?",
+        "choices": [
+          "Topiramate",
+          "Ethosuximide",
+          "Levetiracetam",
+          "Tiagabine"
+        ],
+        "answer": 0,
+        "explanation": "Topiramate의 핵심 기전은 Na+ 채널·AMPA/kainate 수용체·L형 Ca2+ 채널과 탄산탈수효소를 억제하는 기전으로 제시된다. 강의자료의 용도는 광범위 발작, 비만 및 편두통 예방에 사용된다.",
+        "sourcePages": [
+          21
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Topiramate의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "시냅스 소포의 SV2A에만 결합한다.",
+          "GAT-1만 선택적으로 차단한다.",
+          "도파민 전구체로 작용한다.",
+          "Na+ 채널·AMPA/kainate 수용체·L형 Ca2+ 채널과 탄산탈수효소를 억제하는 기전으로 제시된다."
+        ],
+        "answer": 3,
+        "explanation": "Topiramate은(는) 다중 기전 항경련약로 분류된다. Na+ 채널·AMPA/kainate 수용체·L형 Ca2+ 채널과 탄산탈수효소를 억제하는 기전으로 제시된다.",
+        "sourcePages": [
+          21
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Topiramate의 용도로 제시한 것은?",
+        "choices": [
+          "조현병의 무스카린성 항정신병 치료",
+          "알츠하이머병의 아밀로이드 제거",
+          "발작 조절과 편두통 예방",
+          "오피오이드 호흡억제 역전"
+        ],
+        "answer": 2,
+        "explanation": "광범위 발작, 비만 및 편두통 예방에 사용된다. 지각이상, 발한결핍과 급성 폐쇄각 녹내장이 중요하다.",
+        "sourcePages": [
+          21
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Topiramate의 주된 작용기전은 다음과 같다. Na+ 채널·AMPA/kainate 수용체·L형 Ca2+ 채널과 탄산탈수효소를 억제하는 기전으로 제시된다.",
+      "b": "강의자료에서 Topiramate의 용도로 제시한 것은 '발작 조절과 편두통 예방'이다.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 옳다. Topiramate의 정확한 기전: Na+ 채널·AMPA/kainate 수용체·L형 Ca2+ 채널과 탄산탈수효소를 억제하는 기전으로 제시된다. B는 옳다. 강의자료에서 제시한 용도: 광범위 발작, 비만 및 편두통 예방에 사용된다.",
+      "sourcePages": [
+        21
+      ]
+    }
+  },
+  {
+    "id": "ch16-levetiracetam",
+    "chapter": 16,
+    "name": "Levetiracetam",
+    "nameKo": "레베티라세탐",
+    "drugClass": "SV2A 결합 항경련약",
+    "moa": "시냅스 소포 단백질 SV2A에 결합해 신경전달물질 방출을 조절한다.",
+    "uses": "광범위 발작 및 간질중첩상태에 사용되는 약물로 제시된다.",
+    "caution": "우울·환각 등 정신행동 부작용이 자료에 제시된다.",
+    "source": {
+      "fileId": "source-3",
+      "pages": [
+        19,
+        22,
+        25
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "시냅스 소포 단백질 SV2A에 결합하는 독특한 기전의 항경련약이다. 해당하는 약물은?",
+        "choices": [
+          "Phenytoin",
+          "Ethosuximide",
+          "Vigabatrin",
+          "Levetiracetam"
+        ],
+        "answer": 3,
+        "explanation": "Levetiracetam의 핵심 기전은 시냅스 소포 단백질 SV2A에 결합해 신경전달물질 방출을 조절한다. 강의자료의 용도는 광범위 발작 및 간질중첩상태에 사용되는 약물로 제시된다.",
+        "sourcePages": [
+          19,
+          22,
+          25
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Levetiracetam의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "T형 Ca2+ 채널만 선택적으로 차단한다.",
+          "불활성 Na+ 채널만 안정화한다.",
+          "시냅스 소포 단백질 SV2A에 결합해 신경전달물질 방출을 조절한다.",
+          "GABA-T를 비가역적으로 억제한다."
+        ],
+        "answer": 2,
+        "explanation": "Levetiracetam은(는) SV2A 결합 항경련약로 분류된다. 시냅스 소포 단백질 SV2A에 결합해 신경전달물질 방출을 조절한다.",
+        "sourcePages": [
+          19,
+          22,
+          25
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Levetiracetam의 용도로 제시한 것은?",
+        "choices": [
+          "알츠하이머병의 아밀로이드 제거",
+          "광범위 발작과 간질중첩상태",
+          "오피오이드 호흡억제 역전",
+          "파킨슨병의 도파민 보충"
+        ],
+        "answer": 1,
+        "explanation": "광범위 발작 및 간질중첩상태에 사용되는 약물로 제시된다. 우울·환각 등 정신행동 부작용이 자료에 제시된다.",
+        "sourcePages": [
+          19,
+          22,
+          25
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Levetiracetam의 주된 작용기전은 다음과 같다. 시냅스 소포 단백질 SV2A에 결합해 신경전달물질 방출을 조절한다.",
+      "b": "강의자료에서 Levetiracetam의 용도로 제시한 것은 '알츠하이머병의 아밀로이드 제거'이다.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 옳다. Levetiracetam의 정확한 기전: 시냅스 소포 단백질 SV2A에 결합해 신경전달물질 방출을 조절한다. B는 틀리다. 강의자료에서 제시한 용도: 광범위 발작 및 간질중첩상태에 사용되는 약물로 제시된다.",
+      "sourcePages": [
+        19,
+        22,
+        25
+      ]
+    }
+  },
+  {
+    "id": "ch16-ethosuximide",
+    "chapter": 16,
+    "name": "Ethosuximide",
+    "nameKo": "에토숙시미드",
+    "drugClass": "T형 Ca2+ 채널 차단 항경련약",
+    "moa": "시상 회로의 T형 Ca2+ 전류를 억제한다.",
+    "uses": "소발작(absence seizure)에 특화된 약물로 제시된다.",
+    "caution": "진정이 부작용으로 제시된다.",
+    "source": {
+      "fileId": "source-3",
+      "pages": [
+        19,
+        22
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "시상의 T형 Ca2+ 전류를 억제해 소발작에 특화되어 사용하는 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Carbamazepine",
+          "Tiagabine",
+          "Ethosuximide",
+          "Phenytoin"
+        ],
+        "answer": 2,
+        "explanation": "Ethosuximide의 핵심 기전은 시상 회로의 T형 Ca2+ 전류를 억제한다. 강의자료의 용도는 소발작(absence seizure)에 특화된 약물로 제시된다.",
+        "sourcePages": [
+          19,
+          22
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Ethosuximide의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "GABA 재흡수 운반체 GAT-1을 억제한다.",
+          "시상 회로의 T형 Ca2+ 전류를 억제한다.",
+          "SV2A에 결합한다.",
+          "불활성 Na+ 채널만 안정화한다."
+        ],
+        "answer": 1,
+        "explanation": "Ethosuximide은(는) T형 Ca2+ 채널 차단 항경련약로 분류된다. 시상 회로의 T형 Ca2+ 전류를 억제한다.",
+        "sourcePages": [
+          19,
+          22
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Ethosuximide의 용도로 제시한 것은?",
+        "choices": [
+          "소발작(absence seizure)",
+          "파킨슨병 운동증상 개선",
+          "오피오이드 호흡억제 역전",
+          "알츠하이머병의 아밀로이드 제거"
+        ],
+        "answer": 0,
+        "explanation": "소발작(absence seizure)에 특화된 약물로 제시된다. 진정이 부작용으로 제시된다.",
+        "sourcePages": [
+          19,
+          22
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Ethosuximide의 주된 작용기전은 다음과 같다. GABA 재흡수 운반체 GAT-1을 억제한다.",
+      "b": "강의자료에서 Ethosuximide의 용도로 제시한 것은 '소발작(absence seizure)'이다.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀리다. Ethosuximide의 정확한 기전: 시상 회로의 T형 Ca2+ 전류를 억제한다. B는 옳다. 강의자료에서 제시한 용도: 소발작(absence seizure)에 특화된 약물로 제시된다.",
+      "sourcePages": [
+        19,
+        22
+      ]
+    }
+  },
+  {
+    "id": "ch16-gabapentin",
+    "chapter": 16,
+    "name": "Gabapentin",
+    "nameKo": "가바펜틴",
+    "drugClass": "Ca2+ 채널 α2δ 리간드",
+    "moa": "시냅스전 Ca2+ 채널의 α2δ 소단위에 결합해 흥분성 전달물질 방출을 줄인다.",
+    "uses": "국소발작 보조요법과 대상포진후 신경통에 사용된다.",
+    "caution": "GABA 유사 구조이지만 GABA 수용체에 직접 작용하지 않는다.",
+    "source": {
+      "fileId": "source-3",
+      "pages": [
+        19,
+        23
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "GABA와 구조가 비슷하지만 GABA 수용체에 직접 작용하지 않고 Ca2+ 채널 α2δ에 결합하는 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Ethosuximide",
+          "Gabapentin",
+          "Vigabatrin",
+          "Tiagabine"
+        ],
+        "answer": 1,
+        "explanation": "Gabapentin의 핵심 기전은 시냅스전 Ca2+ 채널의 α2δ 소단위에 결합해 흥분성 전달물질 방출을 줄인다. 강의자료의 용도는 국소발작 보조요법과 대상포진후 신경통에 사용된다.",
+        "sourcePages": [
+          19,
+          23
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Gabapentin의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "시냅스전 Ca2+ 채널의 α2δ 소단위에 결합해 흥분성 전달물질 방출을 줄인다.",
+          "GABA-A 수용체를 직접 활성화한다.",
+          "GABA-T를 비가역적으로 억제한다.",
+          "GAT-1을 선택적으로 차단한다."
+        ],
+        "answer": 0,
+        "explanation": "Gabapentin은(는) Ca2+ 채널 α2δ 리간드로 분류된다. 시냅스전 Ca2+ 채널의 α2δ 소단위에 결합해 흥분성 전달물질 방출을 줄인다.",
+        "sourcePages": [
+          19,
+          23
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Gabapentin의 용도로 제시한 것은?",
+        "choices": [
+          "소발작에 특화된 단독 치료",
+          "오피오이드 호흡억제의 신속 역전",
+          "조현병의 D2 부분 작용 치료",
+          "국소발작 보조요법과 대상포진후 신경통"
+        ],
+        "answer": 3,
+        "explanation": "국소발작 보조요법과 대상포진후 신경통에 사용된다. GABA 유사 구조이지만 GABA 수용체에 직접 작용하지 않는다.",
+        "sourcePages": [
+          19,
+          23
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Gabapentin의 주된 작용기전은 다음과 같다. GABA-A 수용체를 직접 활성화한다.",
+      "b": "강의자료에서 Gabapentin의 용도로 제시한 것은 '소발작에 특화된 단독 치료'이다.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀리다. Gabapentin의 정확한 기전: 시냅스전 Ca2+ 채널의 α2δ 소단위에 결합해 흥분성 전달물질 방출을 줄인다. B는 틀리다. 강의자료에서 제시한 용도: 국소발작 보조요법과 대상포진후 신경통에 사용된다.",
+      "sourcePages": [
+        19,
+        23
+      ]
+    }
+  },
+  {
+    "id": "ch16-tiagabine",
+    "chapter": 16,
+    "name": "Tiagabine",
+    "nameKo": "티아가빈",
+    "drugClass": "GABA 재흡수 억제 항경련약",
+    "moa": "GABA 재흡수 운반체 GAT-1을 억제한다.",
+    "uses": "국소발작의 보조요법으로 제시된다.",
+    "caution": "체중증가와 진전이 부작용으로 제시된다.",
+    "source": {
+      "fileId": "source-3",
+      "pages": [
+        19,
+        23
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "GABA를 분해하는 효소가 아니라 재흡수 운반체 GAT-1을 억제하는 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Tiagabine",
+          "Vigabatrin",
+          "Gabapentin",
+          "Levetiracetam"
+        ],
+        "answer": 0,
+        "explanation": "Tiagabine의 핵심 기전은 GABA 재흡수 운반체 GAT-1을 억제한다. 강의자료의 용도는 국소발작의 보조요법으로 제시된다.",
+        "sourcePages": [
+          19,
+          23
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Tiagabine의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "GABA-T를 비가역적으로 억제한다.",
+          "Ca2+ 채널 α2δ 소단위에 결합한다.",
+          "SV2A에 결합한다.",
+          "GABA 재흡수 운반체 GAT-1을 억제한다."
+        ],
+        "answer": 3,
+        "explanation": "Tiagabine은(는) GABA 재흡수 억제 항경련약로 분류된다. GABA 재흡수 운반체 GAT-1을 억제한다.",
+        "sourcePages": [
+          19,
+          23
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Tiagabine의 용도로 제시한 것은?",
+        "choices": [
+          "파킨슨병 도파민 전구체 보충",
+          "오피오이드 유발 변비 치료",
+          "국소발작 보조요법",
+          "알츠하이머병의 아밀로이드 제거"
+        ],
+        "answer": 2,
+        "explanation": "국소발작의 보조요법으로 제시된다. 체중증가와 진전이 부작용으로 제시된다.",
+        "sourcePages": [
+          19,
+          23
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Tiagabine의 주된 작용기전은 다음과 같다. GABA 재흡수 운반체 GAT-1을 억제한다.",
+      "b": "강의자료에서 Tiagabine의 용도로 제시한 것은 '국소발작 보조요법'이다.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 옳다. Tiagabine의 정확한 기전: GABA 재흡수 운반체 GAT-1을 억제한다. B는 옳다. 강의자료에서 제시한 용도: 국소발작의 보조요법으로 제시된다.",
+      "sourcePages": [
+        19,
+        23
+      ]
+    }
+  },
+  {
+    "id": "ch16-vigabatrin",
+    "chapter": 16,
+    "name": "Vigabatrin",
+    "nameKo": "비가바트린",
+    "drugClass": "GABA-T 억제 항경련약",
+    "moa": "GABA 분해효소 GABA-T를 비가역적으로 억제해 뇌의 GABA를 늘린다.",
+    "uses": "복합국소발작 보조요법과 영아연축에 사용된다.",
+    "caution": "망막 독성과 영구적 시야결손 위험이 중요하다.",
+    "source": {
+      "fileId": "source-3",
+      "pages": [
+        19,
+        23
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "GABA-T를 비가역적으로 억제하고 영아연축에 사용되며 시야결손이 중요한 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Tiagabine",
+          "Gabapentin",
+          "Ethosuximide",
+          "Vigabatrin"
+        ],
+        "answer": 3,
+        "explanation": "Vigabatrin의 핵심 기전은 GABA 분해효소 GABA-T를 비가역적으로 억제해 뇌의 GABA를 늘린다. 강의자료의 용도는 복합국소발작 보조요법과 영아연축에 사용된다.",
+        "sourcePages": [
+          19,
+          23
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Vigabatrin의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "SV2A에 결합한다.",
+          "T형 Ca2+ 채널만 차단한다.",
+          "GABA 분해효소 GABA-T를 비가역적으로 억제해 뇌의 GABA를 늘린다.",
+          "GAT-1을 선택적으로 억제한다."
+        ],
+        "answer": 2,
+        "explanation": "Vigabatrin은(는) GABA-T 억제 항경련약로 분류된다. GABA 분해효소 GABA-T를 비가역적으로 억제해 뇌의 GABA를 늘린다.",
+        "sourcePages": [
+          19,
+          23
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Vigabatrin의 용도로 제시한 것은?",
+        "choices": [
+          "파킨슨병 도파민 보충",
+          "영아연축 및 복합국소발작 보조요법",
+          "오피오이드 호흡억제 역전",
+          "알츠하이머병의 아밀로이드 제거"
+        ],
+        "answer": 1,
+        "explanation": "복합국소발작 보조요법과 영아연축에 사용된다. 망막 독성과 영구적 시야결손 위험이 중요하다.",
+        "sourcePages": [
+          19,
+          23
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Vigabatrin의 주된 작용기전은 다음과 같다. GABA 분해효소 GABA-T를 비가역적으로 억제해 뇌의 GABA를 늘린다.",
+      "b": "강의자료에서 Vigabatrin의 용도로 제시한 것은 '파킨슨병 도파민 보충'이다.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 옳다. Vigabatrin의 정확한 기전: GABA 분해효소 GABA-T를 비가역적으로 억제해 뇌의 GABA를 늘린다. B는 틀리다. 강의자료에서 제시한 용도: 복합국소발작 보조요법과 영아연축에 사용된다.",
+      "sourcePages": [
+        19,
+        23
+      ]
+    }
+  },
+  {
+    "id": "ch17-propofol",
+    "chapter": 17,
+    "name": "Propofol",
+    "nameKo": "프로포폴",
+    "drugClass": "GABA-A 작용 정맥마취제",
+    "moa": "GABA-A 수용체의 억제성 신호를 강화한다.",
+    "uses": "시술·ICU 진정 및 빠른 회복이 필요한 통원마취에 사용된다.",
+    "caution": "혈압 저하와 호흡억제가 중요하며 진통작용은 없다.",
+    "source": {
+      "fileId": "source-4",
+      "pages": [
+        3,
+        5
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "GABA-A 작용 정맥마취제이며, 빠른 회복과 항구토 특성 때문에 통원마취와 연결되는 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Dexmedetomidine",
+          "Nitrous oxide (N2O)",
+          "Propofol",
+          "Ketamine"
+        ],
+        "answer": 2,
+        "explanation": "Propofol의 핵심 기전은 GABA-A 수용체의 억제성 신호를 강화한다. 강의자료의 용도는 시술·ICU 진정 및 빠른 회복이 필요한 통원마취에 사용된다.",
+        "sourcePages": [
+          3,
+          5
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Propofol의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "말초 DOPA 탈탄산효소를 억제한다.",
+          "GABA-A 수용체의 억제성 신호를 강화한다.",
+          "NMDA 수용체를 차단한다.",
+          "α2 수용체를 선택적으로 자극한다."
+        ],
+        "answer": 1,
+        "explanation": "Propofol은(는) GABA-A 작용 정맥마취제로 분류된다. GABA-A 수용체의 억제성 신호를 강화한다.",
+        "sourcePages": [
+          3,
+          5
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Propofol의 용도로 제시한 것은?",
+        "choices": [
+          "시술·ICU 진정 및 통원마취",
+          "파킨슨병의 도파민 보충",
+          "알츠하이머병의 아밀로이드 제거",
+          "소발작의 T형 칼슘채널 억제"
+        ],
+        "answer": 0,
+        "explanation": "시술·ICU 진정 및 빠른 회복이 필요한 통원마취에 사용된다. 혈압 저하와 호흡억제가 중요하며 진통작용은 없다.",
+        "sourcePages": [
+          3,
+          5
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Propofol의 주된 작용기전은 다음과 같다. 말초 DOPA 탈탄산효소를 억제한다.",
+      "b": "강의자료에서 Propofol의 용도로 제시한 것은 '시술·ICU 진정 및 통원마취'이다.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀리다. Propofol의 정확한 기전: GABA-A 수용체의 억제성 신호를 강화한다. B는 옳다. 강의자료에서 제시한 용도: 시술·ICU 진정 및 빠른 회복이 필요한 통원마취에 사용된다.",
+      "sourcePages": [
+        3,
+        5
+      ]
+    }
+  },
+  {
+    "id": "ch17-etomidate",
+    "chapter": 17,
+    "name": "Etomidate",
+    "nameKo": "에토미데이트",
+    "drugClass": "GABA-A 작용 정맥마취제",
+    "moa": "GABA-A 수용체의 억제성 신호를 강화한다.",
+    "uses": "마취 유도와 시술 진정에 사용되는 약물로 제시된다.",
+    "caution": "부신의 11β-hydroxylase 억제에 따른 부신억제가 특징이다.",
+    "source": {
+      "fileId": "source-4",
+      "pages": [
+        3,
+        5
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "GABA-A 작용 정맥마취제로, 11β-hydroxylase 억제에 따른 부신억제가 중요한 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Dexmedetomidine",
+          "Etomidate",
+          "Propofol",
+          "Ketamine"
+        ],
+        "answer": 1,
+        "explanation": "Etomidate의 핵심 기전은 GABA-A 수용체의 억제성 신호를 강화한다. 강의자료의 용도는 마취 유도와 시술 진정에 사용되는 약물로 제시된다.",
+        "sourcePages": [
+          3,
+          5
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Etomidate의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "GABA-A 수용체의 억제성 신호를 강화한다.",
+          "NMDA 수용체를 차단한다.",
+          "α2 수용체를 선택적으로 자극한다.",
+          "아세틸콜린에스터레이스를 억제한다."
+        ],
+        "answer": 0,
+        "explanation": "Etomidate은(는) GABA-A 작용 정맥마취제로 분류된다. GABA-A 수용체의 억제성 신호를 강화한다.",
+        "sourcePages": [
+          3,
+          5
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Etomidate의 용도로 제시한 것은?",
+        "choices": [
+          "조현병의 D2 부분 작용 치료",
+          "알츠하이머병의 아밀로이드 제거",
+          "오피오이드 유발 변비의 말초 길항",
+          "마취 유도와 시술 진정"
+        ],
+        "answer": 3,
+        "explanation": "마취 유도와 시술 진정에 사용되는 약물로 제시된다. 부신의 11β-hydroxylase 억제에 따른 부신억제가 특징이다.",
+        "sourcePages": [
+          3,
+          5
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Etomidate의 주된 작용기전은 다음과 같다. NMDA 수용체를 차단한다.",
+      "b": "강의자료에서 Etomidate의 용도로 제시한 것은 '조현병의 D2 부분 작용 치료'이다.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀리다. Etomidate의 정확한 기전: GABA-A 수용체의 억제성 신호를 강화한다. B는 틀리다. 강의자료에서 제시한 용도: 마취 유도와 시술 진정에 사용되는 약물로 제시된다.",
+      "sourcePages": [
+        3,
+        5
+      ]
+    }
+  },
+  {
+    "id": "ch17-ketamine",
+    "chapter": 17,
+    "name": "Ketamine",
+    "nameKo": "케타민",
+    "drugClass": "NMDA 길항 해리성 마취제",
+    "moa": "NMDA 수용체를 차단해 해리성 마취와 진통을 일으킨다.",
+    "uses": "해리성 마취와 응급실 진통에 사용되는 약물로 제시된다.",
+    "caution": "각성 시 환각·악몽과 교감신경 자극이 중요하다.",
+    "source": {
+      "fileId": "source-4",
+      "pages": [
+        3,
+        6
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "NMDA를 차단해 해리성 마취를 일으키며 교감신경 자극으로 혈압·심박이 증가할 수 있는 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Ketamine",
+          "Propofol",
+          "Etomidate",
+          "Thiopental"
+        ],
+        "answer": 0,
+        "explanation": "Ketamine의 핵심 기전은 NMDA 수용체를 차단해 해리성 마취와 진통을 일으킨다. 강의자료의 용도는 해리성 마취와 응급실 진통에 사용되는 약물로 제시된다.",
+        "sourcePages": [
+          3,
+          6
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Ketamine의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "GABA-A 수용체 신호를 강화하는 것이 주된 마취 기전이다.",
+          "말초 DOPA 탈탄산효소를 억제한다.",
+          "세로토닌 재흡수 운반체만 선택적으로 억제한다.",
+          "NMDA 수용체를 차단해 해리성 마취와 진통을 일으킨다."
+        ],
+        "answer": 3,
+        "explanation": "Ketamine은(는) NMDA 길항 해리성 마취제로 분류된다. NMDA 수용체를 차단해 해리성 마취와 진통을 일으킨다.",
+        "sourcePages": [
+          3,
+          6
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Ketamine의 용도로 제시한 것은?",
+        "choices": [
+          "알츠하이머병의 아밀로이드 제거",
+          "파킨슨병의 도파민 전구체 보충",
+          "해리성 마취와 진통",
+          "오피오이드 과량 호흡억제의 길항"
+        ],
+        "answer": 2,
+        "explanation": "해리성 마취와 응급실 진통에 사용되는 약물로 제시된다. 각성 시 환각·악몽과 교감신경 자극이 중요하다.",
+        "sourcePages": [
+          3,
+          6
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Ketamine의 주된 작용기전은 다음과 같다. NMDA 수용체를 차단해 해리성 마취와 진통을 일으킨다.",
+      "b": "강의자료에서 Ketamine의 용도로 제시한 것은 '해리성 마취와 진통'이다.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 옳다. Ketamine의 정확한 기전: NMDA 수용체를 차단해 해리성 마취와 진통을 일으킨다. B는 옳다. 강의자료에서 제시한 용도: 해리성 마취와 응급실 진통에 사용되는 약물로 제시된다.",
+      "sourcePages": [
+        3,
+        6
+      ]
+    }
+  },
+  {
+    "id": "ch17-dexmedetomidine",
+    "chapter": 17,
+    "name": "Dexmedetomidine",
+    "nameKo": "덱스메데토미딘",
+    "drugClass": "α2 수용체 작용 진정제",
+    "moa": "청반의 α2 수용체를 자극해 진정과 진통을 유도한다.",
+    "uses": "ICU 진정과 시술 진정에 사용된다.",
+    "caution": "자료에서는 호흡억제가 적고 깨울 수 있는 진정이 특징이라고 설명한다.",
+    "source": {
+      "fileId": "source-4",
+      "pages": [
+        3,
+        6
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "청반의 α2 수용체를 자극해 자연 수면과 유사한 깨울 수 있는 진정을 만드는 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Ketamine",
+          "Propofol",
+          "Etomidate",
+          "Dexmedetomidine"
+        ],
+        "answer": 3,
+        "explanation": "Dexmedetomidine의 핵심 기전은 청반의 α2 수용체를 자극해 진정과 진통을 유도한다. 강의자료의 용도는 ICU 진정과 시술 진정에 사용된다.",
+        "sourcePages": [
+          3,
+          6
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Dexmedetomidine의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "GABA-A 신호를 강화하는 신경스테로이드이다.",
+          "시냅스 소포 SV2A에 결합한다.",
+          "청반의 α2 수용체를 자극해 진정과 진통을 유도한다.",
+          "NMDA 수용체를 차단한다."
+        ],
+        "answer": 2,
+        "explanation": "Dexmedetomidine은(는) α2 수용체 작용 진정제로 분류된다. 청반의 α2 수용체를 자극해 진정과 진통을 유도한다.",
+        "sourcePages": [
+          3,
+          6
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Dexmedetomidine의 용도로 제시한 것은?",
+        "choices": [
+          "오피오이드 유발 변비의 말초 길항",
+          "ICU 진정과 시술 진정",
+          "소발작의 선택적 억제",
+          "조현병의 D2 부분 작용 치료"
+        ],
+        "answer": 1,
+        "explanation": "ICU 진정과 시술 진정에 사용된다. 자료에서는 호흡억제가 적고 깨울 수 있는 진정이 특징이라고 설명한다.",
+        "sourcePages": [
+          3,
+          6
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Dexmedetomidine의 주된 작용기전은 다음과 같다. 청반의 α2 수용체를 자극해 진정과 진통을 유도한다.",
+      "b": "강의자료에서 Dexmedetomidine의 용도로 제시한 것은 '오피오이드 유발 변비의 말초 길항'이다.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 옳다. Dexmedetomidine의 정확한 기전: 청반의 α2 수용체를 자극해 진정과 진통을 유도한다. B는 틀리다. 강의자료에서 제시한 용도: ICU 진정과 시술 진정에 사용된다.",
+      "sourcePages": [
+        3,
+        6
+      ]
+    }
+  },
+  {
+    "id": "ch17-thiopental",
+    "chapter": 17,
+    "name": "Thiopental",
+    "nameKo": "티오펜탈",
+    "drugClass": "GABA-A 작용 정맥마취제",
+    "moa": "GABA-A 수용체의 억제성 신호를 강화한다.",
+    "uses": "빠른 정맥마취 유도에 사용되는 약물로 정리된다.",
+    "caution": "Porphyria를 악화시킬 수 있으며 알칼리성 용액의 약물 침전도 언급된다.",
+    "source": {
+      "fileId": "source-4",
+      "pages": [
+        3,
+        6
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "GABA-A 작용 정맥마취제로, 포르피린증 악화와 알칼리성 용액의 침전이 강조되는 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Ketamine",
+          "Dexmedetomidine",
+          "Thiopental",
+          "Propofol"
+        ],
+        "answer": 2,
+        "explanation": "Thiopental의 핵심 기전은 GABA-A 수용체의 억제성 신호를 강화한다. 강의자료의 용도는 빠른 정맥마취 유도에 사용되는 약물로 정리된다.",
+        "sourcePages": [
+          3,
+          6
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Thiopental의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "말초 μ 수용체를 차단한다.",
+          "GABA-A 수용체의 억제성 신호를 강화한다.",
+          "NMDA 수용체를 차단한다.",
+          "α2 수용체를 선택적으로 자극한다."
+        ],
+        "answer": 1,
+        "explanation": "Thiopental은(는) GABA-A 작용 정맥마취제로 분류된다. GABA-A 수용체의 억제성 신호를 강화한다.",
+        "sourcePages": [
+          3,
+          6
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Thiopental의 용도로 제시한 것은?",
+        "choices": [
+          "정맥마취 유도",
+          "파킨슨병의 도파민 보충",
+          "알츠하이머병의 아밀로이드 제거",
+          "오피오이드 유발 변비 치료"
+        ],
+        "answer": 0,
+        "explanation": "빠른 정맥마취 유도에 사용되는 약물로 정리된다. Porphyria를 악화시킬 수 있으며 알칼리성 용액의 약물 침전도 언급된다.",
+        "sourcePages": [
+          3,
+          6
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Thiopental의 주된 작용기전은 다음과 같다. 말초 μ 수용체를 차단한다.",
+      "b": "강의자료에서 Thiopental의 용도로 제시한 것은 '정맥마취 유도'이다.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀리다. Thiopental의 정확한 기전: GABA-A 수용체의 억제성 신호를 강화한다. B는 옳다. 강의자료에서 제시한 용도: 빠른 정맥마취 유도에 사용되는 약물로 정리된다.",
+      "sourcePages": [
+        3,
+        6
+      ]
+    }
+  },
+  {
+    "id": "ch17-nitrous-oxide",
+    "chapter": 17,
+    "name": "Nitrous oxide (N2O)",
+    "nameKo": "아산화질소",
+    "drugClass": "NMDA 길항 기체 마취제",
+    "moa": "NMDA 수용체를 길항한다.",
+    "uses": "진통 효과를 제공하며 다른 마취제와 병용하는 기체 마취제로 제시된다.",
+    "caution": "비타민 B12 이용 장애와 관련된 골수장애·말초신경증이 중요하다.",
+    "source": {
+      "fileId": "source-4",
+      "pages": [
+        3,
+        5,
+        6,
+        7
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "MAC가 100%를 넘는 기체 마취제로, 진통은 있으나 단독 완전마취는 어려우며 비타민 B12 장애가 중요한 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Dexmedetomidine",
+          "Nitrous oxide (N2O)",
+          "Sevoflurane",
+          "Propofol"
+        ],
+        "answer": 1,
+        "explanation": "Nitrous oxide (N2O)의 핵심 기전은 NMDA 수용체를 길항한다. 강의자료의 용도는 진통 효과를 제공하며 다른 마취제와 병용하는 기체 마취제로 제시된다.",
+        "sourcePages": [
+          3,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Nitrous oxide (N2O)의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "NMDA 수용체를 길항한다.",
+          "α2 수용체를 선택적으로 자극한다.",
+          "말초 DOPA 탈탄산효소를 억제한다.",
+          "아세틸콜린에스터레이스를 억제한다."
+        ],
+        "answer": 0,
+        "explanation": "Nitrous oxide (N2O)은(는) NMDA 길항 기체 마취제로 분류된다. NMDA 수용체를 길항한다.",
+        "sourcePages": [
+          3,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Nitrous oxide (N2O)의 용도로 제시한 것은?",
+        "choices": [
+          "조현병의 항정신병 치료",
+          "알츠하이머병의 아밀로이드 제거",
+          "오피오이드 호흡억제의 신속 역전",
+          "다른 마취제와 병용하는 흡입마취·진통"
+        ],
+        "answer": 3,
+        "explanation": "진통 효과를 제공하며 다른 마취제와 병용하는 기체 마취제로 제시된다. 비타민 B12 이용 장애와 관련된 골수장애·말초신경증이 중요하다.",
+        "sourcePages": [
+          3,
+          5,
+          6,
+          7
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Nitrous oxide (N2O)의 주된 작용기전은 다음과 같다. α2 수용체를 선택적으로 자극한다.",
+      "b": "강의자료에서 Nitrous oxide (N2O)의 용도로 제시한 것은 '조현병의 항정신병 치료'이다.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀리다. Nitrous oxide (N2O)의 정확한 기전: NMDA 수용체를 길항한다. B는 틀리다. 강의자료에서 제시한 용도: 진통 효과를 제공하며 다른 마취제와 병용하는 기체 마취제로 제시된다.",
+      "sourcePages": [
+        3,
+        5,
+        6,
+        7
+      ]
+    }
+  },
+  {
+    "id": "ch18-levodopa",
+    "chapter": 18,
+    "name": "Levodopa",
+    "nameKo": "레보도파",
+    "drugClass": "도파민 전구체",
+    "moa": "BBB를 통과한 뒤 뇌에서 탈탄산되어 도파민으로 전환된다.",
+    "uses": "파킨슨병의 도파민 부족을 보완해 운동증상을 개선한다.",
+    "caution": "이상운동, on-off 현상, 오심과 기립성 저혈압이 중요하다.",
+    "source": {
+      "fileId": "source-4",
+      "pages": [
+        10,
+        11
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "도파민 자체는 BBB를 통과하기 어려우므로, 아미노산 운반체로 뇌에 들어가 도파민으로 전환되도록 투여하는 전구체이다. 해당하는 약물은?",
+        "choices": [
+          "Levodopa",
+          "Carbidopa",
+          "Entacapone",
+          "Selegiline"
+        ],
+        "answer": 0,
+        "explanation": "Levodopa의 핵심 기전은 BBB를 통과한 뒤 뇌에서 탈탄산되어 도파민으로 전환된다. 강의자료의 용도는 파킨슨병의 도파민 부족을 보완해 운동증상을 개선한다.",
+        "sourcePages": [
+          10,
+          11
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Levodopa의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "말초 DOPA 탈탄산효소를 억제한다.",
+          "말초 COMT를 억제한다.",
+          "MAO-B를 억제해 도파민 분해를 줄인다.",
+          "BBB를 통과한 뒤 뇌에서 탈탄산되어 도파민으로 전환된다."
+        ],
+        "answer": 3,
+        "explanation": "Levodopa은(는) 도파민 전구체로 분류된다. BBB를 통과한 뒤 뇌에서 탈탄산되어 도파민으로 전환된다.",
+        "sourcePages": [
+          10,
+          11
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Levodopa의 용도로 제시한 것은?",
+        "choices": [
+          "알츠하이머병의 아밀로이드 제거",
+          "산후우울증의 신경스테로이드 치료",
+          "파킨슨병의 운동증상 개선",
+          "오피오이드 과량 호흡억제 역전"
+        ],
+        "answer": 2,
+        "explanation": "파킨슨병의 도파민 부족을 보완해 운동증상을 개선한다. 이상운동, on-off 현상, 오심과 기립성 저혈압이 중요하다.",
+        "sourcePages": [
+          10,
+          11
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Levodopa의 주된 작용기전은 다음과 같다. BBB를 통과한 뒤 뇌에서 탈탄산되어 도파민으로 전환된다.",
+      "b": "강의자료에서 Levodopa의 용도로 제시한 것은 '파킨슨병의 운동증상 개선'이다.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 옳다. Levodopa의 정확한 기전: BBB를 통과한 뒤 뇌에서 탈탄산되어 도파민으로 전환된다. B는 옳다. 강의자료에서 제시한 용도: 파킨슨병의 도파민 부족을 보완해 운동증상을 개선한다.",
+      "sourcePages": [
+        10,
+        11
+      ]
+    }
+  },
+  {
+    "id": "ch18-carbidopa",
+    "chapter": 18,
+    "name": "Carbidopa",
+    "nameKo": "카르비도파",
+    "drugClass": "말초 DOPA 탈탄산효소 억제제",
+    "moa": "BBB를 통과하지 않고 말초의 DOPA 탈탄산효소를 억제한다.",
+    "uses": "Levodopa와 병용해 뇌로 도달하는 levodopa를 늘리고 말초 도파민 부작용을 줄인다.",
+    "caution": "Levodopa와의 복합제 Sinemet으로 제시된다.",
+    "source": {
+      "fileId": "source-4",
+      "pages": [
+        10,
+        11
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "BBB를 거의 통과하지 않으며 말초에서 levodopa의 도파민 전환을 막는 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Entacapone",
+          "Selegiline",
+          "Amantadine",
+          "Carbidopa"
+        ],
+        "answer": 3,
+        "explanation": "Carbidopa의 핵심 기전은 BBB를 통과하지 않고 말초의 DOPA 탈탄산효소를 억제한다. 강의자료의 용도는 Levodopa와 병용해 뇌로 도달하는 levodopa를 늘리고 말초 도파민 부작용을 줄인다.",
+        "sourcePages": [
+          10,
+          11
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Carbidopa의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "MAO-B를 억제한다.",
+          "NMDA 수용체를 길항해 이상운동을 완화한다.",
+          "BBB를 통과하지 않고 말초의 DOPA 탈탄산효소를 억제한다.",
+          "중추·말초 COMT를 모두 억제한다."
+        ],
+        "answer": 2,
+        "explanation": "Carbidopa은(는) 말초 DOPA 탈탄산효소 억제제로 분류된다. BBB를 통과하지 않고 말초의 DOPA 탈탄산효소를 억제한다.",
+        "sourcePages": [
+          10,
+          11
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Carbidopa의 용도로 제시한 것은?",
+        "choices": [
+          "소발작의 T형 칼슘채널 억제",
+          "Levodopa와 병용하는 파킨슨병 치료",
+          "조현병의 D2 차단 치료",
+          "오피오이드 유발 변비의 말초 길항"
+        ],
+        "answer": 1,
+        "explanation": "Levodopa와 병용해 뇌로 도달하는 levodopa를 늘리고 말초 도파민 부작용을 줄인다. Levodopa와의 복합제 Sinemet으로 제시된다.",
+        "sourcePages": [
+          10,
+          11
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Carbidopa의 주된 작용기전은 다음과 같다. BBB를 통과하지 않고 말초의 DOPA 탈탄산효소를 억제한다.",
+      "b": "강의자료에서 Carbidopa의 용도로 제시한 것은 '소발작의 T형 칼슘채널 억제'이다.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 옳다. Carbidopa의 정확한 기전: BBB를 통과하지 않고 말초의 DOPA 탈탄산효소를 억제한다. B는 틀리다. 강의자료에서 제시한 용도: Levodopa와 병용해 뇌로 도달하는 levodopa를 늘리고 말초 도파민 부작용을 줄인다.",
+      "sourcePages": [
+        10,
+        11
+      ]
+    }
+  },
+  {
+    "id": "ch18-entacapone",
+    "chapter": 18,
+    "name": "Entacapone",
+    "nameKo": "엔타카폰",
+    "drugClass": "말초 COMT 억제제",
+    "moa": "말초 COMT를 억제해 levodopa의 3-OMD 대사를 줄인다.",
+    "uses": "Levodopa·carbidopa와 병용해 levodopa의 작용시간을 연장하는 파킨슨병 보조약이다.",
+    "caution": "Tolcapone과 달리 자료에서는 말초 COMT에 작용하는 약물로 구분된다.",
+    "source": {
+      "fileId": "source-4",
+      "pages": [
+        10,
+        11,
+        12
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "COMT 억제제 중 말초에 작용하며 levodopa·carbidopa와의 복합제 Stalevo에 포함되는 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Carbidopa",
+          "Selegiline",
+          "Entacapone",
+          "Tolcapone"
+        ],
+        "answer": 2,
+        "explanation": "Entacapone의 핵심 기전은 말초 COMT를 억제해 levodopa의 3-OMD 대사를 줄인다. 강의자료의 용도는 Levodopa·carbidopa와 병용해 levodopa의 작용시간을 연장하는 파킨슨병 보조약이다.",
+        "sourcePages": [
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Entacapone의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "도파민 D2 수용체를 차단한다.",
+          "말초 COMT를 억제해 levodopa의 3-OMD 대사를 줄인다.",
+          "DOPA 탈탄산효소를 억제한다.",
+          "MAO-B를 억제한다."
+        ],
+        "answer": 1,
+        "explanation": "Entacapone은(는) 말초 COMT 억제제로 분류된다. 말초 COMT를 억제해 levodopa의 3-OMD 대사를 줄인다.",
+        "sourcePages": [
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Entacapone의 용도로 제시한 것은?",
+        "choices": [
+          "Levodopa 치료의 작용시간 연장 보조",
+          "조현병 양성증상 억제",
+          "오피오이드 유발 변비 치료",
+          "산후우울증 치료"
+        ],
+        "answer": 0,
+        "explanation": "Levodopa·carbidopa와 병용해 levodopa의 작용시간을 연장하는 파킨슨병 보조약이다. Tolcapone과 달리 자료에서는 말초 COMT에 작용하는 약물로 구분된다.",
+        "sourcePages": [
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Entacapone의 주된 작용기전은 다음과 같다. 도파민 D2 수용체를 차단한다.",
+      "b": "강의자료에서 Entacapone의 용도로 제시한 것은 'Levodopa 치료의 작용시간 연장 보조'이다.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀리다. Entacapone의 정확한 기전: 말초 COMT를 억제해 levodopa의 3-OMD 대사를 줄인다. B는 옳다. 강의자료에서 제시한 용도: Levodopa·carbidopa와 병용해 levodopa의 작용시간을 연장하는 파킨슨병 보조약이다.",
+      "sourcePages": [
+        10,
+        11,
+        12
+      ]
+    }
+  },
+  {
+    "id": "ch18-selegiline",
+    "chapter": 18,
+    "name": "Selegiline",
+    "nameKo": "셀레길린",
+    "drugClass": "MAO-B 억제제",
+    "moa": "MAO-B를 억제해 뇌의 도파민 분해를 줄인다.",
+    "uses": "파킨슨병 치료약으로 제시된다.",
+    "caution": "불면이 부작용으로 언급된다.",
+    "source": {
+      "fileId": "source-4",
+      "pages": [
+        10,
+        11
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "파킨슨병에서 도파민 분해를 줄이는 -giline 계열 MAO-B 억제제이다. 해당하는 약물은?",
+        "choices": [
+          "Amantadine",
+          "Selegiline",
+          "Entacapone",
+          "Carbidopa"
+        ],
+        "answer": 1,
+        "explanation": "Selegiline의 핵심 기전은 MAO-B를 억제해 뇌의 도파민 분해를 줄인다. 강의자료의 용도는 파킨슨병 치료약으로 제시된다.",
+        "sourcePages": [
+          10,
+          11
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Selegiline의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "MAO-B를 억제해 뇌의 도파민 분해를 줄인다.",
+          "말초 COMT를 억제한다.",
+          "말초 DOPA 탈탄산효소를 억제한다.",
+          "아세틸콜린에스터레이스를 억제한다."
+        ],
+        "answer": 0,
+        "explanation": "Selegiline은(는) MAO-B 억제제로 분류된다. MAO-B를 억제해 뇌의 도파민 분해를 줄인다.",
+        "sourcePages": [
+          10,
+          11
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Selegiline의 용도로 제시한 것은?",
+        "choices": [
+          "오피오이드 호흡억제의 신속 역전",
+          "산후우울증의 경구 신경스테로이드 치료",
+          "국소발작의 GAT-1 억제",
+          "파킨슨병 치료"
+        ],
+        "answer": 3,
+        "explanation": "파킨슨병 치료약으로 제시된다. 불면이 부작용으로 언급된다.",
+        "sourcePages": [
+          10,
+          11
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Selegiline의 주된 작용기전은 다음과 같다. 말초 COMT를 억제한다.",
+      "b": "강의자료에서 Selegiline의 용도로 제시한 것은 '오피오이드 호흡억제의 신속 역전'이다.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀리다. Selegiline의 정확한 기전: MAO-B를 억제해 뇌의 도파민 분해를 줄인다. B는 틀리다. 강의자료에서 제시한 용도: 파킨슨병 치료약으로 제시된다.",
+      "sourcePages": [
+        10,
+        11
+      ]
+    }
+  },
+  {
+    "id": "ch18-amantadine",
+    "chapter": 18,
+    "name": "Amantadine",
+    "nameKo": "아만타딘",
+    "drugClass": "도파민 유리 촉진·NMDA 길항 약물",
+    "moa": "도파민 방출을 촉진하고 재흡수를 억제하며 NMDA 수용체를 길항한다.",
+    "uses": "파킨슨병 치료 및 levodopa 유발 이상운동 완화에 사용된다.",
+    "caution": "불면과 QT 연장이 자료에 제시된다.",
+    "source": {
+      "fileId": "source-4",
+      "pages": [
+        11,
+        12
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "도파민 유리 촉진과 NMDA 길항을 함께 보이며 levodopa 유발 이상운동을 완화하는 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Amantadine",
+          "Carbidopa",
+          "Entacapone",
+          "Donepezil"
+        ],
+        "answer": 0,
+        "explanation": "Amantadine의 핵심 기전은 도파민 방출을 촉진하고 재흡수를 억제하며 NMDA 수용체를 길항한다. 강의자료의 용도는 파킨슨병 치료 및 levodopa 유발 이상운동 완화에 사용된다.",
+        "sourcePages": [
+          11,
+          12
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Amantadine의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "말초 DOPA 탈탄산효소만 억제한다.",
+          "말초 COMT만 억제한다.",
+          "아세틸콜린에스터레이스만 억제한다.",
+          "도파민 방출을 촉진하고 재흡수를 억제하며 NMDA 수용체를 길항한다."
+        ],
+        "answer": 3,
+        "explanation": "Amantadine은(는) 도파민 유리 촉진·NMDA 길항 약물로 분류된다. 도파민 방출을 촉진하고 재흡수를 억제하며 NMDA 수용체를 길항한다.",
+        "sourcePages": [
+          11,
+          12
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Amantadine의 용도로 제시한 것은?",
+        "choices": [
+          "소발작의 선택적 억제",
+          "산후우울증의 신경스테로이드 치료",
+          "파킨슨병과 levodopa 유발 이상운동",
+          "오피오이드 유발 변비 치료"
+        ],
+        "answer": 2,
+        "explanation": "파킨슨병 치료 및 levodopa 유발 이상운동 완화에 사용된다. 불면과 QT 연장이 자료에 제시된다.",
+        "sourcePages": [
+          11,
+          12
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Amantadine의 주된 작용기전은 다음과 같다. 도파민 방출을 촉진하고 재흡수를 억제하며 NMDA 수용체를 길항한다.",
+      "b": "강의자료에서 Amantadine의 용도로 제시한 것은 '파킨슨병과 levodopa 유발 이상운동'이다.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 옳다. Amantadine의 정확한 기전: 도파민 방출을 촉진하고 재흡수를 억제하며 NMDA 수용체를 길항한다. B는 옳다. 강의자료에서 제시한 용도: 파킨슨병 치료 및 levodopa 유발 이상운동 완화에 사용된다.",
+      "sourcePages": [
+        11,
+        12
+      ]
+    }
+  },
+  {
+    "id": "ch18-deutetrabenazine",
+    "chapter": 18,
+    "name": "Deutetrabenazine",
+    "nameKo": "듀테트라베나진",
+    "drugClass": "VMAT2 억제제",
+    "moa": "VMAT2를 억제해 도파민의 소포 저장·방출을 줄인다.",
+    "uses": "헌팅턴병의 무도증과 지연성 운동이상증(TD)에 사용된다.",
+    "caution": "Tetrabenazine의 수소를 중수소로 치환해 대사를 늦춘 약물로 설명된다.",
+    "source": {
+      "fileId": "source-4",
+      "pages": [
+        12
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "VMAT2를 억제하며 tetrabenazine의 수소를 중수소로 바꿔 대사를 늦춘 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Tetrabenazine",
+          "Levodopa",
+          "Amantadine",
+          "Deutetrabenazine"
+        ],
+        "answer": 3,
+        "explanation": "Deutetrabenazine의 핵심 기전은 VMAT2를 억제해 도파민의 소포 저장·방출을 줄인다. 강의자료의 용도는 헌팅턴병의 무도증과 지연성 운동이상증(TD)에 사용된다.",
+        "sourcePages": [
+          12
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Deutetrabenazine의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "도파민 방출을 촉진하고 NMDA를 길항한다.",
+          "아세틸콜린에스터레이스를 억제한다.",
+          "VMAT2를 억제해 도파민의 소포 저장·방출을 줄인다.",
+          "뇌에서 도파민으로 전환된다."
+        ],
+        "answer": 2,
+        "explanation": "Deutetrabenazine은(는) VMAT2 억제제로 분류된다. VMAT2를 억제해 도파민의 소포 저장·방출을 줄인다.",
+        "sourcePages": [
+          12
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Deutetrabenazine의 용도로 제시한 것은?",
+        "choices": [
+          "오피오이드 유발 변비 치료",
+          "헌팅턴병 무도증과 지연성 운동이상증",
+          "파킨슨병의 도파민 보충",
+          "알츠하이머병의 아밀로이드 제거"
+        ],
+        "answer": 1,
+        "explanation": "헌팅턴병의 무도증과 지연성 운동이상증(TD)에 사용된다. Tetrabenazine의 수소를 중수소로 치환해 대사를 늦춘 약물로 설명된다.",
+        "sourcePages": [
+          12
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Deutetrabenazine의 주된 작용기전은 다음과 같다. VMAT2를 억제해 도파민의 소포 저장·방출을 줄인다.",
+      "b": "강의자료에서 Deutetrabenazine의 용도로 제시한 것은 '오피오이드 유발 변비 치료'이다.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 옳다. Deutetrabenazine의 정확한 기전: VMAT2를 억제해 도파민의 소포 저장·방출을 줄인다. B는 틀리다. 강의자료에서 제시한 용도: 헌팅턴병의 무도증과 지연성 운동이상증(TD)에 사용된다.",
+      "sourcePages": [
+        12
+      ]
+    }
+  },
+  {
+    "id": "ch18-donepezil",
+    "chapter": 18,
+    "name": "Donepezil",
+    "nameKo": "도네페질",
+    "drugClass": "아세틸콜린에스터레이스 억제제(AChEI)",
+    "moa": "아세틸콜린에스터레이스를 억제해 남아 있는 콜린성 신호를 강화한다.",
+    "uses": "알츠하이머병의 인지증상 개선에 사용된다.",
+    "caution": "오심·서맥 등 콜린성 부작용과 QT 연장이 언급된다.",
+    "source": {
+      "fileId": "source-4",
+      "pages": [
+        14,
+        15
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "알츠하이머병의 콜린성 신호를 강화하는 AChEI이며 memantine과의 복합제 Namzaric에 포함되는 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Lecanemab",
+          "Levodopa",
+          "Donepezil",
+          "Memantine"
+        ],
+        "answer": 2,
+        "explanation": "Donepezil의 핵심 기전은 아세틸콜린에스터레이스를 억제해 남아 있는 콜린성 신호를 강화한다. 강의자료의 용도는 알츠하이머병의 인지증상 개선에 사용된다.",
+        "sourcePages": [
+          14,
+          15
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Donepezil의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "말초 DOPA 탈탄산효소를 억제한다.",
+          "아세틸콜린에스터레이스를 억제해 남아 있는 콜린성 신호를 강화한다.",
+          "NMDA 수용체의 개방 채널을 차단한다.",
+          "아밀로이드 원섬유를 표적으로 하는 항체로 작용한다."
+        ],
+        "answer": 1,
+        "explanation": "Donepezil은(는) 아세틸콜린에스터레이스 억제제(AChEI)로 분류된다. 아세틸콜린에스터레이스를 억제해 남아 있는 콜린성 신호를 강화한다.",
+        "sourcePages": [
+          14,
+          15
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Donepezil의 용도로 제시한 것은?",
+        "choices": [
+          "알츠하이머병의 인지증상 개선",
+          "파킨슨병의 도파민 전구체 보충",
+          "소발작의 T형 칼슘채널 억제",
+          "오피오이드 호흡억제의 신속 역전"
+        ],
+        "answer": 0,
+        "explanation": "알츠하이머병의 인지증상 개선에 사용된다. 오심·서맥 등 콜린성 부작용과 QT 연장이 언급된다.",
+        "sourcePages": [
+          14,
+          15
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Donepezil의 주된 작용기전은 다음과 같다. 말초 DOPA 탈탄산효소를 억제한다.",
+      "b": "강의자료에서 Donepezil의 용도로 제시한 것은 '알츠하이머병의 인지증상 개선'이다.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀리다. Donepezil의 정확한 기전: 아세틸콜린에스터레이스를 억제해 남아 있는 콜린성 신호를 강화한다. B는 옳다. 강의자료에서 제시한 용도: 알츠하이머병의 인지증상 개선에 사용된다.",
+      "sourcePages": [
+        14,
+        15
+      ]
+    }
+  },
+  {
+    "id": "ch18-memantine",
+    "chapter": 18,
+    "name": "Memantine",
+    "nameKo": "메만틴",
+    "drugClass": "NMDA 수용체 길항제",
+    "moa": "저친화성 NMDA 개방채널 차단제로 병적인 지속 활성과 흥분독성을 줄인다.",
+    "uses": "중등도~중증 알츠하이머병에 사용된다.",
+    "caution": "어지러움, 환각, 두통이 부작용으로 제시된다.",
+    "source": {
+      "fileId": "source-4",
+      "pages": [
+        14,
+        15
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "저친화성 NMDA 개방채널 차단제로 중등도~중증 알츠하이머병에 사용되는 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Carbidopa",
+          "Memantine",
+          "Donepezil",
+          "Lecanemab"
+        ],
+        "answer": 1,
+        "explanation": "Memantine의 핵심 기전은 저친화성 NMDA 개방채널 차단제로 병적인 지속 활성과 흥분독성을 줄인다. 강의자료의 용도는 중등도~중증 알츠하이머병에 사용된다.",
+        "sourcePages": [
+          14,
+          15
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Memantine의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "저친화성 NMDA 개방채널 차단제로 병적인 지속 활성과 흥분독성을 줄인다.",
+          "아세틸콜린에스터레이스를 억제한다.",
+          "아밀로이드 원섬유를 표적으로 하는 항체이다.",
+          "말초 DOPA 탈탄산효소를 억제한다."
+        ],
+        "answer": 0,
+        "explanation": "Memantine은(는) NMDA 수용체 길항제로 분류된다. 저친화성 NMDA 개방채널 차단제로 병적인 지속 활성과 흥분독성을 줄인다.",
+        "sourcePages": [
+          14,
+          15
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Memantine의 용도로 제시한 것은?",
+        "choices": [
+          "소발작의 선택적 억제",
+          "파킨슨병의 도파민 전구체 보충",
+          "오피오이드 과량 호흡억제 역전",
+          "중등도~중증 알츠하이머병"
+        ],
+        "answer": 3,
+        "explanation": "중등도~중증 알츠하이머병에 사용된다. 어지러움, 환각, 두통이 부작용으로 제시된다.",
+        "sourcePages": [
+          14,
+          15
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Memantine의 주된 작용기전은 다음과 같다. 아세틸콜린에스터레이스를 억제한다.",
+      "b": "강의자료에서 Memantine의 용도로 제시한 것은 '소발작의 선택적 억제'이다.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀리다. Memantine의 정확한 기전: 저친화성 NMDA 개방채널 차단제로 병적인 지속 활성과 흥분독성을 줄인다. B는 틀리다. 강의자료에서 제시한 용도: 중등도~중증 알츠하이머병에 사용된다.",
+      "sourcePages": [
+        14,
+        15
+      ]
+    }
+  },
+  {
+    "id": "ch18-lecanemab",
+    "chapter": 18,
+    "name": "Lecanemab",
+    "nameKo": "레카네맙",
+    "drugClass": "항아밀로이드 단클론항체",
+    "moa": "아밀로이드 원섬유를 표적으로 하여 아밀로이드 제거를 돕는다.",
+    "uses": "초기 알츠하이머병의 진행을 늦추는 항아밀로이드 항체로 제시된다.",
+    "caution": "ARIA로 불리는 뇌부종·미세출혈이 중요한 부작용이다.",
+    "source": {
+      "fileId": "source-4",
+      "pages": [
+        14,
+        15
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "아밀로이드 원섬유를 표적으로 하는 단클론항체로, ARIA가 중요한 부작용이다. 해당하는 약물은?",
+        "choices": [
+          "Lecanemab",
+          "Donanemab",
+          "Donepezil",
+          "Memantine"
+        ],
+        "answer": 0,
+        "explanation": "Lecanemab의 핵심 기전은 아밀로이드 원섬유를 표적으로 하여 아밀로이드 제거를 돕는다. 강의자료의 용도는 초기 알츠하이머병의 진행을 늦추는 항아밀로이드 항체로 제시된다.",
+        "sourcePages": [
+          14,
+          15
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Lecanemab의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "아세틸콜린에스터레이스를 억제한다.",
+          "NMDA 수용체의 개방 채널을 차단한다.",
+          "림프구의 α4 integrin을 차단한다.",
+          "아밀로이드 원섬유를 표적으로 하여 아밀로이드 제거를 돕는다."
+        ],
+        "answer": 3,
+        "explanation": "Lecanemab은(는) 항아밀로이드 단클론항체로 분류된다. 아밀로이드 원섬유를 표적으로 하여 아밀로이드 제거를 돕는다.",
+        "sourcePages": [
+          14,
+          15
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Lecanemab의 용도로 제시한 것은?",
+        "choices": [
+          "오피오이드 유발 변비 치료",
+          "소발작의 T형 칼슘채널 억제",
+          "초기 알츠하이머병의 진행 지연",
+          "파킨슨병의 도파민 보충"
+        ],
+        "answer": 2,
+        "explanation": "초기 알츠하이머병의 진행을 늦추는 항아밀로이드 항체로 제시된다. ARIA로 불리는 뇌부종·미세출혈이 중요한 부작용이다.",
+        "sourcePages": [
+          14,
+          15
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Lecanemab의 주된 작용기전은 다음과 같다. 아밀로이드 원섬유를 표적으로 하여 아밀로이드 제거를 돕는다.",
+      "b": "강의자료에서 Lecanemab의 용도로 제시한 것은 '초기 알츠하이머병의 진행 지연'이다.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 옳다. Lecanemab의 정확한 기전: 아밀로이드 원섬유를 표적으로 하여 아밀로이드 제거를 돕는다. B는 옳다. 강의자료에서 제시한 용도: 초기 알츠하이머병의 진행을 늦추는 항아밀로이드 항체로 제시된다.",
+      "sourcePages": [
+        14,
+        15
+      ]
+    }
+  },
+  {
+    "id": "ch18-fingolimod",
+    "chapter": 18,
+    "name": "Fingolimod",
+    "nameKo": "핑골리모드",
+    "drugClass": "S1P 수용체 조절제",
+    "moa": "S1P1 수용체의 내재화·분해를 유도하는 기능적 길항으로 림프구를 림프절에 머물게 한다.",
+    "uses": "다발성경화증에서 림프구의 중추신경계 침윤을 줄이는 약물로 제시된다.",
+    "caution": "첫 투여 시 서맥이 주의점으로 제시된다.",
+    "source": {
+      "fileId": "source-4",
+      "pages": [
+        16
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "S1P1 수용체를 내재화시켜 림프구가 림프절에서 나오지 못하게 하는 MS 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Natalizumab",
+          "Glatiramer acetate",
+          "Riluzole",
+          "Fingolimod"
+        ],
+        "answer": 3,
+        "explanation": "Fingolimod의 핵심 기전은 S1P1 수용체의 내재화·분해를 유도하는 기능적 길항으로 림프구를 림프절에 머물게 한다. 강의자료의 용도는 다발성경화증에서 림프구의 중추신경계 침윤을 줄이는 약물로 제시된다.",
+        "sourcePages": [
+          16
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Fingolimod의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "수초기본단백질(MBP) 유사체로 면역반응을 조절한다.",
+          "아세틸콜린에스터레이스를 억제한다.",
+          "S1P1 수용체의 내재화·분해를 유도하는 기능적 길항으로 림프구를 림프절에 머물게 한다.",
+          "α4 integrin을 직접 차단한다."
+        ],
+        "answer": 2,
+        "explanation": "Fingolimod은(는) S1P 수용체 조절제로 분류된다. S1P1 수용체의 내재화·분해를 유도하는 기능적 길항으로 림프구를 림프절에 머물게 한다.",
+        "sourcePages": [
+          16
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Fingolimod의 용도로 제시한 것은?",
+        "choices": [
+          "오피오이드 호흡억제 역전",
+          "다발성경화증",
+          "알츠하이머병의 아밀로이드 제거",
+          "파킨슨병의 도파민 보충"
+        ],
+        "answer": 1,
+        "explanation": "다발성경화증에서 림프구의 중추신경계 침윤을 줄이는 약물로 제시된다. 첫 투여 시 서맥이 주의점으로 제시된다.",
+        "sourcePages": [
+          16
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Fingolimod의 주된 작용기전은 다음과 같다. S1P1 수용체의 내재화·분해를 유도하는 기능적 길항으로 림프구를 림프절에 머물게 한다.",
+      "b": "강의자료에서 Fingolimod의 용도로 제시한 것은 '오피오이드 호흡억제 역전'이다.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 옳다. Fingolimod의 정확한 기전: S1P1 수용체의 내재화·분해를 유도하는 기능적 길항으로 림프구를 림프절에 머물게 한다. B는 틀리다. 강의자료에서 제시한 용도: 다발성경화증에서 림프구의 중추신경계 침윤을 줄이는 약물로 제시된다.",
+      "sourcePages": [
+        16
+      ]
+    }
+  },
+  {
+    "id": "ch18-natalizumab",
+    "chapter": 18,
+    "name": "Natalizumab",
+    "nameKo": "나탈리주맙",
+    "drugClass": "항α4-integrin 단클론항체",
+    "moa": "림프구의 α4 integrin을 차단해 혈관 내피 부착과 중추신경계 이동을 줄인다.",
+    "uses": "재발-완화형 다발성경화증(RRMS)에 사용된다.",
+    "caution": "JC 바이러스 재활성화에 의한 PML이 중요한 위험이다.",
+    "source": {
+      "fileId": "source-4",
+      "pages": [
+        16
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "림프구의 α4 integrin을 차단해 CNS 이동을 줄이며 PML 위험이 강조되는 항체이다. 해당하는 약물은?",
+        "choices": [
+          "Lecanemab",
+          "Donepezil",
+          "Natalizumab",
+          "Fingolimod"
+        ],
+        "answer": 2,
+        "explanation": "Natalizumab의 핵심 기전은 림프구의 α4 integrin을 차단해 혈관 내피 부착과 중추신경계 이동을 줄인다. 강의자료의 용도는 재발-완화형 다발성경화증(RRMS)에 사용된다.",
+        "sourcePages": [
+          16
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Natalizumab의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "GABA 재흡수를 억제한다.",
+          "림프구의 α4 integrin을 차단해 혈관 내피 부착과 중추신경계 이동을 줄인다.",
+          "S1P1 수용체의 내재화를 유도한다.",
+          "아밀로이드 원섬유를 표적으로 한다."
+        ],
+        "answer": 1,
+        "explanation": "Natalizumab은(는) 항α4-integrin 단클론항체로 분류된다. 림프구의 α4 integrin을 차단해 혈관 내피 부착과 중추신경계 이동을 줄인다.",
+        "sourcePages": [
+          16
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Natalizumab의 용도로 제시한 것은?",
+        "choices": [
+          "재발-완화형 다발성경화증",
+          "파킨슨병의 도파민 보충",
+          "오피오이드 유발 변비 치료",
+          "산후우울증 치료"
+        ],
+        "answer": 0,
+        "explanation": "재발-완화형 다발성경화증(RRMS)에 사용된다. JC 바이러스 재활성화에 의한 PML이 중요한 위험이다.",
+        "sourcePages": [
+          16
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Natalizumab의 주된 작용기전은 다음과 같다. GABA 재흡수를 억제한다.",
+      "b": "강의자료에서 Natalizumab의 용도로 제시한 것은 '재발-완화형 다발성경화증'이다.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀리다. Natalizumab의 정확한 기전: 림프구의 α4 integrin을 차단해 혈관 내피 부착과 중추신경계 이동을 줄인다. B는 옳다. 강의자료에서 제시한 용도: 재발-완화형 다발성경화증(RRMS)에 사용된다.",
+      "sourcePages": [
+        16
+      ]
+    }
+  },
+  {
+    "id": "ch18-riluzole",
+    "chapter": 18,
+    "name": "Riluzole",
+    "nameKo": "릴루졸",
+    "drugClass": "Glutamate 전달 억제 ALS 약물",
+    "moa": "Na+ 채널 억제를 통해 glutamate 전달과 흥분독성을 줄인다.",
+    "uses": "근위축성 측삭경화증(ALS)에 사용된다.",
+    "caution": "자료에서는 신경보호 효과와 제한적인 생존기간 연장으로 설명된다.",
+    "source": {
+      "fileId": "source-4",
+      "pages": [
+        17
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "Na+ 채널 억제와 glutamate 전달 감소로 설명되는 ALS 치료약이다. 해당하는 약물은?",
+        "choices": [
+          "Fingolimod",
+          "Riluzole",
+          "Edaravone",
+          "Tofersen"
+        ],
+        "answer": 1,
+        "explanation": "Riluzole의 핵심 기전은 Na+ 채널 억제를 통해 glutamate 전달과 흥분독성을 줄인다. 강의자료의 용도는 근위축성 측삭경화증(ALS)에 사용된다.",
+        "sourcePages": [
+          17
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Riluzole의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "Na+ 채널 억제를 통해 glutamate 전달과 흥분독성을 줄인다.",
+          "자유라디칼을 소거한다.",
+          "SOD1 mRNA에 결합하는 안티센스 올리고뉴클레오티드이다.",
+          "S1P1 수용체를 내재화한다."
+        ],
+        "answer": 0,
+        "explanation": "Riluzole은(는) Glutamate 전달 억제 ALS 약물로 분류된다. Na+ 채널 억제를 통해 glutamate 전달과 흥분독성을 줄인다.",
+        "sourcePages": [
+          17
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Riluzole의 용도로 제시한 것은?",
+        "choices": [
+          "파킨슨병의 도파민 보충",
+          "오피오이드 호흡억제 역전",
+          "소발작의 T형 칼슘채널 억제",
+          "근위축성 측삭경화증(ALS)"
+        ],
+        "answer": 3,
+        "explanation": "근위축성 측삭경화증(ALS)에 사용된다. 자료에서는 신경보호 효과와 제한적인 생존기간 연장으로 설명된다.",
+        "sourcePages": [
+          17
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Riluzole의 주된 작용기전은 다음과 같다. 자유라디칼을 소거한다.",
+      "b": "강의자료에서 Riluzole의 용도로 제시한 것은 '파킨슨병의 도파민 보충'이다.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀리다. Riluzole의 정확한 기전: Na+ 채널 억제를 통해 glutamate 전달과 흥분독성을 줄인다. B는 틀리다. 강의자료에서 제시한 용도: 근위축성 측삭경화증(ALS)에 사용된다.",
+      "sourcePages": [
+        17
+      ]
+    }
+  },
+  {
+    "id": "ch18-tofersen",
+    "chapter": 18,
+    "name": "Tofersen",
+    "nameKo": "토퍼센",
+    "drugClass": "SOD1 표적 안티센스 올리고뉴클레오티드",
+    "moa": "SOD1 mRNA에 결합해 RNase H에 의한 분해를 유도하고 SOD1 단백질 생성을 줄인다.",
+    "uses": "SOD1 유전자 변이와 관련된 ALS에 사용된다.",
+    "caution": "SOD1 변이와 관련된 표적 치료라는 점을 다른 ALS 약물과 구분한다.",
+    "source": {
+      "fileId": "source-4",
+      "pages": [
+        17
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "SOD1 mRNA를 표적으로 하는 안티센스 올리고뉴클레오티드(ASO)인 ALS 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Tofersen",
+          "Riluzole",
+          "Edaravone",
+          "Natalizumab"
+        ],
+        "answer": 0,
+        "explanation": "Tofersen의 핵심 기전은 SOD1 mRNA에 결합해 RNase H에 의한 분해를 유도하고 SOD1 단백질 생성을 줄인다. 강의자료의 용도는 SOD1 유전자 변이와 관련된 ALS에 사용된다.",
+        "sourcePages": [
+          17
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Tofersen의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "자유라디칼을 소거한다.",
+          "림프구 α4 integrin을 차단한다.",
+          "GABA 재흡수 운반체 GAT-1을 억제한다.",
+          "SOD1 mRNA에 결합해 RNase H에 의한 분해를 유도하고 SOD1 단백질 생성을 줄인다."
+        ],
+        "answer": 3,
+        "explanation": "Tofersen은(는) SOD1 표적 안티센스 올리고뉴클레오티드로 분류된다. SOD1 mRNA에 결합해 RNase H에 의한 분해를 유도하고 SOD1 단백질 생성을 줄인다.",
+        "sourcePages": [
+          17
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Tofersen의 용도로 제시한 것은?",
+        "choices": [
+          "오피오이드 유발 변비 치료",
+          "알츠하이머병의 아세틸콜린 분해 억제",
+          "SOD1 변이 관련 ALS",
+          "파킨슨병의 도파민 보충"
+        ],
+        "answer": 2,
+        "explanation": "SOD1 유전자 변이와 관련된 ALS에 사용된다. SOD1 변이와 관련된 표적 치료라는 점을 다른 ALS 약물과 구분한다.",
+        "sourcePages": [
+          17
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Tofersen의 주된 작용기전은 다음과 같다. SOD1 mRNA에 결합해 RNase H에 의한 분해를 유도하고 SOD1 단백질 생성을 줄인다.",
+      "b": "강의자료에서 Tofersen의 용도로 제시한 것은 'SOD1 변이 관련 ALS'이다.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 옳다. Tofersen의 정확한 기전: SOD1 mRNA에 결합해 RNase H에 의한 분해를 유도하고 SOD1 단백질 생성을 줄인다. B는 옳다. 강의자료에서 제시한 용도: SOD1 유전자 변이와 관련된 ALS에 사용된다.",
+      "sourcePages": [
+        17
+      ]
+    }
+  },
+  {
+    "id": "ch19-morphine",
+    "chapter": 19,
+    "name": "Morphine",
+    "nameKo": "모르핀",
+    "drugClass": "μ 오피오이드 수용체 작용 진통제",
+    "moa": "μ 수용체를 활성화해 시냅스전 Ca2+ 유입을 줄이고 시냅스후 K+ 통로를 열어 통증 전달을 억제한다.",
+    "uses": "급성·만성 중증 통증의 진통에 사용된다.",
+    "caution": "호흡억제, 변비, 내성·의존성이 중요하다.",
+    "source": {
+      "fileId": "source-4",
+      "pages": [
+        20,
+        21,
+        23
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "새 진통제의 비교 표준물질로 제시되는 μ 작용제이며 축동·변비·호흡억제가 특징인 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Naloxone",
+          "Methylnaltrexone",
+          "Ziconotide",
+          "Morphine"
+        ],
+        "answer": 3,
+        "explanation": "Morphine의 핵심 기전은 μ 수용체를 활성화해 시냅스전 Ca2+ 유입을 줄이고 시냅스후 K+ 통로를 열어 통증 전달을 억제한다. 강의자료의 용도는 급성·만성 중증 통증의 진통에 사용된다.",
+        "sourcePages": [
+          20,
+          21,
+          23
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Morphine의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "말초 μ 수용체만 길항한다.",
+          "N형 Ca2+ 채널을 직접 차단한다.",
+          "μ 수용체를 활성화해 시냅스전 Ca2+ 유입을 줄이고 시냅스후 K+ 통로를 열어 통증 전달을 억제한다.",
+          "μ 수용체를 경쟁적으로 차단한다."
+        ],
+        "answer": 2,
+        "explanation": "Morphine은(는) μ 오피오이드 수용체 작용 진통제로 분류된다. μ 수용체를 활성화해 시냅스전 Ca2+ 유입을 줄이고 시냅스후 K+ 통로를 열어 통증 전달을 억제한다.",
+        "sourcePages": [
+          20,
+          21,
+          23
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Morphine의 용도로 제시한 것은?",
+        "choices": [
+          "조현병의 D2 부분 작용 치료",
+          "급성·만성 중증 통증",
+          "알츠하이머병의 아밀로이드 제거",
+          "파킨슨병의 도파민 전구체 보충"
+        ],
+        "answer": 1,
+        "explanation": "급성·만성 중증 통증의 진통에 사용된다. 호흡억제, 변비, 내성·의존성이 중요하다.",
+        "sourcePages": [
+          20,
+          21,
+          23
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Morphine의 주된 작용기전은 다음과 같다. μ 수용체를 활성화해 시냅스전 Ca2+ 유입을 줄이고 시냅스후 K+ 통로를 열어 통증 전달을 억제한다.",
+      "b": "강의자료에서 Morphine의 용도로 제시한 것은 '조현병의 D2 부분 작용 치료'이다.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 옳다. Morphine의 정확한 기전: μ 수용체를 활성화해 시냅스전 Ca2+ 유입을 줄이고 시냅스후 K+ 통로를 열어 통증 전달을 억제한다. B는 틀리다. 강의자료에서 제시한 용도: 급성·만성 중증 통증의 진통에 사용된다.",
+      "sourcePages": [
+        20,
+        21,
+        23
+      ]
+    }
+  },
+  {
+    "id": "ch19-naloxone",
+    "chapter": 19,
+    "name": "Naloxone",
+    "nameKo": "날록손",
+    "drugClass": "오피오이드 수용체 길항제",
+    "moa": "오피오이드 수용체를 길항하여 오피오이드의 호흡억제를 역전한다.",
+    "uses": "오피오이드에 의한 호흡억제를 신속히 길항하는 약물로 제시된다.",
+    "caution": "작용시간이 짧아 길항 후 호흡억제가 다시 나타날 수 있다.",
+    "source": {
+      "fileId": "source-4",
+      "pages": [
+        21,
+        22
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "오피오이드에 의한 호흡억제를 신속히 길항하며, 상대적으로 짧은 작용시간 때문에 재마약화가 문제인 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Methadone",
+          "Buprenorphine",
+          "Naloxone",
+          "Morphine"
+        ],
+        "answer": 2,
+        "explanation": "Naloxone의 핵심 기전은 오피오이드 수용체를 길항하여 오피오이드의 호흡억제를 역전한다. 강의자료의 용도는 오피오이드에 의한 호흡억제를 신속히 길항하는 약물로 제시된다.",
+        "sourcePages": [
+          21,
+          22
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Naloxone의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "N형 Ca2+ 채널을 직접 차단한다.",
+          "오피오이드 수용체를 길항하여 오피오이드의 호흡억제를 역전한다.",
+          "μ 수용체를 완전히 활성화한다.",
+          "μ 수용체를 부분적으로 활성화한다."
+        ],
+        "answer": 1,
+        "explanation": "Naloxone은(는) 오피오이드 수용체 길항제로 분류된다. 오피오이드 수용체를 길항하여 오피오이드의 호흡억제를 역전한다.",
+        "sourcePages": [
+          21,
+          22
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Naloxone의 용도로 제시한 것은?",
+        "choices": [
+          "오피오이드에 의한 호흡억제 역전",
+          "파킨슨병의 도파민 보충",
+          "알츠하이머병의 아밀로이드 제거",
+          "소발작의 T형 칼슘채널 억제"
+        ],
+        "answer": 0,
+        "explanation": "오피오이드에 의한 호흡억제를 신속히 길항하는 약물로 제시된다. 작용시간이 짧아 길항 후 호흡억제가 다시 나타날 수 있다.",
+        "sourcePages": [
+          21,
+          22
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Naloxone의 주된 작용기전은 다음과 같다. N형 Ca2+ 채널을 직접 차단한다.",
+      "b": "강의자료에서 Naloxone의 용도로 제시한 것은 '오피오이드에 의한 호흡억제 역전'이다.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀리다. Naloxone의 정확한 기전: 오피오이드 수용체를 길항하여 오피오이드의 호흡억제를 역전한다. B는 옳다. 강의자료에서 제시한 용도: 오피오이드에 의한 호흡억제를 신속히 길항하는 약물로 제시된다.",
+      "sourcePages": [
+        21,
+        22
+      ]
+    }
+  },
+  {
+    "id": "ch19-methylnaltrexone",
+    "chapter": 19,
+    "name": "Methylnaltrexone",
+    "nameKo": "메틸날트렉손",
+    "drugClass": "말초 μ 오피오이드 수용체 길항제",
+    "moa": "BBB 통과가 제한되어 말초의 μ 수용체를 차단한다.",
+    "uses": "오피오이드 유발 변비(OIC)에 사용된다.",
+    "caution": "말초 작용을 통해 장의 오피오이드 효과를 줄이는 것이 핵심이다.",
+    "source": {
+      "fileId": "source-4",
+      "pages": [
+        22
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "말초 μ 수용체를 길항하며 오피오이드 유발 변비(OIC) 치료약으로 제시되는 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Tramadol",
+          "Methylnaltrexone",
+          "Morphine",
+          "Methadone"
+        ],
+        "answer": 1,
+        "explanation": "Methylnaltrexone의 핵심 기전은 BBB 통과가 제한되어 말초의 μ 수용체를 차단한다. 강의자료의 용도는 오피오이드 유발 변비(OIC)에 사용된다.",
+        "sourcePages": [
+          22
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Methylnaltrexone의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "BBB 통과가 제한되어 말초의 μ 수용체를 차단한다.",
+          "중추 μ 수용체를 완전히 활성화한다.",
+          "세로토닌·노르에피네프린 재흡수를 억제하는 것이 주된 기전이다.",
+          "N형 Ca2+ 채널을 직접 차단한다."
+        ],
+        "answer": 0,
+        "explanation": "Methylnaltrexone은(는) 말초 μ 오피오이드 수용체 길항제로 분류된다. BBB 통과가 제한되어 말초의 μ 수용체를 차단한다.",
+        "sourcePages": [
+          22
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Methylnaltrexone의 용도로 제시한 것은?",
+        "choices": [
+          "조현병의 D2 부분 작용 치료",
+          "파킨슨병의 도파민 보충",
+          "알츠하이머병의 아밀로이드 제거",
+          "오피오이드 유발 변비"
+        ],
+        "answer": 3,
+        "explanation": "오피오이드 유발 변비(OIC)에 사용된다. 말초 작용을 통해 장의 오피오이드 효과를 줄이는 것이 핵심이다.",
+        "sourcePages": [
+          22
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Methylnaltrexone의 주된 작용기전은 다음과 같다. 중추 μ 수용체를 완전히 활성화한다.",
+      "b": "강의자료에서 Methylnaltrexone의 용도로 제시한 것은 '조현병의 D2 부분 작용 치료'이다.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀리다. Methylnaltrexone의 정확한 기전: BBB 통과가 제한되어 말초의 μ 수용체를 차단한다. B는 틀리다. 강의자료에서 제시한 용도: 오피오이드 유발 변비(OIC)에 사용된다.",
+      "sourcePages": [
+        22
+      ]
+    }
+  },
+  {
+    "id": "ch19-methadone",
+    "chapter": 19,
+    "name": "Methadone",
+    "nameKo": "메타돈",
+    "drugClass": "장시간 작용 μ 오피오이드 작용제",
+    "moa": "μ 수용체를 활성화하며 NMDA 길항 작용도 갖는다.",
+    "uses": "만성 통증과 오피오이드 의존의 금단 완화·유지요법에 사용된다.",
+    "caution": "반감기의 개인차, 축적 및 QT 연장이 중요하다.",
+    "source": {
+      "fileId": "source-4",
+      "pages": [
+        22,
+        24
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "반감기가 길어 오피오이드 금단 완화·유지요법에 사용되고 QT 연장이 중요한 μ 작용제이다. 해당하는 약물은?",
+        "choices": [
+          "Methadone",
+          "Naloxone",
+          "Methylnaltrexone",
+          "Ziconotide"
+        ],
+        "answer": 0,
+        "explanation": "Methadone의 핵심 기전은 μ 수용체를 활성화하며 NMDA 길항 작용도 갖는다. 강의자료의 용도는 만성 통증과 오피오이드 의존의 금단 완화·유지요법에 사용된다.",
+        "sourcePages": [
+          22,
+          24
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Methadone의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "말초 μ 수용체만 차단한다.",
+          "오피오이드 수용체를 길항해 호흡억제를 신속히 역전한다.",
+          "N형 Ca2+ 채널을 직접 차단한다.",
+          "μ 수용체를 활성화하며 NMDA 길항 작용도 갖는다."
+        ],
+        "answer": 3,
+        "explanation": "Methadone은(는) 장시간 작용 μ 오피오이드 작용제로 분류된다. μ 수용체를 활성화하며 NMDA 길항 작용도 갖는다.",
+        "sourcePages": [
+          22,
+          24
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Methadone의 용도로 제시한 것은?",
+        "choices": [
+          "파킨슨병의 도파민 전구체 보충",
+          "소발작의 T형 칼슘채널 억제",
+          "만성 통증 및 오피오이드 의존 유지요법",
+          "알츠하이머병의 아밀로이드 제거"
+        ],
+        "answer": 2,
+        "explanation": "만성 통증과 오피오이드 의존의 금단 완화·유지요법에 사용된다. 반감기의 개인차, 축적 및 QT 연장이 중요하다.",
+        "sourcePages": [
+          22,
+          24
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Methadone의 주된 작용기전은 다음과 같다. μ 수용체를 활성화하며 NMDA 길항 작용도 갖는다.",
+      "b": "강의자료에서 Methadone의 용도로 제시한 것은 '만성 통증 및 오피오이드 의존 유지요법'이다.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 옳다. Methadone의 정확한 기전: μ 수용체를 활성화하며 NMDA 길항 작용도 갖는다. B는 옳다. 강의자료에서 제시한 용도: 만성 통증과 오피오이드 의존의 금단 완화·유지요법에 사용된다.",
+      "sourcePages": [
+        22,
+        24
+      ]
+    }
+  },
+  {
+    "id": "ch19-fentanyl",
+    "chapter": 19,
+    "name": "Fentanyl",
+    "nameKo": "펜타닐",
+    "drugClass": "고효력 μ 오피오이드 작용제",
+    "moa": "μ 오피오이드 수용체를 활성화해 통증 전달을 억제한다.",
+    "uses": "급성 통증과 마취 보조에 사용되며 경피 제형도 제시된다.",
+    "caution": "높은 지용성과 강한 호흡억제 위험이 중요하다.",
+    "source": {
+      "fileId": "source-4",
+      "pages": [
+        6,
+        20,
+        21,
+        24
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "고지용성의 강력한 μ 작용제로, 주사 및 경피 제형과 마취 보조 용도가 제시되는 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Naloxone",
+          "Methylnaltrexone",
+          "Ziconotide",
+          "Fentanyl"
+        ],
+        "answer": 3,
+        "explanation": "Fentanyl의 핵심 기전은 μ 오피오이드 수용체를 활성화해 통증 전달을 억제한다. 강의자료의 용도는 급성 통증과 마취 보조에 사용되며 경피 제형도 제시된다.",
+        "sourcePages": [
+          6,
+          20,
+          21,
+          24
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Fentanyl의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "말초 μ 수용체만 차단한다.",
+          "N형 Ca2+ 채널을 직접 차단한다.",
+          "μ 오피오이드 수용체를 활성화해 통증 전달을 억제한다.",
+          "오피오이드 수용체를 길항한다."
+        ],
+        "answer": 2,
+        "explanation": "Fentanyl은(는) 고효력 μ 오피오이드 작용제로 분류된다. μ 오피오이드 수용체를 활성화해 통증 전달을 억제한다.",
+        "sourcePages": [
+          6,
+          20,
+          21,
+          24
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Fentanyl의 용도로 제시한 것은?",
+        "choices": [
+          "조현병의 D2 부분 작용 치료",
+          "급성 통증과 마취 보조",
+          "파킨슨병의 도파민 보충",
+          "알츠하이머병의 아밀로이드 제거"
+        ],
+        "answer": 1,
+        "explanation": "급성 통증과 마취 보조에 사용되며 경피 제형도 제시된다. 높은 지용성과 강한 호흡억제 위험이 중요하다.",
+        "sourcePages": [
+          6,
+          20,
+          21,
+          24
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Fentanyl의 주된 작용기전은 다음과 같다. μ 오피오이드 수용체를 활성화해 통증 전달을 억제한다.",
+      "b": "강의자료에서 Fentanyl의 용도로 제시한 것은 '조현병의 D2 부분 작용 치료'이다.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 옳다. Fentanyl의 정확한 기전: μ 오피오이드 수용체를 활성화해 통증 전달을 억제한다. B는 틀리다. 강의자료에서 제시한 용도: 급성 통증과 마취 보조에 사용되며 경피 제형도 제시된다.",
+      "sourcePages": [
+        6,
+        20,
+        21,
+        24
+      ]
+    }
+  },
+  {
+    "id": "ch19-buprenorphine",
+    "chapter": 19,
+    "name": "Buprenorphine",
+    "nameKo": "부프레노르핀",
+    "drugClass": "μ 오피오이드 수용체 부분 작용제",
+    "moa": "μ 수용체에 강하게 결합하는 부분 작용제로 작용한다.",
+    "uses": "급성·만성 통증 및 오피오이드 의존 치료에 사용된다.",
+    "caution": "완전 작용제 의존 상태에서는 금단을 유발할 수 있다.",
+    "source": {
+      "fileId": "source-4",
+      "pages": [
+        24,
+        25
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "μ 수용체에 강하게 결합하지만 부분 작용제이므로 완전 작용제 의존 상태에서 금단을 유발할 수 있는 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Methadone",
+          "Naloxone",
+          "Buprenorphine",
+          "Morphine"
+        ],
+        "answer": 2,
+        "explanation": "Buprenorphine의 핵심 기전은 μ 수용체에 강하게 결합하는 부분 작용제로 작용한다. 강의자료의 용도는 급성·만성 통증 및 오피오이드 의존 치료에 사용된다.",
+        "sourcePages": [
+          24,
+          25
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Buprenorphine의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "N형 Ca2+ 채널을 직접 차단한다.",
+          "μ 수용체에 강하게 결합하는 부분 작용제로 작용한다.",
+          "μ 수용체의 순수 길항제이다.",
+          "말초 μ 수용체만 차단한다."
+        ],
+        "answer": 1,
+        "explanation": "Buprenorphine은(는) μ 오피오이드 수용체 부분 작용제로 분류된다. μ 수용체에 강하게 결합하는 부분 작용제로 작용한다.",
+        "sourcePages": [
+          24,
+          25
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Buprenorphine의 용도로 제시한 것은?",
+        "choices": [
+          "통증 및 오피오이드 의존 치료",
+          "알츠하이머병의 아밀로이드 제거",
+          "파킨슨병의 도파민 보충",
+          "소발작의 T형 칼슘채널 억제"
+        ],
+        "answer": 0,
+        "explanation": "급성·만성 통증 및 오피오이드 의존 치료에 사용된다. 완전 작용제 의존 상태에서는 금단을 유발할 수 있다.",
+        "sourcePages": [
+          24,
+          25
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Buprenorphine의 주된 작용기전은 다음과 같다. N형 Ca2+ 채널을 직접 차단한다.",
+      "b": "강의자료에서 Buprenorphine의 용도로 제시한 것은 '통증 및 오피오이드 의존 치료'이다.",
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "A는 틀리다. Buprenorphine의 정확한 기전: μ 수용체에 강하게 결합하는 부분 작용제로 작용한다. B는 옳다. 강의자료에서 제시한 용도: 급성·만성 통증 및 오피오이드 의존 치료에 사용된다.",
+      "sourcePages": [
+        24,
+        25
+      ]
+    }
+  },
+  {
+    "id": "ch19-tramadol",
+    "chapter": 19,
+    "name": "Tramadol",
+    "nameKo": "트라마돌",
+    "drugClass": "약한 μ 작용·SNRI 진통제",
+    "moa": "약한 μ 작용과 세로토닌·노르에피네프린 재흡수 억제를 함께 보인다.",
+    "uses": "통증 완화에 사용되는 진통제이다.",
+    "caution": "발작 역치 저하와 세로토닌성 약물 병용 시 세로토닌 증후군이 중요하다.",
+    "source": {
+      "fileId": "source-4",
+      "pages": [
+        25
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "약한 μ 작용과 SNRI 활성을 함께 가지며 CYP2D6 활성 대사체가 μ 작용에 기여하는 약물이다. 해당하는 약물은?",
+        "choices": [
+          "Ziconotide",
+          "Tramadol",
+          "Tapentadol",
+          "Naloxone"
+        ],
+        "answer": 1,
+        "explanation": "Tramadol의 핵심 기전은 약한 μ 작용과 세로토닌·노르에피네프린 재흡수 억제를 함께 보인다. 강의자료의 용도는 통증 완화에 사용되는 진통제이다.",
+        "sourcePages": [
+          25
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Tramadol의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "약한 μ 작용과 세로토닌·노르에피네프린 재흡수 억제를 함께 보인다.",
+          "말초 μ 수용체만 차단한다.",
+          "N형 Ca2+ 채널을 직접 차단한다.",
+          "아세틸콜린에스터레이스를 억제한다."
+        ],
+        "answer": 0,
+        "explanation": "Tramadol은(는) 약한 μ 작용·SNRI 진통제로 분류된다. 약한 μ 작용과 세로토닌·노르에피네프린 재흡수 억제를 함께 보인다.",
+        "sourcePages": [
+          25
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Tramadol의 용도로 제시한 것은?",
+        "choices": [
+          "알츠하이머병의 아밀로이드 제거",
+          "파킨슨병의 도파민 보충",
+          "소발작의 T형 칼슘채널 억제",
+          "통증 완화"
+        ],
+        "answer": 3,
+        "explanation": "통증 완화에 사용되는 진통제이다. 발작 역치 저하와 세로토닌성 약물 병용 시 세로토닌 증후군이 중요하다.",
+        "sourcePages": [
+          25
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Tramadol의 주된 작용기전은 다음과 같다. 말초 μ 수용체만 차단한다.",
+      "b": "강의자료에서 Tramadol의 용도로 제시한 것은 '알츠하이머병의 아밀로이드 제거'이다.",
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "A는 틀리다. Tramadol의 정확한 기전: 약한 μ 작용과 세로토닌·노르에피네프린 재흡수 억제를 함께 보인다. B는 틀리다. 강의자료에서 제시한 용도: 통증 완화에 사용되는 진통제이다.",
+      "sourcePages": [
+        25
+      ]
+    }
+  },
+  {
+    "id": "ch19-tapentadol",
+    "chapter": 19,
+    "name": "Tapentadol",
+    "nameKo": "타펜타돌",
+    "drugClass": "μ 작용·NRI 진통제",
+    "moa": "μ 수용체 작용과 노르에피네프린 재흡수 억제를 함께 보인다.",
+    "uses": "중등도 통증과 당뇨병성 신경병증성 통증에 사용된다.",
+    "caution": "오심, 어지러움, 변비와 진정이 제시된다.",
+    "source": {
+      "fileId": "source-4",
+      "pages": [
+        25
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "μ 작용과 NRI 활성을 함께 보이며, tramadol과 달리 대사 활성화가 필요 없다고 설명되는 진통제이다. 해당하는 약물은?",
+        "choices": [
+          "Tapentadol",
+          "Tramadol",
+          "Methylnaltrexone",
+          "Naloxone"
+        ],
+        "answer": 0,
+        "explanation": "Tapentadol의 핵심 기전은 μ 수용체 작용과 노르에피네프린 재흡수 억제를 함께 보인다. 강의자료의 용도는 중등도 통증과 당뇨병성 신경병증성 통증에 사용된다.",
+        "sourcePages": [
+          25
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Tapentadol의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "말초 μ 수용체만 차단한다.",
+          "오피오이드 수용체 길항으로 호흡억제를 역전한다.",
+          "N형 Ca2+ 채널을 직접 차단한다.",
+          "μ 수용체 작용과 노르에피네프린 재흡수 억제를 함께 보인다."
+        ],
+        "answer": 3,
+        "explanation": "Tapentadol은(는) μ 작용·NRI 진통제로 분류된다. μ 수용체 작용과 노르에피네프린 재흡수 억제를 함께 보인다.",
+        "sourcePages": [
+          25
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Tapentadol의 용도로 제시한 것은?",
+        "choices": [
+          "알츠하이머병의 아밀로이드 제거",
+          "산후우울증의 신경스테로이드 치료",
+          "중등도 통증과 당뇨병성 신경병증성 통증",
+          "파킨슨병의 도파민 보충"
+        ],
+        "answer": 2,
+        "explanation": "중등도 통증과 당뇨병성 신경병증성 통증에 사용된다. 오심, 어지러움, 변비와 진정이 제시된다.",
+        "sourcePages": [
+          25
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Tapentadol의 주된 작용기전은 다음과 같다. μ 수용체 작용과 노르에피네프린 재흡수 억제를 함께 보인다.",
+      "b": "강의자료에서 Tapentadol의 용도로 제시한 것은 '중등도 통증과 당뇨병성 신경병증성 통증'이다.",
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "A는 옳다. Tapentadol의 정확한 기전: μ 수용체 작용과 노르에피네프린 재흡수 억제를 함께 보인다. B는 옳다. 강의자료에서 제시한 용도: 중등도 통증과 당뇨병성 신경병증성 통증에 사용된다.",
+      "sourcePages": [
+        25
+      ]
+    }
+  },
+  {
+    "id": "ch19-ziconotide",
+    "chapter": 19,
+    "name": "Ziconotide",
+    "nameKo": "지코노타이드",
+    "drugClass": "N형 Ca2+ 채널 차단 비오피오이드 진통제",
+    "moa": "척수 후각 시냅스전 N형 Ca2+ 채널을 차단해 통증 전달물질 방출을 줄인다.",
+    "uses": "척수강내로 투여하는 만성 통증 진통제로 제시된다.",
+    "caution": "어지러움, 착란 등 정신신경계 부작용이 중요하다.",
+    "source": {
+      "fileId": "source-4",
+      "pages": [
+        25
+      ]
+    },
+    "questions": [
+      {
+        "type": "name",
+        "prompt": "청자고둥 독 유래 ω-conotoxin으로, N형 Ca2+ 채널을 막는 비오피오이드 진통제이다. 해당하는 약물은?",
+        "choices": [
+          "Fentanyl",
+          "Tramadol",
+          "Buprenorphine",
+          "Ziconotide"
+        ],
+        "answer": 3,
+        "explanation": "Ziconotide의 핵심 기전은 척수 후각 시냅스전 N형 Ca2+ 채널을 차단해 통증 전달물질 방출을 줄인다. 강의자료의 용도는 척수강내로 투여하는 만성 통증 진통제로 제시된다.",
+        "sourcePages": [
+          25
+        ]
+      },
+      {
+        "type": "moa",
+        "prompt": "Ziconotide의 작용기전으로 가장 적절한 것은?",
+        "choices": [
+          "μ 수용체를 부분적으로 활성화한다.",
+          "μ 작용과 SNRI 활성을 함께 보인다.",
+          "척수 후각 시냅스전 N형 Ca2+ 채널을 차단해 통증 전달물질 방출을 줄인다.",
+          "μ 수용체를 완전히 활성화한다."
+        ],
+        "answer": 2,
+        "explanation": "Ziconotide은(는) N형 Ca2+ 채널 차단 비오피오이드 진통제로 분류된다. 척수 후각 시냅스전 N형 Ca2+ 채널을 차단해 통증 전달물질 방출을 줄인다.",
+        "sourcePages": [
+          25
+        ]
+      },
+      {
+        "type": "use",
+        "prompt": "강의자료에서 Ziconotide의 용도로 제시한 것은?",
+        "choices": [
+          "조현병의 D2 부분 작용 치료",
+          "만성 통증의 척수강내 진통",
+          "파킨슨병의 도파민 보충",
+          "알츠하이머병의 아밀로이드 제거"
+        ],
+        "answer": 1,
+        "explanation": "척수강내로 투여하는 만성 통증 진통제로 제시된다. 어지러움, 착란 등 정신신경계 부작용이 중요하다.",
+        "sourcePages": [
+          25
+        ]
+      }
+    ],
+    "ab": {
+      "a": "Ziconotide의 주된 작용기전은 다음과 같다. 척수 후각 시냅스전 N형 Ca2+ 채널을 차단해 통증 전달물질 방출을 줄인다.",
+      "b": "강의자료에서 Ziconotide의 용도로 제시한 것은 '조현병의 D2 부분 작용 치료'이다.",
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "A는 옳다. Ziconotide의 정확한 기전: 척수 후각 시냅스전 N형 Ca2+ 채널을 차단해 통증 전달물질 방출을 줄인다. B는 틀리다. 강의자료에서 제시한 용도: 척수강내로 투여하는 만성 통증 진통제로 제시된다.",
+      "sourcePages": [
+        25
+      ]
+    }
+  }
+]
